@@ -2,7 +2,7 @@
 title: "Transatlantic Intellectual Networks"
 listing:
   contents:
-    - "posts/*.qmd"
+    - "dbw_*.qmd"
   sort: "date desc"
   type: default
   fields: [date, title, description]

@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Sharon Howard">
-<meta name="dcterms.date" content="2020-07-16">
+<meta name="dcterms.date" content="2020-07-17">
 
-<title>DBW’s networks with d3.js – DBW</title>
+<title>Exploring DBW’s correspondence – DBW</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,23 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,14 +69,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<script src="../site_libs/d3-4.9.1/d3.min.js"></script>
-<script src="../site_libs/forceNetwork-binding-0.4.1/forceNetwork.js"></script>
-<script src="../site_libs/kePrint-0.0.1/kePrint.js"></script>
-<link href="../site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
+<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
 
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -86,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">DBW</span>
     </a>
   </div>
@@ -97,11 +94,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -115,15 +112,39 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#changing-patterns-of-letters-to-dbw" id="toc-changing-patterns-of-letters-to-dbw" class="nav-link active" data-scroll-target="#changing-patterns-of-letters-to-dbw">changing patterns of letters to DBW</a></li>
+  <li><a href="#who-wrote-to-dbw-most-often" id="toc-who-wrote-to-dbw-most-often" class="nav-link" data-scroll-target="#who-wrote-to-dbw-most-often">who wrote to dbw most often?</a>
+  <ul class="collapse">
+  <li><a href="#how-much-did-this-change-over-time" id="toc-how-much-did-this-change-over-time" class="nav-link" data-scroll-target="#how-much-did-this-change-over-time">how much did this change over time?</a></li>
+  </ul></li>
+  <li><a href="#senders-who-mention-the-most-people" id="toc-senders-who-mention-the-most-people" class="nav-link" data-scroll-target="#senders-who-mention-the-most-people">senders who mention the most people…</a></li>
+  <li><a href="#which-people-were-mentioned-most-often" id="toc-which-people-were-mentioned-most-often" class="nav-link" data-scroll-target="#which-people-were-mentioned-most-often">which people were mentioned most often?</a>
+  <ul class="collapse">
+  <li><a href="#all-mentions-in-letter-texts" id="toc-all-mentions-in-letter-texts" class="nav-link" data-scroll-target="#all-mentions-in-letter-texts">all mentions in letter texts</a></li>
+  <li><a href="#restricted-to-correspondents" id="toc-restricted-to-correspondents" class="nav-link" data-scroll-target="#restricted-to-correspondents">restricted to correspondents</a></li>
+  </ul></li>
+  <li><a href="#where-did-correspondents-write-from" id="toc-where-did-correspondents-write-from" class="nav-link" data-scroll-target="#where-did-correspondents-write-from">where did correspondents write from?</a></li>
+  <li><a href="#networks" id="toc-networks" class="nav-link" data-scroll-target="#networks">networks</a>
+  <ul class="collapse">
+  <li><a href="#all-names" id="toc-all-names" class="nav-link" data-scroll-target="#all-names">all names</a></li>
+  <li><a href="#correspondents-only" id="toc-correspondents-only" class="nav-link" data-scroll-target="#correspondents-only">correspondents only</a></li>
+  <li><a href="#change-over-time" id="toc-change-over-time" class="nav-link" data-scroll-target="#change-over-time">change over time</a></li>
+  <li><a href="#names-list" id="toc-names-list" class="nav-link" data-scroll-target="#names-list">names list</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">DBW’s networks with d3.js</h1>
+<h1 class="title">Exploring DBW’s correspondence</h1>
 </div>
 
 
@@ -140,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">16 July 2020</p>
+      <p class="date">17 July 2020</p>
     </div>
   </div>
   
@@ -152,23 +173,213 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Simple interactive network graphs using the <a href="https://christophergandrud.github.io/networkD3/">networkD3</a> package.</p>
-<p>Network of all names</p>
-<p>at least 3 shared mentions</p>
+<p>Static visualisations of patterns and networks in DBW’s letters.</p>
+<p>NB: these are exploratory visualisations only. Some are still a bit rough round the edges (eg labelling).</p>
+<p>using the latest version of name linking</p>
+<p>Where minimum counts have been applied, this is as a rule simply for aesthetic reasons, to avoid overcrowding and keep graphs readable.</p>
+<section id="changing-patterns-of-letters-to-dbw" class="level2">
+<h2 class="anchored" data-anchor-id="changing-patterns-of-letters-to-dbw">changing patterns of letters to DBW</h2>
+<ul>
+<li>letters sent by DBW are excluded because they’re a small and unsystematic sample (from his letter books)</li>
+<li>all chronological analysis excludes 84 letters (out of 1090) that can’t be dated to a year (and a single letter sent in 1846, after DBW’s death)</li>
+</ul>
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-113ce89b2aa4791562c9" style="width:100%;height:650px;" class="forceNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-113ce89b2aa4791562c9">{"x":{"links":{"source":[13,35,78,15,78,90,15,13,31,13,16,90,67,52,89,24,53,83,68,11,35,35,88,13,78,10,2,31,32,56,15,23,15,23,89,32,53,78,37,77,11,52,51,35,77,66,35,35,25,35,11,13,13,78,13,81,78,13,13,89,19,81,15,56,90,78,19,13,14,90,37,13,81,3,89,90,70,46,34,33,12,12,17,76,55,76,27,11,49,4,88,46,42,76,52,80,33,35,33,33,80,35,80,35,80,80,25,25,52,35,21,35,52,35,21,76,35,80],"target":[81,80,10,56,16,67,23,24,44,0,64,84,84,21,90,0,12,35,35,41,40,29,48,78,28,16,32,32,44,23,22,22,87,87,73,33,33,82,75,11,66,35,42,63,41,41,85,58,74,21,54,88,48,39,16,32,26,90,67,67,59,15,6,6,20,64,36,82,61,86,45,3,3,70,8,8,65,11,71,12,17,69,69,52,25,35,35,35,35,72,5,41,50,80,80,85,18,57,9,47,40,30,30,62,29,21,7,38,79,79,79,60,1,1,1,43,43,43],"value":[13,12,11,11,9,8,8,6,6,6,6,6,6,6,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3],"colour":["#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666"]},"nodes":{"name":["aconstable","adavezac","agallatin","ajackson","annbiddle","annelee","bsbernard","calesueur","cathsampson","cjbresson","cmorgan","cpwhite","csumner","dbwarden","eagodefroy","elizcustis","elizpbonaparte","fcgray","fmignet","fpascalis","gengmason","geobancroft","ggibbs","gjdevereux","glmeason","gord","hcolburn","henryclay","hgregoire","hjburden","hledyard","hmwilliams","humboldt","hwheaton","icbarnet","itownsendjr","jberegnault","jccabell","jcfdeladoucette","jcmontgomery","jcspencer","jgadams","jgfwurdemann","jgreig","jhstone","jjambler","jjastor","jmdegerando","jochambers","johntownsend","jpchazal","jrpoinsett","jsparks","jstory","jthompson","jvaughan","lafayette","laurenhill","lewiscass","lvalentine","mgbiennais","mgodefroy","mmedegoulay","mmepotet","mmevillette","mreckeford","mrthompson","mtone","mvburen","nbowditch","nhcarter","nnilesjr","octaviadelany","psdeponceau","pvaughan","rhcabell","rwalshj","rwhite","slmorgan","syoung","thoshun","tjefferson","tmoore","trbeck","twilson","vwwelles","wcorbet","wcsomerville","wmacneven","wsampson","wtwtone"],"group":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91]},"options":{"NodeID":"label","Group":"id","colourScale":"d3.scaleOrdinal(d3.schemeCategory20);","fontSize":14,"fontFamily":"serif","clickTextSize":35,"linkDistance":50,"linkWidth":"function(d) { return Math.sqrt(d.value); }","charge":-30,"opacity":0.8,"zoom":true,"legend":false,"arrows":false,"nodesize":false,"radiusCalculation":" Math.sqrt(d.nodesize)+6","bounded":false,"opacityNoHover":true,"clickAction":null}},"evals":[],"jsHooks":[]}</script>
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_per_year-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
 </div>
 </div>
-<p>Network of correspondents only</p>
-<p>at least 2 shared mentions</p>
+</div>
+<p>Some of the letters written to DBW were letters of introduction; the proportions of these also changed over time and at least partly correlate with the overall pattern.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-48f9802594a138ebd7ea" style="width:100%;height:650px;" class="forceNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-48f9802594a138ebd7ea">{"x":{"links":{"source":[57,72,14,51,84,76,61,7,21,81,1,80,26,35,28,69,51,50,69,28,22,30,7,14,72,84,35,28,74,74,3,8,68,12,55,68,7,47,4,40,8,29,22,7,38,72,1,80,80,81,81,65,42,5,81,57,28,83,32,84,57,19,81,81,14,3,81,65,33,1,72,46,71,7,7,51,10,76,10,56,3,73,63,63,3,73,79,63,80,31,46,30,31,60,35,28,50,68,28,28,15,61,30,9,68,7,76,65,69,69,76,30,38,43,72,58,84,46,72,23,37],"target":[13,6,72,20,81,30,30,38,0,65,28,46,72,67,27,7,30,40,38,29,66,20,53,6,75,19,42,74,13,3,62,16,51,59,22,30,30,30,64,48,29,45,36,43,43,25,80,84,81,32,46,68,10,18,57,74,26,26,78,72,72,13,13,3,37,73,54,54,54,52,27,17,17,51,76,76,77,61,70,70,79,79,79,2,11,11,11,49,60,60,38,38,38,38,44,15,48,29,45,39,39,9,9,24,20,20,20,36,43,53,53,53,53,53,58,6,75,0,41,34,82],"value":[11,11,9,6,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],"colour":["#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666","#666"]},"nodes":{"name":["aconstable","agallatin","agsmith","ajackson","annbiddle","bconstant","cmorgan","cpwhite","csumner","ctbrooks","dhosack","djmccord","eagodefroy","elizcustis","elizpbonaparte","farago","fcgray","fpascalis","fwright","gengmason","geobancroft","glmeason","gord","gwmurray","harrietbrooks","hcolburn","hgregoire","hmwilliams","humboldt","hwheaton","itownsendjr","jawashington","jbrown","jbstevenson","jcaldwell","jccabell","jcfdeladoucette","jcwhite","jgadams","jgaylussac","jgfwurdemann","jhlawrence","jjambler","jjastor","jlcabell","jmdegerando","jochambers","johntownsend","jpchazal","jpcmacmahon","jrpoinsett","jsparks","jtbuckingham","jthompson","jvanderlyn","jvaughan","jwfrancis","lafayette","mbuchanan","mgodefroy","mpost","mvburen","nhcarter","nnilesjr","octaviadelany","psdeponceau","pvaughan","rhcabell","rwalshj","rwhite","samward","slmitchill","slmorgan","tcooper","tjefferson","tmoore","trbeck","wbogden","wcooper","wcrives","wmacneven","wsampson","wsinclair","wtaylor","wtwtone"],"group":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85]},"options":{"NodeID":"label","Group":"id","colourScale":"d3.scaleOrdinal(d3.schemeCategory20);","fontSize":14,"fontFamily":"serif","clickTextSize":35,"linkDistance":50,"linkWidth":"function(d) { return Math.sqrt(d.value); }","charge":-30,"opacity":0.8,"zoom":true,"legend":false,"arrows":false,"nodesize":false,"radiusCalculation":" Math.sqrt(d.nodesize)+6","bounded":false,"opacityNoHover":true,"clickAction":null}},"evals":[],"jsHooks":[]}</script>
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_intro_per_year-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
 </div>
 </div>
+</div>
+</section>
+<section id="who-wrote-to-dbw-most-often" class="level2">
+<h2 class="anchored" data-anchor-id="who-wrote-to-dbw-most-often">who wrote to dbw most often?</h2>
+<ul>
+<li>excludes unlinked names</li>
+<li>includes untranscribed letters</li>
+<li>correspondents who wrote at least 7 letters</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_frequent_senders-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<section id="how-much-did-this-change-over-time" class="level3">
+<h3 class="anchored" data-anchor-id="how-much-did-this-change-over-time">how much did this change over time?</h3>
+<ul>
+<li>the letters have been divided into two fairly evenly balanced periods, 1817-31 (451 letters) and 1832-45 (465)</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_senders_change-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="senders-who-mention-the-most-people" class="level2">
+<h2 class="anchored" data-anchor-id="senders-who-mention-the-most-people">senders who mention the most people…</h2>
+<ul>
+<li>excludes unlinked names and untranscribed letters (and DBW’s letters)</li>
+<li>correspondents who wrote at least 6 letters and mentioned at least 10 people in total</li>
+</ul>
+<p>(DBW mentions about 1.5 names per letter in his own letters)</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_senders_most_mentions-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="which-people-were-mentioned-most-often" class="level2">
+<h2 class="anchored" data-anchor-id="which-people-were-mentioned-most-often">which people were mentioned most often?</h2>
+<section id="all-mentions-in-letter-texts" class="level3">
+<h3 class="anchored" data-anchor-id="all-mentions-in-letter-texts">all mentions in letter texts</h3>
+<ul>
+<li>excludes the letter’s sender and recipient</li>
+<li>at least 7 mentions</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_senders_most_mentions_people-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="restricted-to-correspondents" class="level3">
+<h3 class="anchored" data-anchor-id="restricted-to-correspondents">restricted to correspondents</h3>
+<ul>
+<li>still excludes the sender/recipient of the letter</li>
+<li>at least 6 mentions</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_senders_most_mentions_correspondents-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>which <em>non</em>-correspondents were mentioned most often?</p>
+<ul>
+<li>at least 6 mentions</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_senders_most_mentions_noncorrespondents-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Though some organisations were mentioned far more often than people</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_senders_most_mentions_orgs-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="where-did-correspondents-write-from" class="level2">
+<h2 class="anchored" data-anchor-id="where-did-correspondents-write-from">where did correspondents write from?</h2>
+<ul>
+<li>NB that only about 57% of the letters have a place of origin</li>
+<li>“other” is mainly South America, plus I think one or two letters from north Africa</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_to_dbw_places_origin_treemap-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="networks" class="level2">
+<h2 class="anchored" data-anchor-id="networks">networks</h2>
+<p>These are graphs of co-occurring names in the letters. Darker lines = more co-occurrences.</p>
+<section id="all-names" class="level3">
+<h3 class="anchored" data-anchor-id="all-names">all names</h3>
+<ul>
+<li>using different colours to highlight correspondents and non-correspondents</li>
+<li>at least 3 co-occurrences</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_networks_people-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="correspondents-only" class="level3">
+<h3 class="anchored" data-anchor-id="correspondents-only">correspondents only</h3>
+<ul>
+<li>at least 2 co-occurrences</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_networks_correspondents-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="change-over-time" class="level3">
+<h3 class="anchored" data-anchor-id="change-over-time">change over time</h3>
+<ul>
+<li>1817-31 and 1832-45</li>
+<li>all co-occurring names</li>
+<li>at least 4 co-occurrences</li>
+<li>each side shows <em>all</em> names, whether mentioned in that period or not; this aids comparison but it means that not all names have connecting lines</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="dbw_static_viz_200718_files/figure-html/letters_networks_change-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="names-list" class="level3">
+<h3 class="anchored" data-anchor-id="names-list">names list</h3>
 <div class="cell">
 <div class="cell-output-display">
 <table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
@@ -525,6 +736,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
