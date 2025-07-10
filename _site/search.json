@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a small website of exploratory visualisations for the Transatlantic Intellectual Networks project (2020), by Sharon Howard."
+  },
+  {
+    "objectID": "posts/dbw_static_viz_200718.html",
+    "href": "posts/dbw_static_viz_200718.html",
+    "title": "Exploring DBW’s correspondence",
+    "section": "",
+    "text": "Static visualisations of patterns and networks in DBW’s letters.\nNB: these are exploratory visualisations only. Some are still a bit rough round the edges (eg labelling).\nusing the latest version of name linking\nWhere minimum counts have been applied, this is as a rule simply for aesthetic reasons, to avoid overcrowding and keep graphs readable."
+  },
+  {
+    "objectID": "posts/dbw_static_viz_200718.html#changing-patterns-of-letters-to-dbw",
+    "href": "posts/dbw_static_viz_200718.html#changing-patterns-of-letters-to-dbw",
+    "title": "Exploring DBW’s correspondence",
+    "section": "changing patterns of letters to DBW",
+    "text": "changing patterns of letters to DBW\n\nletters sent by DBW are excluded because they’re a small and unsystematic sample (from his letter books)\nall chronological analysis excludes 84 letters (out of 1090) that can’t be dated to a year (and a single letter sent in 1846, after DBW’s death)\n\n\n\n\n\n\n\n\n\n\nSome of the letters written to DBW were letters of introduction; the proportions of these also changed over time and at least partly correlate with the overall pattern."
+  },
+  {
+    "objectID": "posts/dbw_static_viz_200718.html#who-wrote-to-dbw-most-often",
+    "href": "posts/dbw_static_viz_200718.html#who-wrote-to-dbw-most-often",
+    "title": "Exploring DBW’s correspondence",
+    "section": "who wrote to dbw most often?",
+    "text": "who wrote to dbw most often?\n\nexcludes unlinked names\nincludes untranscribed letters\ncorrespondents who wrote at least 7 letters\n\n\n\n\n\n\n\n\n\n\n\nhow much did this change over time?\n\nthe letters have been divided into two fairly evenly balanced periods, 1817-31 (451 letters) and 1832-45 (465)"
+  },
+  {
+    "objectID": "posts/dbw_static_viz_200718.html#senders-who-mention-the-most-people",
+    "href": "posts/dbw_static_viz_200718.html#senders-who-mention-the-most-people",
+    "title": "Exploring DBW’s correspondence",
+    "section": "senders who mention the most people…",
+    "text": "senders who mention the most people…\n\nexcludes unlinked names and untranscribed letters (and DBW’s letters)\ncorrespondents who wrote at least 6 letters and mentioned at least 10 people in total\n\n(DBW mentions about 1.5 names per letter in his own letters)"
+  },
+  {
+    "objectID": "posts/dbw_static_viz_200718.html#which-people-were-mentioned-most-often",
+    "href": "posts/dbw_static_viz_200718.html#which-people-were-mentioned-most-often",
+    "title": "Exploring DBW’s correspondence",
+    "section": "which people were mentioned most often?",
+    "text": "which people were mentioned most often?\n\nall mentions in letter texts\n\nexcludes the letter’s sender and recipient\nat least 7 mentions\n\n\n\n\n\n\n\n\n\n\n\n\nrestricted to correspondents\n\nstill excludes the sender/recipient of the letter\nat least 6 mentions\n\n\n\n\n\n\n\n\n\n\nwhich non-correspondents were mentioned most often?\n\nat least 6 mentions\n\n\n\n\n\n\n\n\n\n\nThough some organisations were mentioned far more often than people"
+  },
+  {
+    "objectID": "posts/dbw_static_viz_200718.html#where-did-correspondents-write-from",
+    "href": "posts/dbw_static_viz_200718.html#where-did-correspondents-write-from",
+    "title": "Exploring DBW’s correspondence",
+    "section": "where did correspondents write from?",
+    "text": "where did correspondents write from?\n\nNB that only about 57% of the letters have a place of origin\n“other” is mainly South America, plus I think one or two letters from north Africa"
+  },
+  {
+    "objectID": "posts/dbw_static_viz_200718.html#networks",
+    "href": "posts/dbw_static_viz_200718.html#networks",
+    "title": "Exploring DBW’s correspondence",
+    "section": "networks",
+    "text": "networks\nThese are graphs of co-occurring names in the letters. Darker lines = more co-occurrences.\n\nall names\n\nusing different colours to highlight correspondents and non-correspondents\nat least 3 co-occurrences\n\n\n\n\n\n\n\n\n\n\n\n\ncorrespondents only\n\nat least 2 co-occurrences\n\n\n\n\n\n\n\n\n\n\n\n\nchange over time\n\n1817-31 and 1832-45\nall co-occurring names\nat least 4 co-occurrences\neach side shows all names, whether mentioned in that period or not; this aids comparison but it means that not all names have connecting lines\n\n\n\n\n\n\n\n\n\n\n\n\nnames list\n\n\n\n\n\nlabel\nname\n\n\n\n\naconstable\nArchibald Constable\n\n\nagallatin\nAlbert Gallatin\n\n\nagsmith\nAlban G. Smith\n\n\najackson\nAndrew Jackson\n\n\nannbiddle\nAnn Mullanphy Biddle\n\n\nbconstant\nBenjamin Constant\n\n\ncmorgan\nSir Charles Morgan\n\n\ncpwhite\nCampbell Patrick White\n\n\ncsumner\nCharles Sumner\n\n\nctbrooks\nCharles Timothy Brooks\n\n\ndhosack\nDavid Hosack\n\n\ndjmccord\nColonel David J. McCord\n\n\neagodefroy\nElizabeth Anderson Godefroy\n\n\nelizcustis\nElizabeth Parke Custis Law\n\n\nelizpbonaparte\nElizabeth Patterson Bonaparte\n\n\nfarago\nFrancois Arago\n\n\nfcgray\nF. C. Gray\n\n\nfpascalis\nDr Felix Pascalis\n\n\nfwright\nFrances Wright\n\n\ngengmason\nGeorge Mason VI\n\n\ngeobancroft\nGeorge Bancroft\n\n\nglmeason\nGilbert Laing Meason\n\n\ngord\nGeorge Ord\n\n\ngwmurray\nG. W. Murray\n\n\nharrietbrooks\nMrs Harriet Brooks\n\n\nhcolburn\nHenry Colburn\n\n\nhgregoire\nHenri Grégoire\n\n\nhmwilliams\nHelena Maria Williams\n\n\nhumboldt\nBaron Alexander de Humboldt\n\n\nhwheaton\nHenry Wheaton\n\n\nitownsendjr\nDr Isaiah Townsend, Jr.\n\n\njawashington\nDr James A. Washington\n\n\njbrown\nJames Brown\n\n\njbstevenson\nJohn B Stevenson\n\n\njcaldwell\nJohn Caldwell\n\n\njccabell\nJoseph C. Cabell\n\n\njcfdeladoucette\nBaron Jean Charles François de Ladoucette\n\n\njcwhite\nJohn Campbell White\n\n\njgadams\nDr John G Adams\n\n\njgaylussac\nJoseph Gay-Lussac\n\n\njgfwurdemann\nDr J. G. F. Wurdemann\n\n\njhlawrence\nJames Henry Lawrence\n\n\njjambler\nJohn Jacquelin Ambler\n\n\njjastor\nJohn Jacob Astor\n\n\njlcabell\nDr James Lawrence Cabell\n\n\njmdegerando\nJoseph-Marie de Gérando\n\n\njochambers\nJohn Chambers\n\n\njohntownsend\nDr John Townsend\n\n\njpchazal\nDr John Philip Chazal\n\n\njpcmacmahon\nColonel J. P. C. MacMahon\n\n\njrpoinsett\nJoel R. Poinsett\n\n\njsparks\nJared Sparks\n\n\njtbuckingham\nJoseph T. Buckingham\n\n\njthompson\nJonathan Thompson\n\n\njvanderlyn\nJohn Vanderlyn\n\n\njvaughan\nJohn Vaughan\n\n\njwfrancis\nDr John W. Francis\n\n\nlafayette\nMarquis de La Fayette\n\n\nmbuchanan\nM. Buchanan\n\n\nmgodefroy\nMaximilien Godefroy\n\n\nmpost\nMinturn Post\n\n\nmvburen\nMartin Van Buren\n\n\nnhcarter\nNathaniel Hazeltine Carter\n\n\nnnilesjr\nNathaniel Niles Jr.\n\n\noctaviadelany\nOctavia Mullanphy Delany Boyce\n\n\npsdeponceau\nPeter Stephen De Ponceau\n\n\npvaughan\nPetty Vaughan\n\n\nrhcabell\nRobert H. Cabell\n\n\nrwalshj\nRobert Walsh Jr\n\n\nrwhite\nRobert White\n\n\nsamward\nSamuel Ward\n\n\nslmitchill\nSamuel Latham Mitchill\n\n\nslmorgan\nSydney, Lady Morgan\n\n\ntcooper\nThomas Cooper\n\n\ntjefferson\nPresident Thomas Jefferson\n\n\ntmoore\nThomas Moore\n\n\ntrbeck\nTheodric Romeyn Beck\n\n\nwbogden\nWilliam B. Ogden\n\n\nwcooper\nW Cooper\n\n\nwcrives\nWilliam Cabell Rives\n\n\nwmacneven\nDr William James MacNeven\n\n\nwsampson\nWilliam Sampson\n\n\nwsinclair\nWilliam Sinclair\n\n\nwtaylor\nWilliam Taylor\n\n\nwtwtone\nWilliam Theobald Wolfe Tone"
+  },
+  {
+    "objectID": "posts/dbw_networks_d3_0715.html",
+    "href": "posts/dbw_networks_d3_0715.html",
+    "title": "DBW’s networks with d3.js",
+    "section": "",
+    "text": "Simple interactive network graphs using the networkD3 package.\nNetwork of all names\nat least 3 shared mentions\n\n\n\n\n\n\nNetwork of correspondents only\nat least 2 shared mentions\n\n\n\n\n\n\n\n\n\n\n\nlabel\nname\n\n\n\n\naconstable\nArchibald Constable\n\n\nagallatin\nAlbert Gallatin\n\n\nagsmith\nAlban G. Smith\n\n\najackson\nAndrew Jackson\n\n\nannbiddle\nAnn Mullanphy Biddle\n\n\nbconstant\nBenjamin Constant\n\n\ncmorgan\nSir Charles Morgan\n\n\ncpwhite\nCampbell Patrick White\n\n\ncsumner\nCharles Sumner\n\n\nctbrooks\nCharles Timothy Brooks\n\n\ndhosack\nDavid Hosack\n\n\ndjmccord\nColonel David J. McCord\n\n\neagodefroy\nElizabeth Anderson Godefroy\n\n\nelizcustis\nElizabeth Parke Custis Law\n\n\nelizpbonaparte\nElizabeth Patterson Bonaparte\n\n\nfarago\nFrancois Arago\n\n\nfcgray\nF. C. Gray\n\n\nfpascalis\nDr Felix Pascalis\n\n\nfwright\nFrances Wright\n\n\ngengmason\nGeorge Mason VI\n\n\ngeobancroft\nGeorge Bancroft\n\n\nglmeason\nGilbert Laing Meason\n\n\ngord\nGeorge Ord\n\n\ngwmurray\nG. W. Murray\n\n\nharrietbrooks\nMrs Harriet Brooks\n\n\nhcolburn\nHenry Colburn\n\n\nhgregoire\nHenri Grégoire\n\n\nhmwilliams\nHelena Maria Williams\n\n\nhumboldt\nBaron Alexander de Humboldt\n\n\nhwheaton\nHenry Wheaton\n\n\nitownsendjr\nDr Isaiah Townsend, Jr.\n\n\njawashington\nDr James A. Washington\n\n\njbrown\nJames Brown\n\n\njbstevenson\nJohn B Stevenson\n\n\njcaldwell\nJohn Caldwell\n\n\njccabell\nJoseph C. Cabell\n\n\njcfdeladoucette\nBaron Jean Charles François de Ladoucette\n\n\njcwhite\nJohn Campbell White\n\n\njgadams\nDr John G Adams\n\n\njgaylussac\nJoseph Gay-Lussac\n\n\njgfwurdemann\nDr J. G. F. Wurdemann\n\n\njhlawrence\nJames Henry Lawrence\n\n\njjambler\nJohn Jacquelin Ambler\n\n\njjastor\nJohn Jacob Astor\n\n\njlcabell\nDr James Lawrence Cabell\n\n\njmdegerando\nJoseph-Marie de Gérando\n\n\njochambers\nJohn Chambers\n\n\njohntownsend\nDr John Townsend\n\n\njpchazal\nDr John Philip Chazal\n\n\njpcmacmahon\nColonel J. P. C. MacMahon\n\n\njrpoinsett\nJoel R. Poinsett\n\n\njsparks\nJared Sparks\n\n\njtbuckingham\nJoseph T. Buckingham\n\n\njthompson\nJonathan Thompson\n\n\njvanderlyn\nJohn Vanderlyn\n\n\njvaughan\nJohn Vaughan\n\n\njwfrancis\nDr John W. Francis\n\n\nlafayette\nMarquis de La Fayette\n\n\nmbuchanan\nM. Buchanan\n\n\nmgodefroy\nMaximilien Godefroy\n\n\nmpost\nMinturn Post\n\n\nmvburen\nMartin Van Buren\n\n\nnhcarter\nNathaniel Hazeltine Carter\n\n\nnnilesjr\nNathaniel Niles Jr.\n\n\noctaviadelany\nOctavia Mullanphy Delany Boyce\n\n\npsdeponceau\nPeter Stephen De Ponceau\n\n\npvaughan\nPetty Vaughan\n\n\nrhcabell\nRobert H. Cabell\n\n\nrwalshj\nRobert Walsh Jr\n\n\nrwhite\nRobert White\n\n\nsamward\nSamuel Ward\n\n\nslmitchill\nSamuel Latham Mitchill\n\n\nslmorgan\nSydney, Lady Morgan\n\n\ntcooper\nThomas Cooper\n\n\ntjefferson\nPresident Thomas Jefferson\n\n\ntmoore\nThomas Moore\n\n\ntrbeck\nTheodric Romeyn Beck\n\n\nwbogden\nWilliam B. Ogden\n\n\nwcooper\nW Cooper\n\n\nwcrives\nWilliam Cabell Rives\n\n\nwmacneven\nDr William James MacNeven\n\n\nwsampson\nWilliam Sampson\n\n\nwsinclair\nWilliam Sinclair\n\n\nwtaylor\nWilliam Taylor\n\n\nwtwtone\nWilliam Theobald Wolfe Tone"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Transatlantic Intellectual Networks",
+    "section": "",
+    "text": "Some exploratory visualisations for Transatlantic Intellectual Networks (2020), a pilot project on the correspondence of David Bailie Warden (1772-1845).\n\n\n\n\n\n\n\n\n\nExploring DBW’s correspondence\n\n\n\n\n\n\n\n\n\n\n\n17 Jul 2020\n\n\n\n\n\n\n\nDBW’s networks with d3.js\n\n\n\n\n\n\n\n\n\n\n\n16 Jul 2020\n\n\n\n\n\n\nNo matching items"
+  }
+]

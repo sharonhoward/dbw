@@ -1,0 +1,571 @@
+---
+title: "Exploring DBW's correspondence"
+author: "Sharon Howard"
+date: "2020-07-17"
+execute: 
+  warning: false
+  message: false
+  echo: false 
+toc: true
+---
+
+Static visualisations of patterns and networks in DBW's letters.
+
+```{r include=FALSE}
+library(janitor)
+library(scales)
+library(knitr)
+library(kableExtra)
+library(tidytext)
+library(tidyverse)
+
+theme_set(theme_minimal()) # set preferred ggplot theme 
+
+
+library(widyr)
+library(RColorBrewer)
+
+library(ggrepel)
+library(ggthemes)
+
+library(tidygraph) 
+library(ggraph)
+library(igraph)
+
+# https://github.com/wilkox/treemapify
+library(treemapify)
+```
+
+
+
+```{r data, include=FALSE}
+
+#distinct places
+dbw_places <-
+  read_csv(here::here("data/dbw_places_distinct_final_0715.csv"))  
+
+#place instances
+dbw_places_n <-
+  read_csv(here::here("data/dbw_places_refs_final_0715.csv")) |>
+  left_join(dbw_places |> select(place_id, settlement, region, country, geog_name), by="place_id")
+
+
+# letters metadata
+
+dbw2_letters <-
+  read_csv(here::here("data/dbw2_letters_metadata_20200719.csv"))
+
+dbw3_letters <-
+  read_csv(here::here("data/dbw3_letters_metadata_20200719.csv")) |>
+  mutate(year = case_when(
+    year=="Undated letters" ~ NA_real_,
+    TRUE ~ as.double(year)
+  ))
+# year in dbw3 not numerical because it contains "Undated letters". 
+
+dbw_letters_metadata <-
+  bind_rows(
+    dbw2_letters |> mutate(src="dbw2"),
+    dbw3_letters |> mutate(src="dbw3")
+  ) |>
+  # exclude not letters
+  filter(is.na(query)) |>
+  mutate(year_when = parse_number(str_sub(date_when, 1, 4))) |>
+  # year for doing stuff
+  mutate(year_a = case_when(
+    obj_id %in% c("obj1114", "obj1116") ~ year_when,
+    !is.na(year) ~ year,
+    is.na(year) & !is.na(year_when) ~ year_when
+  ))  |>
+  # 2 periods and 4 periods as evenly divided as possible; dbw letters NAed
+  mutate(p2ed = case_when(
+    sender_id=="ppl:dbw" ~ NA_real_,
+    is.na(year_a) ~ 0,
+    between(year_a, 1817, 1831) ~ 1,
+    between(year_a, 1831, 1846) ~ 2
+  )) |>
+  mutate(p4ed = case_when(
+    sender_id =="ppl:dbw" ~ NA_real_,
+    is.na(year_a) ~ 0,
+    between(year_a, 1817, 1823) ~ 1,
+    between(year_a, 1824, 1831) ~ 2,
+    between(year_a, 1832, 1836) ~ 3,
+    between(year_a, 1837, 1846) ~ 4
+  )) 
+
+# updated final versions...
+
+dbw_short_names_csv <-
+  read_csv(here::here("data/dbw_short_names_v3_linkage_200715.csv"))
+
+# people
+dbw_ref_persnames <-
+  read_csv(here::here("data/dbw_people_distinct_v3_linkage_20200717.csv"))
+
+# orgs
+dbw_ref_orgnames <-
+  read_csv(here::here("data/dbw_orgs_distinct_final_20200717.csv"))
+
+#add the prefixes to ref_names at least for now
+#name_d_id "d" for distinct, so it's a bit clearer to you these are the unique refs
+dbw_ref_names <-
+  bind_rows(
+    dbw_ref_persnames |> mutate(name_d_id=paste0("ppl:", name_id)),
+    dbw_ref_orgnames |> mutate(name_d_id = paste0("org:", name_id))
+  ) |>
+  left_join(dbw_short_names_csv, by="name_d_id")
+
+# name instances with name ids
+dbw2_names <-
+  read_csv(here::here("data/dbw2_names_refs_linking_final_20200717.csv"))
+
+dbw3_names <-
+  read_csv(here::here("data/dbw3_names_refs_linking_final_20200717.csv"))
+
+dbw_names <-
+  bind_rows(
+    dbw2_names |> mutate(src="dbw2"), 
+    dbw3_names |> mutate(src="dbw3")
+  )  |>
+  rename(name_inst=name, name_d_id=name_ref, obj_id=div_id) |>
+  left_join(dbw_ref_names, by=c("name_d_id")) |> 
+  # # @ref can contain more than one id sep by space; causes various problems, only two names, get rid for now
+  filter(!str_detect(name_d_id, " ")) |>
+  select(name_d_id, name,  role, name_n, obj_id, src, everything())
+
+# correspondents only
+dbw_names_correspondents <-
+dbw_names |>
+  filter(!is.na(name_d_id)) |>
+  left_join(
+  dbw_names |>
+  filter(!is.na(name_d_id), role %in% c("recipient", "sender") #, name_d_id !="ppl:dbw"
+         ) |> 
+  distinct(name_d_id) |>
+  mutate(corr_type = case_when(
+    name_d_id=="ppl:dbw" ~ "dbw",
+    str_detect(name_d_id, "^org") ~ "org",
+    str_detect(name_d_id, "^ppl") ~ "ppl"
+  ))  , by="name_d_id"
+  ) |>
+  mutate(name_type = case_when(
+    name_d_id=="ppl:dbw" ~ "dbw",
+    !is.na(corr_type) ~ "corr",
+    TRUE ~ "non-c"
+  )) |>
+  arrange(obj_id) |>
+  select(name_d_id, name, name_type, corr_type, role, short_name, name_n, obj_id, src, old_id) 
+
+
+#using widyr::pairwise to create pairs for edges list
+# dbw_corr_pair <-
+# dbw_names_correspondents |>
+#   add_count(name_d_id, name="n_m_corr") |>
+#   filter(corr_type=="ppl", n_m_corr>2) |>
+#   #mutate(name_d_id = str_remove(name_d_id, "ppl:")) |>
+#   pairwise_count(short_name, obj_id, upper=F, sort=T)
+
+
+```
+
+
+NB: these are exploratory visualisations only. Some are still a bit rough round the edges (eg labelling).
+
+using the latest version of name linking
+
+Where minimum counts have been applied, this is as a rule simply for aesthetic reasons, to avoid overcrowding and keep graphs readable.
+
+## changing patterns of letters to DBW
+
+- letters sent by DBW are excluded because they're a small and unsystematic sample (from his letter books)
+- all chronological analysis excludes 84 letters (out of 1090) that can't be dated to a year (and a single letter sent in 1846, after DBW's death)
+
+```{r letters_to_dbw_per_year}
+# remember to use year_a not year!!!
+dbw_letters_metadata |>
+  filter(!is.na(year_a), sender_id !="ppl:dbw", year_a<1846) |>
+  count(year_a) |>
+  ggplot(aes(year_a, n)) +
+  geom_col() +
+  labs(title="letters sent to DBW per year, 1817-1845", x="year", y="number of letters")
+```
+
+
+Some of the letters written to DBW were letters of introduction; the proportions of these also changed over time and at least partly correlate with the overall pattern.
+
+```{r letters_to_dbw_intro_per_year}
+dbw_letters_metadata |>
+  left_join(
+dbw_names_correspondents |>
+  filter(str_detect(role, "intro")) |>
+  mutate(l = "intro") |>
+  distinct(obj_id, l), by=c("obj_id")
+) |>
+  filter(sender_id !="ppl:dbw"|is.na(sender_id)) |>
+  mutate(i = case_when(
+    l=="intro" ~ "intro",
+    TRUE ~ "other"
+  )) |>
+  add_count(year_a, name="n_yr") |>
+  filter(!is.na(year_a)) |>
+  count(year_a, i, n_yr) |>
+  mutate(r = n/n_yr*100) |> filter(i=="intro", year_a<1846) |>
+  ggplot(aes(year_a, r)) +
+  geom_col() +
+  labs(y="% of letters", x="year", title = "Percentage of letters to DBW that were letters of introduction, by year, 1818-45")
+```
+
+
+## who wrote to dbw most often?
+
+- excludes unlinked names
+- includes untranscribed letters
+- correspondents who wrote at least 7 letters
+
+```{r letters_to_dbw_frequent_senders}
+dbw_letters_metadata |>
+  select(obj_id, recipient_id, year=year_a) |>
+  filter(recipient_id=="ppl:dbw") |>
+  inner_join(
+    dbw_names |>
+      select(name_d_id, name, role, obj_id, name_n) |>
+      filter(role=="sender", !is.na(name_d_id)), by="obj_id"
+    ) |>
+  count(name_d_id, name, sort = TRUE) |>
+  mutate(name = fct_reorder(name, n)) |>
+  filter(n>6) |>
+  ggplot(aes(name, n)) +
+  geom_col() +
+  coord_flip() +
+  labs(y="letters", x=NULL, title="Who wrote to DBW most often?")
+```
+
+
+### how much did this change over time?
+
+- the letters have been divided into two fairly evenly balanced periods, 1817-31 (451 letters) and 1832-45 (465)
+
+```{r letters_to_dbw_senders_change}
+dbw_letters_metadata |>
+  select(obj_id, recipient_id, p2ed) |>
+  filter(recipient_id=="ppl:dbw", p2ed !=0) |>
+  inner_join(
+    dbw_names |>
+      select(name_d_id, name, role, obj_id, name_n) |>
+      filter(role=="sender", !is.na(name_d_id), str_detect(name_d_id, "ppl:")), by="obj_id"
+    ) |>  
+  mutate(p2ed = case_when(
+    p2ed==1 ~ "1817-1831",
+    p2ed==2 ~ "1832-1845"
+  ))  |>
+  count(name_d_id, name, p2ed) |>
+  group_by(p2ed) |>
+  top_n(20, n) |>
+  ungroup() |>
+  mutate(name = reorder_within(name, n, p2ed)) |>
+  ggplot(aes(name, n, fill=p2ed)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~p2ed, scales = "free_y") +
+  coord_flip() +
+  scale_x_reordered() +
+  scale_y_continuous(expand = c(0,0)) +
+  scale_fill_tableau() +
+  labs(x=NULL, y=NULL, title="Changes in who wrote to DBW most often")
+ 
+```
+
+
+## senders who mention the most people...
+
+- excludes unlinked names and untranscribed letters (and DBW's letters)
+- correspondents who wrote at least 6 letters and mentioned at least 10 people in total
+
+(DBW mentions about 1.5 names per letter in his own letters)
+
+```{r letters_to_dbw_senders_most_mentions}
+dbw_letters_metadata |>
+  filter(!is.na(sender_id), is.na(untranscribed), sender_id !="ppl:dbw") |>
+  select(obj_id, year_a, sender_id, recipient_id) |>
+  add_count(sender_id, name="n_s_l") |>
+  inner_join(
+    dbw_names |> 
+      select(name_d_id, obj_id, name_n, name, role) |>
+      filter(!role %in% c("sender", "recipient") | is.na(role)), by=c("obj_id")
+  ) |>
+  filter(!is.na(name_d_id)) |>
+  count(sender_id, n_s_l, name="n_t_sender", sort=TRUE) |>
+  filter(n_s_l>5, n_t_sender>9) |>
+  inner_join(
+    dbw_ref_names |> select(sender_id=name_d_id, name), by="sender_id"
+  ) |>
+  mutate(sm = n_t_sender/n_s_l) |> 
+  mutate(name = fct_reorder(name, sm)) |>
+  ggplot(aes(x=name, y=sm)) +
+  geom_col() +
+  coord_flip() +
+  labs(x=NULL, y="names per letter", title="Which senders mention the most people?")
+```
+
+
+## which people were mentioned most often?
+
+### all mentions in letter texts 
+
+- excludes the letter's sender and recipient
+- at least 7 mentions 
+
+```{r letters_to_dbw_senders_most_mentions_people}
+dbw_names |>
+  filter(is.na(role) | !role %in% c("sender", "recipient") ) |>
+  filter(!is.na(name_d_id), name_d_id !="ppl:dbw", str_detect(name_d_id, "ppl:")) |>
+  count(name_d_id, name, sort=TRUE) |>
+  filter(n>6) |>
+  mutate(name = fct_reorder(name, n)) |>
+  ggplot(aes(x=name, y=n)) +
+  geom_col() +
+  coord_flip() +
+  labs(x=NULL, y="mentions", title="Which people were mentioned most often in letters?")
+```
+
+
+### restricted to correspondents 
+
+- still excludes the sender/recipient of the letter
+- at least 6 mentions
+
+```{r letters_to_dbw_senders_most_mentions_correspondents}
+dbw_names_correspondents |>
+  filter(name_type=="corr") |>
+  filter(is.na(role) | !role %in% c("sender", "recipient") ) |>
+  filter(!is.na(name_d_id), name_d_id !="ppl:dbw", str_detect(name_d_id, "ppl:")) |>
+  count(name_d_id, name, sort=TRUE) |>
+  filter(n>5) |>
+  mutate(name = fct_reorder(name, n)) |>
+  ggplot(aes(x=name, y=n)) +
+  geom_col() +
+  coord_flip() +
+  labs(x=NULL, y="mentions", title="Which correspondents were mentioned most often in letters?")
+```
+
+which *non*-correspondents were mentioned most often?
+
+- at least 6 mentions
+
+```{r letters_to_dbw_senders_most_mentions_noncorrespondents}
+dbw_names |>
+  filter(is.na(role) | !role %in% c("sender", "recipient") ) |>
+  filter(!is.na(name_d_id), name_d_id !="ppl:dbw", str_detect(name_d_id, "ppl:")) |>
+  anti_join(dbw_names_correspondents |> filter(name_type=="corr"), by="name_d_id") |>
+  count(name_d_id, name, sort=TRUE) |>
+  filter(n>5) |>
+  mutate(name = fct_reorder(name, n)) |>
+  ggplot(aes(x=name, y=n)) +
+  geom_col() +
+  coord_flip() +
+  labs(x=NULL, y="mentions", title="Which non-correspondents were mentioned most often in letters?")
+```
+
+Though some organisations were mentioned far more often than people
+
+```{r letters_to_dbw_senders_most_mentions_orgs}
+dbw_names |>
+  filter(is.na(role) | !role %in% c("sender", "recipient") ) |> 
+  filter(!is.na(name_d_id), name_d_id !="ppl:dbw", !str_detect(name_d_id, "ppl:")) |>
+  count(name_d_id, name, sort=TRUE) |>
+  filter(n>3) |>
+  mutate(name = fct_reorder(name, n)) |>
+  ggplot(aes(x=name, y=n)) +
+  geom_col() +
+  coord_flip() +
+  labs(x=NULL, y="mentions", title="Which organisations were mentioned most often?")
+```
+
+
+## where did correspondents write from?
+
+- NB that only about 57% of the letters have a place of origin
+- "other" is mainly South America, plus I think one or two letters from north Africa
+
+
+```{r letters_to_dbw_places_origin_treemap}
+dbw_letters_metadata |>
+  left_join(dbw_places_n |> select(-obj_id), by=c("place_n"="name_n")) |>
+  select(obj_id, recipient_id, year=year_a, country) |>
+  filter(recipient_id=="ppl:dbw", !is.na(country)) |>
+  mutate(country = case_when(
+    country %in% c("Cuba", "Guatemala"	, "Mexico", "Libya") ~ "other",
+    country %in% c("Spain", "Austria", "Netherlands") ~ "other Europe",
+    TRUE ~ country
+  )) |>
+  count(country, sort = T) |>
+
+  ggplot(aes(area=n, fill=country, label=country)) +
+  geom_treemap() +
+  geom_treemap_text(colour = "black", place = "topleft", reflow = T) +
+  scale_fill_brewer(palette = "Paired") +
+  guides(fill="none")
+```
+
+
+## networks
+
+```{r}
+dbw_corr_pair <-
+dbw_names_correspondents |>
+  add_count(name_d_id, name="n_m_corr") |>
+  filter(corr_type=="ppl") |>
+  pairwise_count(short_name, obj_id, upper=F, sort=T) |>
+  filter(n>1)
+
+
+dbw_name_chron_graph <-
+dbw_names |>
+  select(name_d_id, name, short_name, obj_id) |>
+  left_join(dbw_letters_metadata |> select(obj_id, year, p2ed), by="obj_id") |>
+  filter(!is.na(name_d_id), str_detect(name_d_id, "ppl:"), name_d_id !="ppl:dbw")|>
+  filter(!is.na(p2ed), p2ed>0) |>  
+  mutate(p2ed = case_when(
+    p2ed==1 ~ "1817-1831",
+    p2ed==2 ~ "1832-1845"
+  ))  |>
+  mutate(name_p2 = paste(str_remove(short_name, "ppl:"), p2ed, sep="__")) |>
+  #add_count(name_corr, name="n_m_person") |>
+  #filter(n_m_person>4) |>
+  pairwise_count(name_p2, obj_id, upper=F, sort=T)  |>
+  rename(from=item1, to=item2)  |>
+  filter(n>3) |>
+  separate(to, into=c("to", "p"), sep="__+") |> 
+  mutate(from=str_replace(from, "__.+$", ""), weight=n) |>
+  as_tbl_graph(directed=FALSE)
+
+## wtaf were you doing with this code? it works but it looks horrifically over complicated
+
+dbw_names_nodes <-
+dbw_names |>
+  select(name_d_id, name, short_name, obj_id, name_id, name_n) |>
+  left_join(dbw_names_correspondents |> select(name_n, name_type), by="name_n") |>
+  # left_join(
+  #   dbw_short_names |>
+  #     select(short_name, name_d_id), by="name_d_id"
+  # ) |>
+  filter(!is.na(name_d_id), str_detect(name_d_id, "ppl:"), name_d_id !="ppl:dbw") |>
+#   #add_count(name_corr, name="n_m_person") |>
+#   #filter(n_m_person>4) |>
+  distinct(short_name, name_type) |>
+#   filter(n>3) |>
+  rename(name=short_name)
+
+dbw_names_pair_count <-
+dbw_names |>
+  select(name_d_id, name, short_name, obj_id, name_id, name_n) |>
+  filter(!is.na(name_d_id), str_detect(name_d_id, "ppl:"), name_d_id !="ppl:dbw") |>
+  # add_count(short_name, name="n_m_person") |>
+  # filter(n_m_person>4) |>
+  pairwise_count(short_name, obj_id, upper=F, sort=T)  |>
+  rename(from=item1, to=item2)  |>
+  filter(n>2)
+
+dbw_names_nodes_pair <-
+  dbw_names_pair_count |>
+  select(from, to) |>
+  gather(key="a") |>
+  distinct(value) |> rename(name=value) |>
+  inner_join(dbw_names_nodes, by="name") 
+
+dbw_pair_names_count_graph <-
+  tbl_graph(edges=dbw_names_pair_count, directed = FALSE, nodes=dbw_names_nodes_pair)
+```
+
+
+
+These are graphs of co-occurring names in the letters. Darker lines = more co-occurrences. 
+
+### all names 
+
+- using different colours to highlight correspondents and non-correspondents
+- at least 3 co-occurrences
+
+```{r letters_networks_people}
+# layout is not exactly the same as the original, inspite of the set.seed
+set.seed(1234)
+dbw_pair_names_count_graph |>
+   ggraph(layout = "nicely") +
+   geom_edge_diagonal(aes(edge_alpha = n),
+                  show.legend = FALSE) +
+   geom_node_point(size = 1, aes(colour=name_type)) +
+   geom_node_text(aes(label = name, colour=name_type), repel = TRUE,
+                  point.padding = unit(0.2, "lines"), size=3) +
+   theme_void() +
+  scale_color_brewer(palette = "Dark2") +
+  labs(title="DBW's networks")
+```
+
+### correspondents only
+
+- at least 2 co-occurrences
+
+```{r letters_networks_correspondents}
+# layout also different
+set.seed(1234)
+dbw_corr_pair |>
+  filter(n>1) |>
+  graph_from_data_frame() |>
+   ggraph(layout = "nicely") +
+  
+   geom_edge_diagonal(aes(edge_alpha = n), #edge_colour = "darkgreen", 
+                  show.legend = FALSE) +
+   geom_node_point(size = 1, colour="darkgreen") +
+   geom_node_text(aes(label = name), repel = TRUE, 
+                  point.padding = unit(0.1, "lines"), size=3, colour="darkgreen") +
+   theme_void() +
+  labs(title="Networks of DBW's correspondents")
+  
+```
+
+
+
+### change over time
+
+- 1817-31 and 1832-45
+- all co-occurring names
+- at least 4 co-occurrences
+- each side shows *all* names, whether mentioned in that period or not; this aids comparison but it means that not all names have connecting lines
+
+```{r letters_networks_change}
+# chord diagram, faceted
+set.seed(1234)
+dbw_name_chron_graph |>
+  ggraph(layout = 'linear', circular = TRUE) +
+  geom_edge_arc(aes(edge_alpha = weight, colour=p), edge_width=1, show.legend = FALSE) +
+   geom_node_point(size = 1) +
+   geom_node_text(aes(label = name), repel = TRUE, point.padding = unit(0.01, "lines"),   size=2.5) +
+  facet_edges(~p) +
+  scale_edge_color_brewer(palette="Dark2") +
+   theme_void() +
+  labs("Changes in DBW's networks")
+```
+
+
+
+### names list
+
+
+```{r}
+
+kable(
+  dbw_corr_pair |>
+  filter(n>1) |>
+  select(-n) |>
+  pivot_longer(item1:item2, names_to="t", values_to = "label") |>
+  arrange(label) |>
+  distinct(label) |>
+  inner_join(
+    dbw_ref_names |> select(short_name, name) #|> mutate(name_id=str_remove(name_id, "ppl:"))
+    , by=c("label"="short_name")
+  )
+ ) |>
+  kable_styling()
+```
+
+
+

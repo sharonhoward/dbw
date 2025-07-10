@@ -1,0 +1,399 @@
+place_id,name_cln,text,unknown_uncertain,geog_name,address,settlement,region,country,continent,modern_french_region,name_n_ids
+place_001,Aix,Aix,,,,Aix-en-Provence,Bouches-du-Rhone,France,,Provence-Alpes-Cote d'Azur,obj807-pl-94
+place_002,Alabama,Alabama,,,,,Alabama,United States of America,,,obj1330-pl-41
+place_003,Albany,Albany,,,,Albany,New York state,United States of America,,,obj1278-pl-807 || obj1340-pl-58 || obj1361-pl-86 || obj1444-pl-215 || obj1515-pl-356 || obj1532-pl-409 || obj1629-pl-584 || obj1649-pl-609 || obj1651-pl-613 || obj1660-pl-630 || obj1660-pl-632 || obj1662-pl-640 || obj1662-pl-647 || obj1719-pl-734 || obj1728-pl-750 || obj1731-pl-754 || obj1746-pl-773 || obj1754-pl-787 || obj1764-pl-813 || obj1766-pl-816 || obj1771-pl-829 || obj1774-pl-837 || obj1776-pl-841 || obj1781-pl-846 || obj1782-pl-848 || obj1784-pl-853
+place_004,Algiers,Algiers,,,,Algiers,,Algeria,,,obj1862-pl-939
+place_005,America,America,,,,,,United States of America,,,obj763-pl-17 || obj801-pl-81 || obj802-pl-83 || obj804-pl-86 || obj842-pl-136 || obj846-pl-139 || obj861-pl-168 || obj897-pl-215 || obj899-pl-219 || obj902-pl-228 || obj908-pl-234 || obj909-pl-244 || obj935-pl-264 || obj951-pl-287 || obj952-pl-300 || obj952-pl-302 || obj969-pl-327 || obj991-pl-356 || obj1004-pl-375 || obj1017-pl-390 || obj1041-pl-425 || obj1137-pl-588 || obj1174-pl-648 || obj1200-pl-680 || obj1215-pl-704 || obj1248-pl-737 || obj1252-pl-744 || obj1259-pl-764 || obj1295-pl-839 || obj1318-pl-18 || obj1422-pl-173 || obj1423-pl-176 || obj1492-pl-314 || obj1495-pl-324 || obj1569-pl-486 || obj1628-pl-581 || obj1644-pl-597 || obj1670-pl-665 || obj1723-pl-743 || obj1760-pl-807 || obj1812-pl-867 || obj1825-pl-875 || obj1834-pl-893
+place_006,Amsterdam,Amsterdam,,,,Amsterdam,,Netherlands,,,obj895-pl-208 || obj897-pl-217 || obj1032-pl-411 || obj1602-pl-545
+place_007,Andalucia,Andalucia,,,,,Andalucia,Spain,,,obj1528-pl-386
+place_008,Armagh,Armagh,,,,Armagh,Armagh,Ireland,,,obj1555-pl-455
+place_009,Asia,Asia,,,,,,,Asia,,obj1670-pl-666
+place_010,Augusta,Augusta,,,,Augusta,Georgia,United States of America,,,obj1546-pl-439
+place_011,Austria,Austria,,,,,,Austria,,,obj1588-pl-517
+place_012,Baltimore,[Baltimore?],,,,Baltimore,Maryland,United States of America,,,obj837-pl-126
+place_013,Baltimore,Baltimore,,,,Baltimore,Maryland,United States of America,,,obj813-pl-100 || obj813-pl-101 || obj815-pl-103 || obj832-pl-112 || obj834-pl-114 || obj835-pl-116 || obj836-pl-119 || obj853-pl-151 || obj853-pl-156 || obj895-pl-212 || obj948-pl-281 || obj951-pl-289 || obj963-pl-315 || obj994-pl-360 || obj994-pl-361 || obj1070-pl-460 || obj1105-pl-526 || obj1184-pl-659 || obj1194-pl-676 || obj1215-pl-702 || obj1233-pl-716 || obj1237-pl-723 || obj1268-pl-785 || obj1282-pl-816 || obj1336-pl-57 || obj1382-pl-113 || obj1383-pl-118 || obj1452-pl-238 || obj1454-pl-244 || obj1457-pl-249 || obj1512-pl-348 || obj1534-pl-416 || obj1542-pl-430 || obj1547-pl-448 || obj1575-pl-499 || obj1628-pl-579 || obj1733-pl-756
+place_014,Banisleu,Banisleu,Banisleu,,,,,France,,,obj910-pl-247
+place_015,Barcelona,Barcelona,,,,Barcelona,,Spain,,,obj1664-pl-653
+place_016,Bas Rhin,Bas Rhin,,,,,Bas-Rhin,France,,Grand Est,obj1827-pl-883
+place_017,Bath,Bath,,,,Bath,Somerset,England,,,obj1137-pl-576
+place_018,Bealey Beach,Bealey Beach [?],Bealey Beach,,,,,,,,obj1750-pl-782
+place_019,Belfast,Belfast,,,,Belfast,Antrim,Ireland,,,obj1078-pl-469 || obj1299-pl-843 || obj1299-pl-844 || obj1556-pl-457 || obj1730-pl-752 || obj1736-pl-762 || obj1750-pl-781 || obj1770-pl-824
+place_020,"Wellington Place, Belfast","11 Wellington Place, Belfast",,,Wellington Place,Belfast,Antrim,Ireland,,,obj1624-pl-569
+place_021,Berlin,Berlin,,,,Berlin,,Germany,,,obj1271-pl-791 || obj1271-pl-794 || obj1271-pl-796 || obj1478-pl-298 || obj1481-pl-306 || obj1490-pl-310 || obj1567-pl-478 || obj1567-pl-480 || obj1578-pl-505 || obj1602-pl-543 || obj1614-pl-557
+place_022,Besançon,Besançon,,,,Besançon,Doubs,France,,Bourgogne-France-Comte,obj1826-pl-878
+place_023,Birmingham,Birmingham,,,,Birmingham,Warwickshire,England,,,obj950-pl-283
+place_024,Bordeaux,Bordeaux,,,,Bordeaux,Gironde,France,,Nouvelle-Aquitaine,obj877-pl-189 || obj892-pl-201 || obj911-pl-248 || obj1044-pl-436
+place_025,Boston,Boston,,,,Boston,Massachusetts,United States of America,,,obj833-pl-113 || obj864-pl-173 || obj864-pl-174 || obj1040-pl-419 || obj1043-pl-430 || obj1050-pl-443 || obj1110-pl-531 || obj1141-pl-594 || obj1153-pl-619 || obj1166-pl-633 || obj1166-pl-634 || obj1168-pl-637 || obj1174-pl-647 || obj1185-pl-662 || obj1205-pl-687 || obj1206-pl-690 || obj1210-pl-695 || obj1211-pl-696 || obj1211-pl-697 || obj1243-pl-732 || obj1275-pl-802 || obj1284-pl-819 || obj1285-pl-821 || obj1315-pl-12 || obj1344-pl-60 || obj1345-pl-63 || obj1353-pl-72 || obj1353-pl-75 || obj1364-pl-90 || obj1365-pl-92 || obj1365-pl-93 || obj1366-pl-95 || obj1371-pl-99 || obj1371-pl-100 || obj1445-pl-223 || obj1493-pl-320 || obj1493-pl-321 || obj1501-pl-331 || obj1502-pl-333 || obj1503-pl-334 || obj1520-pl-368 || obj1644-pl-598 || obj1646-pl-605 || obj1657-pl-628 || obj1661-pl-638 || obj1666-pl-657 || obj1669-pl-661 || obj1694-pl-699 || obj1694-pl-700 || obj1699-pl-707 || obj1735-pl-761 || obj1740-pl-766 || obj1757-pl-794 || obj1758-pl-799 || obj1758-pl-800 || obj1758-pl-801 || obj1759-pl-803 || obj1760-pl-809 || obj1857-pl-935 || obj1870-pl-946
+place_026,Boulevd. Des Invalides,Boulevd. Des Invalides,,,Boulevard des Invalides,Paris,Paris,France,,,obj905-pl-231
+place_027,Boulevard St Martin,Boulevard St Martin,,,Boulevard St Martin,Paris,Paris,France,,,obj1380-pl-111
+place_028,Brasil,Brasil,,,,,,Brasil,,,obj1108-pl-528 || obj1477-pl-292 || obj1891-pl-955
+place_029,Brighton,Brighton,,,,Brighton,Sussex,England,,,obj1137-pl-582
+place_030,Bristol,Bristol,Bristol,,,,,,,,obj839-pl-132
+place_031,Bristol,Bristol,,,,Bristol,Bristol,England,,,obj1137-pl-585
+place_032,Britain,Britain,,,,,,Britain,,,obj952-pl-301 || obj1098-pl-504 || obj1259-pl-769
+place_033,Brunwick,Brunwick,,,"Compton Street, Brunswick Place",London,London,England,,,obj1279-pl-811
+place_034,Brussels,Brussels,,,,Brussels,,Belgium,,,obj1123-pl-546 || obj1334-pl-55 || obj1404-pl-144 || obj1521-pl-371 || obj1644-pl-595 || obj1708-pl-721
+place_035,Buenos Ayres,Buenos Ayres,,,,Buenos Aires,,Argentina,,,obj1891-pl-953
+place_036,Calais,Calais,,,,Calais,Pas-de-Calais,France,,Hauts-de-France,obj1478-pl-295
+place_037,Cambray,Cambray,,,,Cambrai,Nord,France,,Hauts-de-France,obj870-pl-184
+place_038,Cambridge,Cambridge,,,,Cambridge,Massachusetts,United States of America,,,obj926-pl-260 || obj1110-pl-533 || obj1700-pl-708
+place_039,Canada,Canada,,,,,,Canada,,,obj972-pl-330
+place_040,Cape Horn,Cape Horn,,Cape Horn,,,,,South America,,obj1043-pl-435
+place_041,Cape of Good Hope,Cape of Good Hope,,Cape of Good Hope,,,,,Africa,,obj972-pl-331 || obj1043-pl-432 || obj1843-pl-910 || obj1844-pl-915
+place_042,Caracus,Caracus,,,,Caracas,,Venezuela,,,obj1891-pl-954
+place_043,Carolina,Carolina,Carolina,,,,,,,,obj868-pl-180 || obj950-pl-284
+place_044,Castillo and Leon,Castillo and Leon,,,,,Castile and León,Spain,,,obj1528-pl-385
+place_045,Champs Elysees,Champs Elysees,,,Champs Elysees,Paris,Paris,France,,,obj936-pl-267
+place_046,Chantilly,Chantilly,,,,Chantilly,Oise,France,,Hauts-de-France,obj1816-pl-870
+place_047,Charleston,Charleston,,,,Charleston,South Carolina,United States of America,,,obj757-pl-9 || obj772-pl-32 || obj790-pl-64 || obj850-pl-147 || obj893-pl-203 || obj947-pl-279 || obj958-pl-309 || obj960-pl-313 || obj1020-pl-396 || obj1372-pl-102 || obj1378-pl-108 || obj1395-pl-127 || obj1405-pl-147 || obj1498-pl-328 || obj1510-pl-343 || obj1511-pl-346 || obj1513-pl-351 || obj1530-pl-390 || obj1530-pl-398 || obj1530-pl-405 || obj1536-pl-420 || obj1549-pl-449 || obj1550-pl-451 || obj1616-pl-559
+place_048,Cherbourg,Cherbourg,,,,Cherbourg,Manche,France,,Normandy,obj1137-pl-579
+place_049,China,China,,,,,,China,,,obj1043-pl-431 || obj1843-pl-909 || obj1844-pl-913
+place_050,Cincinatti,Cincinatti,,,,Cincinnati,Tennessee,United States of America,,,obj1530-pl-406
+place_051,Cincinnati,Cincinnati,,,,Cincinnati,Tennessee,United States of America,,,obj1613-pl-556
+place_052,Cinncinati,Cinncinati,,,,Cincinnati,Tennessee,United States of America,,,obj1557-pl-459
+place_053,Cleveland,Cleveland,,,,Cleveland,Ohio,United States of America,,,obj1145-pl-605
+place_054,Colombia,Colombia,,,,,,Colombia,,,obj1819-pl-871 || obj1841-pl-902
+place_055,Veragua,Veragua,,,,Veragua,,Colombia,,,obj1841-pl-903
+place_056,Connecticut,Connecticut,,,,,Connecticut,United States of America,,,obj909-pl-246 || obj1479-pl-303 || obj1773-pl-835
+place_057,"Harford, Connecticut","Harford, Connecticut",,,,Hartford,Connecticut,United States of America,,,obj1751-pl-783
+place_058,Copenhagen,Copenhagen,,,,Copenhagen,,Denmark,,,obj1249-pl-739
+place_059,Cork,Cork,,,,Cork,Cork,Ireland,,,obj769-pl-28
+place_060,Costa Rica,Costa Rica,,,,,,Costa Rica,,,obj1144-pl-600
+place_061,County of Tuscarawas,County of Tuscarawas,,,,,Tuscarawas County,,,,obj1145-pl-603
+place_062,County of Wicklow,County of Wicklow,,,,,Wicklow,Ireland,,,obj980-pl-347
+place_063,Cuba,Cuba,,,,,,Cuba,,,obj1053-pl-447 || obj1842-pl-906
+place_064,Island of Cuba,Island of Cuba,,,,,,Cuba,,,obj1610-pl-555
+place_065,Detroit,Detroit,,,,Detroit,Michigan,United States of America,,,obj1662-pl-643
+place_066,Dieppe,Dieppe,,,,Dieppe,Seine-Maritime,France,,Normandy,obj1137-pl-581
+place_067,"Coxes buildings, Georgetown, District of Columbia","Coxes buildings, Georgetown, District of Columbia",,,Coxes Buildings,Georgetown,District of Columbia,United States of America,,,obj952-pl-305
+place_068,District of Columbia,District of Columbia,,,,,District of Columbia,United States of America,,,obj780-pl-53 || obj831-pl-110 || obj886-pl-196
+place_069,"Georgetown, District of Columbia","Georgetown, District of Columbia",,,,Georgetown,District of Columbia,United States of America,,,obj1004-pl-373
+place_070,Downpatrick,Downpatrick,,,,Downpatrick,Down,Ireland,,,obj1713-pl-727
+place_071,Dresden,Dresden,,,,Dresden,,Germany,,,obj1478-pl-299
+place_072,"Belvedere Place, Dublin","15 Belvedere Place, Dublin",,,Belvedere Place,Dublin,Dublin,Ireland,,,obj1138-pl-590
+place_073,Dublin,Dublin,,,,Dublin,Dublin,Ireland,,,obj762-pl-15 || obj776-pl-43 || obj783-pl-55 || obj789-pl-61 || obj799-pl-74 || obj936-pl-265 || obj940-pl-269 || obj1183-pl-658 || obj1193-pl-673
+place_074,"Kildare Street, Dublin","Kildare Street, Dublin",,,Kildare Street,Dublin,Dublin,Ireland,,,obj980-pl-346
+place_075,"north Frederick street, Dublin","3, north Frederick street, Dublin",,,North Frederick street,Dublin,Dublin,Ireland,,,obj873-pl-186
+place_076,Trinity College Dublin,Trinity College Dublin,,,Trinity College,Dublin,Dublin,Ireland,,,obj1164-pl-631 || obj1183-pl-656
+place_077,East Hartford,East Hartford,,,,East Hartford,Connecticut,United States of America,,,obj1408-pl-152
+place_078,Eastern Indies,Eastern Indies,,,,,,East Indies,,,obj1843-pl-908
+place_079,Edenburg,Edenburg,,,,Edinburgh,Midlothian,Scotland,,,obj1263-pl-780
+place_080,Edgeworthstown,Edgeworthstown,,,,Edgeworthstown,Longford,Ireland,,,obj1060-pl-451
+place_081,Edinburgh,[Edinburgh],,,,Edinburgh,Midlothian,Scotland,,,obj863-pl-170
+place_082,Edinburgh,Edinburgh,,,,Edinburgh,Midlothian,Scotland,,,obj826-pl-108 || obj831-pl-109 || obj868-pl-181 || obj870-pl-183 || obj895-pl-210 || obj900-pl-221 || obj944-pl-275 || obj972-pl-334 || obj1061-pl-453 || obj1156-pl-623 || obj1283-pl-818 || obj1288-pl-831 || obj1348-pl-65 || obj1567-pl-482 || obj1826-pl-877
+place_083,Egypt,Egypt,,,,,,Egypt,,,obj1547-pl-446
+place_084,Elba,Elba,,,,,,Elba,,,obj1746-pl-776
+place_085,England,England,,,,,,England,,,obj769-pl-25 || obj783-pl-57 || obj791-pl-65 || obj835-pl-117 || obj837-pl-127 || obj847-pl-141 || obj894-pl-206 || obj895-pl-213 || obj908-pl-236 || obj922-pl-257 || obj1001-pl-372 || obj1075-pl-465 || obj1090-pl-484 || obj1099-pl-509 || obj1126-pl-557 || obj1134-pl-572 || obj1137-pl-577 || obj1141-pl-595 || obj1207-pl-691 || obj1288-pl-829 || obj1330-pl-39 || obj1444-pl-218 || obj1474-pl-284 || obj1476-pl-289 || obj1492-pl-315 || obj1593-pl-525 || obj1629-pl-586 || obj1643-pl-594 || obj1651-pl-617 || obj1723-pl-745 || obj1757-pl-797 || obj1819-pl-872 || obj1847-pl-925
+place_086,Europe,Europe,,,,,,,Europe,,obj778-pl-46 || obj874-pl-188 || obj877-pl-191 || obj900-pl-223 || obj951-pl-288 || obj967-pl-324 || obj1010-pl-382 || obj1011-pl-385 || obj1049-pl-442 || obj1099-pl-506 || obj1101-pl-513 || obj1104-pl-525 || obj1110-pl-532 || obj1132-pl-568 || obj1259-pl-763 || obj1263-pl-779 || obj1282-pl-817 || obj1320-pl-22 || obj1375-pl-106 || obj1390-pl-122 || obj1414-pl-161 || obj1415-pl-162 || obj1423-pl-175 || obj1434-pl-195 || obj1439-pl-204 || obj1440-pl-210 || obj1451-pl-237 || obj1460-pl-256 || obj1467-pl-270 || obj1505-pl-338 || obj1525-pl-377 || obj1527-pl-382 || obj1544-pl-436 || obj1600-pl-538 || obj1628-pl-580 || obj1683-pl-682 || obj1760-pl-808 || obj1870-pl-945
+place_087,Falls of Maryland,Falls of Maryland,,Falls of Maryland,,,Maryland,United States of America,,,obj1466-pl-265
+place_088,Firenze,Firenze,,,,Florence,,Italy,,,obj916-pl-251
+place_089,Florence,Florence,,,,Florence,,Italy,,,obj1089-pl-481 || obj1163-pl-630
+place_090,Florida,Florida,,,,,Florida,United States of America,,,obj1206-pl-689 || obj1510-pl-344 || obj1530-pl-399 || obj1530-pl-401 || obj1687-pl-688 || obj1846-pl-920
+place_091,Greek Colony,Greek Colony,,,,Greek Colony,Florida,United States of America,,,obj1122-pl-539
+place_092,Fontenay-aux-Roses,Fontenay-aux-Roses,,,,Fontenay-aux-Roses,Hauts-de-Seine,France,,Ile-de-France,obj1816-pl-869 || obj1823-pl-873
+place_093,"Kerrymuir, Forfarshire","Kerrymuir, Forfarshire",,,,Kirriemuir,Forfarshire,Scotland,,,obj972-pl-336
+place_094,"Lindectis, Forfarshire","Lindectis, Forfarshire",,,Lindertis,Kirriemuir,Forfarshire,Scotland,,,obj949-pl-282
+place_095,"Lindentis, Forfarshire","Lindentis, Forfarshire",,,Lindertis,Kirriemuir,Forfarshire,Scotland,,,obj972-pl-335
+place_096,Fort Mitchell,Fort Mitchell,,,,Fort Mitchell,Alabama,United States of America,,,obj1405-pl-148
+place_097,Fort Vancouver,Fort Vancouver,,,,Fort Vancouver,Oregon,United States of America,,,obj1476-pl-290
+place_098,France,France,,,,,,France,,,obj776-pl-44 || obj804-pl-85 || obj806-pl-89 || obj835-pl-118 || obj837-pl-128 || obj846-pl-140 || obj847-pl-142 || obj853-pl-152 || obj860-pl-167 || obj888-pl-199 || obj951-pl-292 || obj952-pl-296 || obj974-pl-339 || obj978-pl-344 || obj1011-pl-387 || obj1033-pl-414 || obj1090-pl-483 || obj1097-pl-498 || obj1098-pl-503 || obj1130-pl-564 || obj1207-pl-692 || obj1235-pl-721 || obj1255-pl-755 || obj1259-pl-768 || obj1260-pl-775 || obj1261-pl-777 || obj1299-pl-845 || obj1330-pl-38 || obj1416-pl-165 || obj1436-pl-199 || obj1444-pl-217 || obj1463-pl-262 || obj1467-pl-269 || obj1475-pl-287 || obj1477-pl-294 || obj1478-pl-301 || obj1492-pl-318 || obj1514-pl-355 || obj1515-pl-357 || obj1526-pl-380 || obj1530-pl-402 || obj1544-pl-435 || obj1555-pl-456 || obj1564-pl-475 || obj1572-pl-493 || obj1593-pl-526 || obj1643-pl-593 || obj1651-pl-618 || obj1672-pl-670 || obj1681-pl-679 || obj1689-pl-691 || obj1723-pl-746 || obj1764-pl-814 || obj1826-pl-880 || obj1827-pl-881 || obj1829-pl-892 || obj1865-pl-942 || obj1867-pl-943
+place_099,South of France,South of France,,,,,,France,,,obj759-pl-13
+place_100,Frankfort,Frankfort,,,,Frankfurt,,Germany,,,obj1602-pl-546
+place_101,Gard,Gard,,,,,Gard,France,,Occitanie,obj1827-pl-886
+place_102,Geneva,Geneva,,,,Geneva,,Switzerland,,,obj755-pl-3 || obj755-pl-5 || obj895-pl-209 || obj897-pl-214 || obj899-pl-218 || obj1032-pl-412 || obj1041-pl-422 || obj1041-pl-424 || obj1102-pl-518 || obj1227-pl-714 || obj1770-pl-823
+place_103,Geneve,Geneve,,,,Geneva,,Switzerland,,,obj1032-pl-409
+place_104,George Town,George Town,,,,Georgetown,District of Columbia,United States of America,,,obj836-pl-120
+place_105,Georgetown,Georgetown,,,,Georgetown,District of Columbia,United States of America,,,obj952-pl-295 || obj1065-pl-456 || obj1080-pl-473 || obj1081-pl-475 || obj1260-pl-770 || obj1891-pl-951
+place_106,"Augusta, Georgia","Augusta, Georgia",,,,Augusta,Georgia,United States of America,,,obj1442-pl-212
+place_107,Georgia,Georgia,,,,,Georgia,United States of America,,,obj958-pl-310 || obj1330-pl-40 || obj1405-pl-150 || obj1512-pl-349 || obj1530-pl-397 || obj1685-pl-685
+place_108,Germany,Germany,,,,,,Germany,,,obj1422-pl-171 || obj1530-pl-400 || obj1530-pl-403 || obj1760-pl-810
+place_109,Ghent,Ghent,,,,Ghent,,Belgium,,,obj792-pl-67
+place_110,Gibraltar,Gibraltar,,,,,,Gibraltar,,,obj1151-pl-613
+place_111,Glasgow,Glasgow,,,,Glasgow,Lanarkshire,Scotland,,,obj1564-pl-476 || obj1707-pl-717 || obj1708-pl-719 || obj1708-pl-720 || obj1723-pl-742
+place_112,Gottingen,Gottingen,,,,Gottingen,,Germany,,,obj752-pl-1
+place_113,Great Britain,Great Britain,,,,,,Britain,,,obj860-pl-166 || obj909-pl-243
+place_114,Greece,Greece,,,,,,Greece,,,obj1185-pl-663
+place_115,Greenville village,Greenville village,,,,Greenville,South Carolina,United States of America,,,obj1510-pl-345
+place_116,Guatemala,Guatemala,,,,,,Guatemala,,,obj1093-pl-486 || obj1596-pl-527 || obj1841-pl-905 || obj1850-pl-931
+place_117,Gulph of Florida,Gulph of Florida,,Gulph of Florida,,,,,,,obj1395-pl-132
+place_118,Hamburg,Hamburg,,,,Hamburg,,Germany,,,obj1108-pl-529 || obj1673-pl-672
+place_119,Harvard,Harvard,,,Harvard,Cambridge,Massachusetts,United States of America,,,obj1269-pl-999 || obj1284-pl-820 || obj1497-pl-999 || obj1618-pl-999 || obj1656-pl-627 || obj1682-pl-999 || obj1696-pl-704
+place_120,Haut Rhin,Haut Rhin,,,,,Haut-Rhin,France,,Grand Est,obj1827-pl-882
+place_121,Havana,Havana,,,,Havana,,Cuba,,,obj1269-pl-786
+place_122,Havre,Havre,,,,Havre,Seine-Maritime,France,,Normandy,obj773-pl-34 || obj997-pl-365 || obj1009-pl-379 || obj1019-pl-392 || obj1041-pl-426 || obj1042-pl-428 || obj1063-pl-455 || obj1123-pl-548 || obj1137-pl-580 || obj1366-pl-97 || obj1424-pl-177 || obj1444-pl-220 || obj1651-pl-614
+place_123,Holland,Holland,,,,,,Netherlands,,,obj1138-pl-591 || obj1253-pl-749 || obj1534-pl-417
+place_124,Homestead,Homestead,,,Homestead,Greenville,South Carolina,United States of America,,,obj1693-pl-697
+place_125,Hotel d’Hollande,Hotel d’Hollande,,,Hotel d’Hollande,Paris,Paris,France,,Ile-de-France,obj1599-pl-536
+place_126,Hotel de France,Hotel de France,,,Hotel de France,Paris,Paris,France,,Ile-de-France,obj1770-pl-822
+place_127,Hotel de Lille,Hotel de Lille,,,Hotel de Lille,Paris,Paris,France,,Ile-de-France,obj1227-pl-713
+place_128,Hotel du Nord,Hotel du Nord,,,Hotel du Nord,Paris,Paris,France,,Ile-de-France,obj1000-pl-369
+place_129,Hotel Montmorency,Hotel Montmorency,,,Hotel Montmorency,Paris,Paris,France,,Ile-de-France,obj1482-pl-307
+place_130,Hotel rue comedle,Hotel rue comedle,,,Hotel Rue Comedle,Paris,Paris,France,,Ile-de-France,obj1238-pl-726
+place_131,Hudson’s Bay,Hudson’s Bay,,Hudson’s Bay,,,,,,,obj1395-pl-131
+place_132,Hyde Park,Hyde Park,,,Hyde Park,London,London,England,,,obj1320-pl-20
+place_133,Illinois,Illinois,,,,,Illinois,United States of America,,,obj868-pl-179
+place_134,India,India,,,,,,India,,,obj1043-pl-433
+place_135,Iona,Iona,,,,Iona,Hebrides,Scotland,,,obj836-pl-123
+place_136,Ireland,Ireland,,,,,,Ireland,,,obj769-pl-27 || obj789-pl-63 || obj836-pl-122 || obj853-pl-154 || obj854-pl-158 || obj911-pl-249 || obj980-pl-349 || obj994-pl-362 || obj1215-pl-703 || obj1233-pl-717 || obj1288-pl-830 || obj1538-pl-424 || obj1628-pl-582 || obj1801-pl-865
+place_137,The Island of France and Bourbon,The Island of France and Bourbon,,,,,,Réunion Island,,,obj1849-pl-930
+place_138,Italy,Italy,,,,,,Italy,,,obj798-pl-73 || obj936-pl-266 || obj983-pl-351 || obj1075-pl-466 || obj1447-pl-228 || obj1473-pl-281 || obj1475-pl-288 || obj1530-pl-404 || obj1607-pl-550 || obj1610-pl-554
+place_139,Jubingen,Jubingen,,,,Jubingen,,Germany,,,obj1142-pl-597
+place_140,Kentucky,Kentucky,,,,,Kentucky,United States of America,,,obj1263-pl-778 || obj1846-pl-922
+place_141,Lexington KY,Lexington KY,,,,Lexington,Kentucky,United States of America,,,obj763-pl-18
+place_142,"Lindvitis, Kerriemuir","Lindvitis, Kerriemuir",,,Lindertis,Kirriemuir,Forfarshire,Scotland,,,obj1061-pl-452
+place_143,Kinderhook,Kinderhook,,,,Kinderhook,New York state,United States of America,,,obj1785-pl-854
+place_144,Kingston,Kingston,Kingston,,,,,,,,obj1408-pl-153
+place_145,la Commune de Chailly,la Commune de Chailly,,,Chailly-en-Bière,Paris,Paris,France,,Ile-de-France,add1181-pl-001
+place_146,La Grange,La Grange,,,La Grange,,Seine-et-Marne,France,,Ile-de-France,obj977-pl-341 || obj1031-pl-408 || obj1119-pl-534 || obj1160-pl-628 || obj1374-pl-105
+place_147,La Mancha,La Mancha,,,,,La Mancha,Spain,,,obj1560-pl-465
+place_148,Lake Erie,Lake Erie,,Lake Erie,,,,,,,obj1145-pl-606 || obj1453-pl-243
+place_149,Lausanne,Lausanne,,,,Lausanne,,Switzerland,,,obj1102-pl-517 || obj1103-pl-522 || obj1245-pl-734
+place_150,Le Grange Blemeau Rogoy,Le Grange Blemeau Rogoy,,,La Grange,,Seine-et-Marne,France,,Ile-de-France,obj867-pl-178
+place_151,Leghorn,Leghorn,,,,Livorno,,Italy,,,obj991-pl-358
+place_152,Liberia,Liberia,,,,,,Liberia,,,obj1254-pl-750 || obj1254-pl-752
+place_153,Livano,Livano,,,,Livorno,,Italy,,,obj1126-pl-556
+place_154,Liverpool,Liverpool,,,,Liverpool,Lancashire,England,,,obj951-pl-286 || obj1047-pl-440 || obj1098-pl-501 || obj1134-pl-574 || obj1259-pl-766 || obj1444-pl-221 || obj1735-pl-760 || obj1772-pl-831
+place_155,Liverpooll,Liverpooll,,,,Liverpool,Lancashire,England,,,obj1263-pl-781
+place_156,Allermark St London,Allermark St London,,,Allermark St,London,London,England,,,obj972-pl-333
+place_157,"Chapel Street Grosvenor Place, London","28 Chapel Street Grosvenor Place, London",,,"Chapel Street, Grosvenor Place",London,London,England,,,obj1306-pl-2
+place_158,"Chapel Street, Grosvenor Place, London","28 Chapel Street, Grosvenor Place, London",,,"Chapel Street, Grosvenor Place",London,London,England,,,obj1287-pl-824
+place_159,"Guildford Street, London","90 Guildford Street, London",,,Guildford Street,London,London,England,,,obj1325-pl-27
+place_160,London,London,,,,London,London,England,,,obj762-pl-16 || obj773-pl-36 || obj779-pl-48 || obj785-pl-59 || obj799-pl-75 || obj806-pl-87 || obj806-pl-88 || obj839-pl-131 || obj900-pl-225 || obj909-pl-245 || obj922-pl-255 || obj930-pl-262 || obj951-pl-293 || obj983-pl-350 || obj1076-pl-468 || obj1110-pl-530 || obj1138-pl-593 || obj1209-pl-693 || obj1214-pl-700 || obj1226-pl-711 || obj1234-pl-718 || obj1244-pl-733 || obj1253-pl-747 || obj1259-pl-767 || obj1298-pl-842 || obj1325-pl-28 || obj1333-pl-51 || obj1360-pl-84 || obj1439-pl-206 || obj1446-pl-226 || obj1462-pl-260 || obj1534-pl-418 || obj1582-pl-509 || obj1587-pl-514 || obj1596-pl-528 || obj1602-pl-544 || obj1607-pl-548 || obj1628-pl-583 || obj1644-pl-596 || obj1646-pl-603 || obj1652-pl-622 || obj1655-pl-626 || obj1681-pl-677 || obj1692-pl-695 || obj1703-pl-713 || obj1705-pl-715 || obj1708-pl-722 || obj1726-pl-748 || obj1737-pl-763 || obj1737-pl-764 || obj1760-pl-811 || obj1883-pl-948
+place_161,London,"London,",,,,London,London,England,,,obj769-pl-23
+place_162,"Norton Street, Portland Place, London","29 Norton Street, Portland Place, London",,,"Norton Street, Portland Place",London,London,England,,,obj1248-pl-736
+place_163,"Charles Street, Clarendon Square, Somerstown","12 Charles Street, Clarendon Square, Somerstown",,,"Charles Street, Clarendon Square, Somerstown",London,London,England,,,obj948-pl-280
+place_164,Long Island,Long Island,,,Long Island,New York,New York state,United States of America,,,obj1719-pl-737
+place_165,Louisiana,Louisiana,,,,,Louisiana,United States of America,,,obj780-pl-51 || obj1846-pl-919 || obj1848-pl-928 || obj1849-pl-929
+place_166,Louisville,Louisville,,,,Louisville,Kentucky,United States of America,,,obj1263-pl-783 || obj1288-pl-825 || obj1333-pl-49 || obj1530-pl-407 || obj1620-pl-563
+place_167,Luxembourg,Luxembourg,,,,,,Luxembourg,,,obj1568-pl-484
+place_168,the Luxembourg,the Luxembourg,,,,,,Luxembourg,,,obj999-pl-368
+place_169,Lyon,Lyon,,,,Lyon,Lyon,France,,Auvergne-Rhone-Alpes,obj1827-pl-890
+place_170,Lyons,Lyons,,,,Lyon,Lyon,France,,Auvergne-Rhone-Alpes,obj1089-pl-480
+place_171,Madeira,Madeira,,,,,Madeira,Portugal,,,obj1719-pl-738
+place_172,Madrid,Madrid,,,,Madrid,,Spain,,,obj1184-pl-661 || obj1395-pl-129 || obj1528-pl-383 || obj1528-pl-384 || obj1528-pl-387 || obj1560-pl-466
+place_173,"Brunswick, Maine","Brunswick, Maine",,,,Brunswick,Maine,United States of America,,,obj1316-pl-15
+place_174,Maine,Maine,,,,,Maine,United States of America,,,obj1574-pl-498
+place_175,"c/o US Consul, Malaga","c/o US Consul, Malaga",,,c/o US Consul,Malaga,,Spain,,,obj1560-pl-463
+place_176,Malaga,Malaga,,,,Malaga,,Spain,,,obj1560-pl-468
+place_177,Marseilles,Marseilles,,,,Marseilles,Bouches-du-Rhône,France,,Provence-Alpes-Côte d'Azur,obj1662-pl-642 || obj1664-pl-652
+place_178,Maryland,Maryland,,,,,Maryland,United States of America,,,obj1098-pl-500 || obj1517-pl-362 || obj1846-pl-921
+place_179,MD,MD,,,,,Maryland,United States of America,,,obj1452-pl-240
+place_180,"Cambridge, Mass","Cambridge, [Mass]",,,,Cambridge,Massachusetts,United States of America,,,obj1302-pl-1
+place_181,"Cambridge, Mass","Cambridge, Mass",,,,Cambridge,Massachusetts,United States of America,,,obj1051-pl-445 || obj1236-pl-722 || obj1411-pl-156 || obj1480-pl-304 || obj1624a-pl-571 || obj1760-pl-805
+place_182,"Leworth , Mass","Leworth [?], Mass",,,,Leworth,Massachusetts,United States of America,,,obj1584-pl-510
+place_183,Massach,Massach,,,,,Massachusetts,United States of America,,,obj800-pl-76
+place_184,Cambridge Harvard,Cambridge [Harvard],,,,Cambridge,Massachusetts,United States of America,,,obj1692-pl-694
+place_185,Cambridge Mass,Cambridge Mass.,,,,Cambridge,Massachusetts,United States of America,,,obj1205-pl-685
+place_186,"Boston, MA","Boston, MA",,,,Boston,Massachusetts,United States of America,,,obj831-pl-111
+place_187,"Cambridge, MA","Cambridge, MA",,,,Cambridge,Massachusetts,United States of America,,,obj1690-pl-692
+place_188,Worcester Mass,Worcester Mass,,,,Worcester,Massachusetts,United States of America,,,obj1666-pl-656
+place_189,"Laval, Mayenne","Laval, Mayenne",,,,Laval,Mayenne,France,,Pays de la Loire,obj1259-pl-762
+place_190,Merthyr Tydvil,Merthyr Tydvil,,,,Merthyr Tydfil,,Wales,,,obj1137-pl-587
+place_191,Metz,Metz,,,,Metz,Moselle,France,,Grand Est,obj1150-pl-612
+place_192,Mexico,Mexico,,,,,,Mexico,,,obj1004-pl-374 || obj1122-pl-542 || obj1169-pl-638 || obj1260-pl-772 || obj1395-pl-130 || obj1492-pl-313 || obj1544-pl-433 || obj1838-pl-901 || obj1891-pl-952
+place_193,Michigan,Michigan,,,,,Michigan,United States of America,,,obj1662-pl-641
+place_194,"Woodville, Missippi","Woodville, Missippi",,,,Woodville,Mississippi,United States of America,,,obj1383-pl-117
+place_195,Mississippi,Mississippi,,,,,Mississippi,United States of America,,,obj1330-pl-43 || obj1850-pl-933
+place_196,Mississippi Valley,Mississippi Valley,,Mississippi Valley,,,Mississippi,United States of America,,,obj1288-pl-827
+place_197,"Jefferson Barracks, Missouri","Jefferson Barracks, Missouri",,,Jefferson Barracks,Lemay,Missouri,United States of America,,,obj1333-pl-48
+place_198,Mobile,Mobile,,,,Mobile,Alabama,United States of America,,,obj1747-pl-780
+place_199,Montanbar,Montanbar,,,,,Montauban,France,,Occitanie,obj1040-pl-421
+place_200,Montefiascone,Montefiascone,,,,Montefiascone,Lazio,Italy,,,obj1826-pl-879
+place_201,Monticello,Monticello,,,Monticello,,Virginia,United States of America,,,obj953-pl-306 || obj998-pl-366 || obj1039-pl-418
+place_202,Montmartre,Montmartre,,,,Paris,Paris,France,,Ile-de-France,obj964-pl-319 || obj966-pl-322
+place_203,Montmorence,Montmorence,,,,Montmorency,Val d'Oise,France,,Ile-de-France,obj1030-pl-407
+place_204,Montpellier,Montpellier,,,,Montpellier,Herault,France,,Occitanie,obj1099-pl-508
+place_205,Moselle,Moselle,,,,,Moselle,France,,Grand Est,obj1827-pl-884
+place_206,Mount Vernon,Mount Vernon,,,,Mount Vernon,Virginia,United States of America,,,obj1065-pl-457
+place_207,Mountmorence,Mountmorence,,,,Montmorency,Val d'Oise,France,,Ile-de-France,obj1027-pl-404
+place_208,Munich,Munich,,,,Munich,,Germany,,,obj1524-pl-374
+place_209,Nancy,Nancy,,,,Nancy,Meurthe-et-Moselle,France,,Grand Est,obj807-pl-93
+place_210,Nantucket,Nantucket,,,,Nantucket,Massachusetts,United States of America,,,obj1652-pl-619 || obj1652-pl-620 || obj1661-pl-633 || obj1718-pl-733 || obj1844-pl-911
+place_211,Naples,Naples,,,,Naples,,Italy,,,obj1332-pl-47
+place_212,Nashville,Nashville,,,,Nashville,Tennessee,United States of America,,,obj1645-pl-600
+place_213,New Bedford,New Bedford,,,,New Bedford,Massachusetts,United States of America,,,obj1661-pl-636
+place_214,New England,New England,,,,,New England,United States of America,,,obj1662-pl-645 || obj1751-pl-784 || obj1757-pl-798
+place_215,New Haven,New Haven,,,,New Haven,Connecticut,United States of America,,,obj1213-pl-699
+place_216,New Holland,New Holland,,,,,New Holland,Australia,,,obj972-pl-332
+place_217,New Jersey,New Jersey,,,,,New Jersey,United States of America,,,obj900-pl-226
+place_218,NJ,NJ,,,,,New Jersey,United States of America,,,obj1554-pl-454
+place_219,New Mexico,New Mexico,,,,,New Mexico,United States of America,,,obj1856-pl-934
+place_220,New Orleans,New Orleans,,,,New Orleans,Louisiana,United States of America,,,obj834-pl-115 || obj836-pl-125 || obj963-pl-318 || obj1272-pl-798 || obj1314-pl-11 || obj1333-pl-52 || obj1492-pl-317 || obj1517-pl-359 || obj1684-pl-683 || obj1686-pl-686 || obj1691-pl-693 || obj1863-pl-940
+place_221,New Philadelphia,New Philadelphia,,,,New Philadelphia,Ohio,United States of America,,,obj1145-pl-604
+place_222,BY,BY,,,,New York,New York state,United States of America,,,obj1266-pl-784
+place_223,N Y,N Y,,,,New York,New York state,United States of America,,,obj1560-pl-469
+place_224,N York,N York,,,,New York,New York state,United States of America,,,obj1741-pl-768
+place_225,N.Y,N.Y.,,,,New York,New York state,United States of America,,,obj952-pl-298
+place_226,"Courtland St, New York","46 Courtland St, New York",,,Courtland St,New York,New York state,United States of America,,,obj1252-pl-745
+place_227,"Fulton Street, New York","143 Fulton Street, New York",,,Fulton Street,New York,New York state,United States of America,,,obj902-pl-230
+place_228,"Greenwich Street, New York","313 Greenwich Street, New York",,,Greenwich Street,New York,New York state,United States of America,,,obj1047-pl-438
+place_229,"Harrison Street, New York","15 Harrison Street, New York",,,Harrison Street,New York,New York state,United States of America,,,obj1610-pl-552
+place_230,New York,New York,,,,New York,New York state,United States of America,,,obj758-pl-10 || obj767-pl-21 || obj797-pl-70 || obj802-pl-84 || obj825-pl-107 || obj839-pl-129 || obj839-pl-134 || obj854-pl-157 || obj860-pl-164 || obj860-pl-165 || obj864-pl-176 || obj888-pl-198 || obj894-pl-205 || obj900-pl-220 || obj909-pl-239 || obj909-pl-240 || obj926-pl-259 || obj941-pl-271 || obj942-pl-273 || obj946-pl-277 || obj947-pl-278 || obj951-pl-290 || obj963-pl-317 || obj968-pl-325 || obj969-pl-326 || obj972-pl-329 || obj973-pl-337 || obj974-pl-338 || obj1001-pl-370 || obj1005-pl-377 || obj1018-pl-391 || obj1022-pl-398 || obj1023-pl-399 || obj1028-pl-405 || obj1029-pl-406 || obj1033-pl-413 || obj1035-pl-415 || obj1037-pl-417 || obj1049-pl-441 || obj1057-pl-448 || obj1060-pl-450 || obj1068-pl-458 || obj1069-pl-459 || obj1074-pl-463 || obj1075-pl-464 || obj1076-pl-467 || obj1079-pl-471 || obj1083-pl-476 || obj1084-pl-477 || obj1086-pl-478 || obj1092-pl-485 || obj1094-pl-489 || obj1098-pl-499 || obj1101-pl-512 || obj1121-pl-536 || obj1124-pl-549 || obj1128-pl-560 || obj1129-pl-561 || obj1130-pl-562 || obj1131-pl-565 || obj1132-pl-566 || obj1134-pl-570 || obj1134-pl-575 || obj1143-pl-598 || obj1144-pl-599 || obj1146-pl-608 || obj1147-pl-609 || obj1150-pl-610 || obj1150-pl-611 || obj1155-pl-621 || obj1171-pl-640 || obj1177-pl-650 || obj1179-pl-652 || obj1180-pl-654 || obj1182-pl-655 || obj1192-pl-671 || obj1192-pl-672 || obj1194-pl-674 || obj1212-pl-698 || obj1228-pl-715 || obj1238-pl-728 || obj1255-pl-753 || obj1255-pl-754 || obj1256-pl-756 || obj1258-pl-761 || obj1270-pl-788 || obj1276-pl-804 || obj1277-pl-805 || obj1279-pl-810 || obj1281-pl-813 || obj1293-pl-835 || obj1295-pl-838 || obj1297-pl-841 || obj1311-pl-5 || obj1327-pl-31 || obj1327-pl-32 || obj1345-pl-64 || obj1348-pl-66 || obj1366-pl-96 || obj1369-pl-98 || obj1372-pl-103 || obj1392-pl-124 || obj1398-pl-137 || obj1399-pl-141 || obj1412-pl-157 || obj1414-pl-160 || obj1422-pl-169 || obj1423-pl-174 || obj1463-pl-261 || obj1469-pl-272 || obj1470-pl-274 || obj1475-pl-286 || obj1497-pl-327 || obj1514-pl-353 || obj1538-pl-422 || obj1540-pl-426 || obj1544-pl-437 || obj1558-pl-461 || obj1568-pl-483 || obj1580-pl-506 || obj1590-pl-522 || obj1591-pl-523 || obj1600-pl-537 || obj1601-pl-539 || obj1617-pl-560 || obj1625-pl-572 || obj1629-pl-585 || obj1642-pl-592 || obj1650-pl-611 || obj1651-pl-616 || obj1661-pl-639 || obj1662-pl-644 || obj1685-pl-684 || obj1710-pl-725 || obj1712-pl-726 || obj1717-pl-732 || obj1734-pl-757 || obj1743-pl-771 || obj1746-pl-774 || obj1747-pl-777 || obj1754-pl-789 || obj1756-pl-791 || obj1768-pl-820 || obj1771-pl-827 || obj1773-pl-833 || obj1773-pl-834 || obj1782-pl-847 || obj1783-pl-849 || obj1786-pl-857 || obj1825-pl-876
+place_231,"Troy, New York","Troy, New York",,,Troy,New York,New York state,United States of America,,,obj1572-pl-491
+place_232,"Wall Street, New York","34 Wall Street, New York",,,Wall Street,New York,New York state,United States of America,,,obj1393-pl-126
+place_233,"Wall Street, New York","Wall Street, New York",,,Wall Street,New York,New York state,United States of America,,,obj863-pl-172
+place_234,"Astor House, NY","Astor House, NY",,,Astor House,New York,New York state,United States of America,,,obj1677-pl-675
+place_235,NY,NY,,,,New York,New York state,United States of America,,,obj755-pl-8 || obj759-pl-11 || obj766-pl-20 || obj773-pl-35 || obj774-pl-42 || obj777-pl-45 || obj784-pl-58 || obj794-pl-69 || obj807-pl-92 || obj847-pl-143 || obj1125-pl-551 || obj1218-pl-707 || obj1276-pl-803 || obj1280-pl-812 || obj1352-pl-70 || obj1353-pl-74 || obj1382-pl-116 || obj1412-pl-158 || obj1427-pl-180 || obj1428-pl-185 || obj1431-pl-190 || obj1432-pl-191 || obj1434-pl-194 || obj1440-pl-208 || obj1440-pl-209 || obj1443-pl-214 || obj1448-pl-229 || obj1450-pl-232 || obj1472-pl-278 || obj1475-pl-285 || obj1492-pl-311 || obj1492-pl-312 || obj1505-pl-337 || obj1520-pl-365 || obj1520-pl-366 || obj1523-pl-373 || obj1535-pl-419 || obj1601-pl-540 || obj1604-pl-547 || obj1627-pl-576 || obj1650-pl-610 || obj1683-pl-680 || obj1683-pl-681 || obj1697-pl-705 || obj1719-pl-736 || obj1741-pl-767 || obj1753-pl-786 || obj1765-pl-815 || obj1767-pl-818 || obj1776-pl-840 || obj1781-pl-844 || obj1785-pl-855
+place_236,"Wall St, NY","Wall St, NY",,,Wall St,New York,New York state,United States of America,,,obj872-pl-185
+place_237,NYC,NYC,,,,New York,New York state,United States of America,,,obj909-pl-242
+place_238,State of New York,State of New York,,,,,New York state,United States of America,,,obj1427-pl-181 || obj1729-pl-751 || obj1788-pl-859
+place_239,State of NY,State of NY,,,,,New York state,United States of America,,,obj1450-pl-233
+place_240,Newburg,Newburg,,,,Newburgh,New York state,United States of America,,,obj1662-pl-646
+place_241,Newtown Newtownards,Newtown [Newtownards],,,,Newtownards,Down,Ireland,,,obj1730-pl-753
+place_242,Nîmes,Nîmes,,,,Nîmes,Gard,France,,Occitanie,obj1827-pl-887
+place_243,Nootka,Nootka,,Nootka,,,,Canada,,,obj1844-pl-912
+place_244,N America,N America,,,,,,,North America,,obj1453-pl-242
+place_245,North America,North America,,,,,,,North America,,obj937-pl-268 || obj1026-pl-402
+place_246,N Carolina,N Carolina,,,,,North Carolina,United States of America,,,obj1470-pl-275
+place_247,NC,NC,,,,,North Carolina,United States of America,,,obj1530-pl-392
+place_248,North Carolina,North Carolina,,,,,North Carolina,United States of America,,,obj1095-pl-493 || obj1330-pl-42 || obj1448-pl-230 || obj1836-pl-896
+place_249,Oaxaca,Oaxaca,,,,,Oaxaca,Mexico,,,obj1093-pl-488
+place_250,Ohio,Ohio,,,,,Ohio,United States of America,,,obj848-pl-145 || obj1545-pl-438
+place_251,Oregon,Oregon,,,,,Oregon,United States of America,,,obj1663-pl-650
+place_252,Pacific Ocean,Pacific Ocean,,Pacific Ocean,,,,,,,obj780-pl-52
+place_253,Palenque,Palenque,,,,Palenque,,Mexico,,,obj1093-pl-487 || obj1439-pl-207
+place_254,Palermo,Palermo,,,,Palermo,,Italy,,,obj1317-pl-16
+place_255,Panama,Panama,,,,,,Panama,,,obj1841-pl-904
+place_256,Euceinta de la Muette,Euceinta de la Muette,,,Enceinta de la Muette,Passy,Paris,France,,Ile-de-France,obj1602-pl-542
+place_257,N. Paris,N. Paris,,,,Paris,Paris,France,,Ile-de-France,obj965-pl-321
+place_258,"Lyons, Paris","Lyons, Paris,","Lyons, Paris",,,,,France,,,obj781-pl-54
+place_259,Paris,[Paris],,,,Paris,Paris,France,,Ile-de-France,obj1608-pl-551
+place_260,Paris,Paris,,,,Paris,Paris,France,,Ile-de-France,obj754-pl-2 || obj755-pl-7 || obj764-pl-19 || obj769-pl-24 || obj770-pl-30 || obj773-pl-33 || obj773-pl-37 || obj779-pl-47 || obj780-pl-50 || obj783-pl-56 || obj789-pl-62 || obj791-pl-66 || obj798-pl-71 || obj800-pl-77 || obj801-pl-79 || obj806-pl-91 || obj807-pl-95 || obj808-pl-97 || obj809-pl-99 || obj839-pl-130 || obj839-pl-133 || obj842-pl-135 || obj850-pl-148 || obj851-pl-149 || obj852-pl-150 || obj857-pl-160 || obj859-pl-163 || obj862-pl-169 || obj864-pl-175 || obj869-pl-182 || obj879-pl-193 || obj881-pl-194 || obj883-pl-195 || obj888-pl-200 || obj892-pl-202 || obj893-pl-204 || obj894-pl-207 || obj895-pl-211 || obj897-pl-216 || obj900-pl-222 || obj901-pl-227 || obj908-pl-235 || obj909-pl-241 || obj915-pl-250 || obj918-pl-252 || obj919-pl-253 || obj920-pl-254 || obj922-pl-256 || obj930-pl-263 || obj940-pl-270 || obj941-pl-272 || obj944-pl-276 || obj962-pl-314 || obj963-pl-316 || obj964-pl-320 || obj972-pl-328 || obj976-pl-340 || obj977-pl-342 || obj979-pl-345 || obj980-pl-348 || obj987-pl-352 || obj988-pl-353 || obj990-pl-355 || obj991-pl-357 || obj992-pl-359 || obj995-pl-363 || obj996-pl-364 || obj1001-pl-371 || obj1005-pl-378 || obj1010-pl-383 || obj1019-pl-393 || obj1020-pl-397 || obj1023-pl-400 || obj1024-pl-401 || obj1027-pl-403 || obj1032-pl-410 || obj1040-pl-420 || obj1041-pl-423 || obj1042-pl-429 || obj1047-pl-439 || obj1052-pl-446 || obj1057-pl-449 || obj1071-pl-462 || obj1078-pl-470 || obj1079-pl-472 || obj1096-pl-495 || obj1098-pl-502 || obj1099-pl-507 || obj1100-pl-511 || obj1102-pl-515 || obj1102-pl-519 || obj1103-pl-521 || obj1107-pl-527 || obj1121-pl-537 || obj1123-pl-547 || obj1124-pl-550 || obj1125-pl-552 || obj1126-pl-554 || obj1134-pl-571 || obj1134-pl-573 || obj1137-pl-578 || obj1141-pl-596 || obj1145-pl-602 || obj1151-pl-614 || obj1159-pl-627 || obj1168-pl-636 || obj1171-pl-641 || obj1173-pl-645 || obj1178-pl-651 || obj1179-pl-653 || obj1183-pl-657 || obj1184-pl-660 || obj1185-pl-664 || obj1187-pl-665 || obj1189-pl-668 || obj1191-pl-670 || obj1195-pl-677 || obj1196-pl-678 || obj1199-pl-679 || obj1203-pl-682 || obj1205-pl-686 || obj1219-pl-708 || obj1221-pl-709 || obj1226-pl-712 || obj1235-pl-720 || obj1237-pl-725 || obj1240-pl-730 || obj1243-pl-731 || obj1249-pl-738 || obj1252-pl-742 || obj1252-pl-743 || obj1253-pl-746 || obj1253-pl-748 || obj1254-pl-751 || obj1257-pl-757 || obj1257-pl-758 || obj1260-pl-776 || obj1270-pl-787 || obj1274-pl-801 || obj1277-pl-806 || obj1281-pl-814 || obj1286-pl-823 || obj1288-pl-828 || obj1290-pl-832 || obj1293-pl-836 || obj1311-pl-7 || obj1312-pl-9 || obj1315-pl-14 || obj1317-pl-17 || obj1322-pl-25 || obj1325-pl-29 || obj1329-pl-34 || obj1330-pl-37 || obj1333-pl-50 || obj1333-pl-53 || obj1335-pl-56 || obj1345-pl-62 || obj1353-pl-73 || obj1357-pl-78 || obj1358-pl-80 || obj1361-pl-87 || obj1363-pl-89 || obj1364-pl-91 || obj1366-pl-94 || obj1371-pl-101 || obj1377-pl-107 || obj1386-pl-120 || obj1391-pl-123 || obj1392-pl-125 || obj1395-pl-133 || obj1396-pl-134 || obj1397-pl-136 || obj1404-pl-145 || obj1410-pl-155 || obj1416-pl-163 || obj1417-pl-166 || obj1418-pl-167 || obj1422-pl-172 || obj1427-pl-184 || obj1429-pl-187 || obj1433-pl-193 || obj1434-pl-196 || obj1436-pl-198 || obj1439-pl-205 || obj1442-pl-213 || obj1444-pl-216 || obj1445-pl-222 || obj1445-pl-224 || obj1446-pl-225 || obj1450-pl-234 || obj1452-pl-239 || obj1455-pl-245 || obj1456-pl-248 || obj1458-pl-251 || obj1461-pl-258 || obj1462-pl-259 || obj1467-pl-267 || obj1468-pl-271 || obj1469-pl-273 || obj1471-pl-276 || obj1472-pl-279 || obj1474-pl-282 || obj1478-pl-297 || obj1478-pl-300 || obj1479-pl-302 || obj1492-pl-319 || obj1493-pl-322 || obj1495-pl-323 || obj1497-pl-325 || obj1497-pl-326 || obj1498-pl-329 || obj1501-pl-332 || obj1504-pl-336 || obj1509-pl-342 || obj1511-pl-347 || obj1512-pl-350 || obj1513-pl-352 || obj1514-pl-354 || obj1517-pl-360 || obj1517-pl-361 || obj1519-pl-364 || obj1520-pl-367 || obj1521-pl-369 || obj1531-pl-408 || obj1533-pl-412 || obj1534-pl-414 || obj1536-pl-421 || obj1538-pl-423 || obj1544-pl-432 || obj1546-pl-440 || obj1547-pl-443 || obj1547-pl-447 || obj1550-pl-452 || obj1556-pl-458 || obj1560-pl-467 || obj1561-pl-471 || obj1563-pl-473 || obj1567-pl-479 || obj1569-pl-487 || obj1571-pl-490 || obj1572-pl-492 || obj1573-pl-496 || obj1575-pl-500 || obj1576-pl-502 || obj1577-pl-503 || obj1581-pl-507 || obj1586-pl-512 || obj1587-pl-515 || obj1588-pl-520 || obj1589-pl-521 || obj1596-pl-529 || obj1597-pl-532 || obj1607-pl-549 || obj1610-pl-553 || obj1620-pl-564 || obj1624-pl-570 || obj1626-pl-574 || obj1628-pl-578 || obj1629-pl-587 || obj1632-pl-588 || obj1635-pl-591 || obj1645-pl-602 || obj1649-pl-608 || obj1650-pl-612 || obj1651-pl-615 || obj1652-pl-621 || obj1660-pl-631 || obj1661-pl-634 || obj1668-pl-660 || obj1669-pl-662 || obj1670-pl-667 || obj1671-pl-669 || obj1672-pl-671 || obj1674-pl-673 || obj1681-pl-678 || obj1692-pl-696 || obj1694-pl-701 || obj1700-pl-709 || obj1702-pl-710 || obj1702-pl-711 || obj1706-pl-716 || obj1707-pl-718 || obj1717-pl-731 || obj1721-pl-740 || obj1725-pl-747 || obj1735-pl-759 || obj1742-pl-770 || obj1745-pl-772 || obj1756-pl-793 || obj1758-pl-802 || obj1759-pl-804 || obj1760-pl-806 || obj1763-pl-812 || obj1766-pl-817 || obj1772-pl-832 || obj1774-pl-836 || obj1775-pl-839 || obj1776-pl-842 || -pl-852 || obj1786-pl-856 || obj1788-pl-858 || obj1789-pl-860 || obj1791-pl-863 || obj1825-pl-874 || obj1827-pl-885 || obj1845-pl-917 || obj1858-pl-937 || obj1863-pl-941
+place_261,"Places des Italiens, Paris","5 Places des Italiens, Paris",,,Places des Italiens,Paris,Paris,France,,Ile-de-France,obj1570-pl-488
+place_262,"US Consulate, Paris","US Consulate, Paris",,,US Consulate,Paris,Paris,France,,Ile-de-France,obj1655-pl-625
+place_263,US Consulate Paris,US Consulate Paris,,,US Consulate,Paris,Paris,France,,Ile-de-France,obj1665-pl-654
+place_264,"L’enceinte de la Muette, 7 Passy","L’enceinte de la Muette, 7 Passy",,,"L’enceinte de la Muette, Passy",Paris,Paris,France,,Ile-de-France,obj1578-pl-504
+place_265,Passy,Passy,,,Passy,Paris,Paris,France,,Ile-de-France,obj1614-pl-558 || obj1665-pl-655
+place_266,Pelenqup,Pelenqup,,,,Palenque,,Mexico,,,obj1427-pl-183
+place_267,Pendleton,Pendleton,,,,Pendleton,South Carolina,United States of America,,,obj1530-pl-396
+place_268,Penn,Penn,,,,,Pennsylvania,United States of America,,,obj1459-pl-253
+place_269,"Bolton Farm, Bucks Co., PA","Bolton Farm, Bucks Co., PA",,,Bolton Farm,Bristol,Pennsylvania,United States of America,,,obj1459-pl-252
+place_270,PA,PA,,,,,Pennsylvania,United States of America,,,obj1460-pl-255
+place_271,"Bolton Farm, near Bristol, Pennsylvania","Bolton Farm, near Bristol, Pennsylvania",,,Bolton Farm,Bristol,Pennsylvania,United States of America,,,obj1246-pl-735
+place_272,Pennsylvania,Pennsylvania,,,,,Pennsylvania,United States of America,,,obj930-pl-261 || obj950-pl-285 || obj1311-pl-4 || obj1526-pl-379 || obj1621-pl-566
+place_273,Pensa,Pensa,,,,,Pennsylvania,United States of America,,,obj1473-pl-280
+place_274,Ohi,Ohi.,,,,Philadelphia,Pennsylvania,United States of America,,,obj1710-pl-724
+place_275,Phi,"Phi,",,,,Philadelphia,Pennsylvania,United States of America,,,obj1739-pl-765
+place_276,Phil,Phil,,,,Philadelphia,Pennsylvania,United States of America,,,obj1314-pl-10 || obj1320-pl-21 || obj1329-pl-33 || obj1352-pl-71 || obj1373-pl-104 || obj1439-pl-202 || obj1451-pl-236 || obj1670-pl-664 || obj1703-pl-712
+place_277,Phila,Phila,,,,Philadelphia,Pennsylvania,United States of America,,,obj1263-pl-782
+place_278,Philadelphia,[Philadelphia],,,,Philadelphia,Pennsylvania,United States of America,,,obj859-pl-161
+place_279,Philadelphia,Philadelphia,,,,Philadelphia,Pennsylvania,United States of America,,,obj755-pl-4 || obj759-pl-12 || obj787-pl-60 || obj792-pl-68 || obj802-pl-82 || obj818-pl-104 || obj819-pl-105 || obj820-pl-106 || obj855-pl-159 || obj906-pl-232 || obj908-pl-233 || obj951-pl-291 || obj952-pl-297 || obj952-pl-299 || obj959-pl-312 || obj967-pl-323 || obj978-pl-343 || obj1036-pl-416 || obj1045-pl-437 || obj1063-pl-454 || obj1104-pl-524 || obj1122-pl-538 || obj1122-pl-545 || obj1127-pl-558 || obj1127-pl-559 || obj1130-pl-563 || obj1137-pl-589 || obj1153-pl-618 || obj1177-pl-649 || obj1188-pl-666 || obj1203-pl-681 || obj1206-pl-688 || obj1222-pl-710 || obj1238-pl-727 || obj1260-pl-774 || obj1273-pl-799 || obj1285-pl-822 || obj1292-pl-833 || obj1311-pl-3 || obj1312-pl-8 || obj1315-pl-13 || obj1326-pl-30 || obj1344-pl-59 || obj1355-pl-76 || obj1356-pl-77 || obj1361-pl-85 || obj1382-pl-114 || obj1395-pl-128 || obj1397-pl-135 || obj1398-pl-139 || obj1409-pl-154 || obj1419-pl-168 || obj1426-pl-178 || obj1429-pl-186 || obj1430-pl-188 || obj1439-pl-203 || obj1441-pl-211 || obj1451-pl-235 || obj1453-pl-241 || obj1456-pl-247 || obj1458-pl-250 || obj1460-pl-254 || obj1461-pl-257 || obj1474-pl-283 || obj1481-pl-305 || obj1500-pl-330 || obj1506-pl-339 || obj1507-pl-340 || obj1509-pl-341 || obj1525-pl-376 || obj1526-pl-378 || obj1527-pl-381 || obj1529-pl-389 || obj1539-pl-425 || obj1554-pl-453 || obj1563-pl-472 || obj1567-pl-481 || obj1569-pl-485 || obj1573-pl-495 || obj1592-pl-524 || obj1598-pl-533 || obj1601-pl-541 || obj1635-pl-589 || obj1648-pl-606 || obj1648-pl-607 || obj1653-pl-623 || obj1659-pl-629 || obj1675-pl-674 || obj1687-pl-687 || obj1698-pl-706 || obj1703-pl-714 || obj1709-pl-723 || obj1715-pl-728 || obj1716-pl-729 || obj1717-pl-730 || obj1720-pl-739 || obj1722-pl-741 || obj1732-pl-755 || obj1742-pl-769 || obj1756-pl-792 || obj1771-pl-828 || obj1775-pl-838
+place_280,Philly,Philly,,,,Philadelphia,Pennsylvania,United States of America,,,obj847-pl-144
+place_281,Pittsburgh,Pittsburgh,,,,Pittsburgh,Pennsylvania,United States of America,,,obj1042-pl-427
+place_282,Place de Italians,5 Place de Italians,,,Place de Italians,Paris,Paris,France,,Ile-de-France,obj1174-pl-646
+place_283,Place Louis 15,Place Louis 15,,,Place Louis,Paris,Paris,France,,Ile-de-France,obj1362-pl-88
+place_284,Poland,Poland,,,,,,Poland,,,obj1270-pl-790
+place_285,Portsmouth,Portsmouth,,,,Portsmouth,Hampshire,England,,,obj1137-pl-583 || obj1646-pl-604
+place_286,Portugal,Portugal,,,,,,Portugal,,,obj859-pl-162 || obj1847-pl-924
+place_287,Princeton,Princeton,,,,Princeton,New Jersey,United States of America,,,obj1260-pl-773
+place_288,Providence,Providence,,,,Providence,Rhode Island,United States of America,,,obj1133-pl-569 || obj1170-pl-639
+place_289,Prussia,Prussia,,,,,,Prussia,,,obj1271-pl-797
+place_290,"Providence, Rhode Island","Providence, Rhode Island",,,,Providence,Rhode Island,United States of America,,,obj1132-pl-567
+place_291,"Providence, RI","Providence, RI",,,,Providence,Rhode Island,United States of America,,,obj1050-pl-444 || obj1757-pl-795
+place_292,Richmond,Richmond,,,,Richmond,Virginia,United States of America,,,obj768-pl-22 || obj953-pl-307 || obj1011-pl-384 || obj1095-pl-492 || obj1099-pl-505 || obj1100-pl-510 || obj1250-pl-740 || obj1292-pl-834 || obj1352-pl-68 || obj1352-pl-69 || obj1380-pl-110 || obj1381-pl-112 || obj1390-pl-121 || obj1466-pl-266 || obj1471-pl-277 || obj1752-pl-785
+place_293,Rio Colombia,Rio Colombia,,Rio Colombia,,,,,,,obj1476-pl-291
+place_294,Rockaway,Rockaway,,,Rockaway,New York,New York state,United States of America,,,obj902-pl-229
+place_295,Roma,Roma,,,,Rome,,Italy,,,obj1126-pl-553
+place_296,Rome,Rome,,,,Rome,,Italy,,,obj1504-pl-335 || obj1564-pl-474 || obj1645-pl-601 || obj1689-pl-690 || obj1746-pl-775
+place_297,Rotterdam,Rotterdam,,,,Rotterdam,,Netherlands,,,obj1138-pl-592
+place_298,Ruckesevres,Ruckesevres,,,Rue de Sevres,,Paris,France,,Ile-de-France,obj1087-pl-479
+place_299,Rue Basse du Rempart,Rue Basse du Rempart,,,Rue Basse du Rempart,Paris,Paris,France,,Ile-de-France,obj1296-pl-840
+place_300,Rue Beaujolais,7 Rue Beaujolais,,,Rue Beaujolais,Paris,Paris,France,,Ile-de-France,obj887-pl-197
+place_301,Rue Castiglione,Rue Castiglione,,,Rue Castiglione,Paris,Paris,France,,Ile-de-France,obj1735-pl-758
+place_302,rue d’alger no 12,rue d’alger no 12,,,Rue d'Alger,Paris,Paris,France,,Ile-de-France,obj1667-pl-658
+place_303,rue d’Artur,rue d’Artur,,,Rue d'Artur,Paris,Paris,France,,Ile-de-France,obj1870-pl-944
+place_304,Rue de Bourbon,Rue de Bourbon,,,Rue de Bourbon,Paris,Paris,France,,Ile-de-France,obj955-pl-308
+place_305,rue de Dominique,11 rue de Dominique,,,Rue de Dominique,Paris,Paris,France,,Ile-de-France,obj1464-pl-263 || obj1465-pl-264
+place_306,Rue de Dragon,Rue de Dragon,,,Rue de Dragon,Paris,Paris,France,,Ile-de-France,obj761-pl-14
+place_307,rue de la Madeline,41 rue de la Madeline,,,Rue de la Madeline,Paris,Paris,France,,Ile-de-France,obj1386-pl-119
+place_308,rue de la victoire,20 rue de la victoire,,,Rue de la Victoire,Paris,Paris,France,,Ile-de-France,obj1559-pl-462
+place_309,No. 24 rue de rivoli,No. 24 rue de rivoli,,,Rue de Rivoli,Paris,Paris,France,,Ile-de-France,obj1522-pl-372
+place_310,Rue de Varcan,Rue de Varcan,,,Rue de Varcan,Paris,Paris,France,,Ile-de-France,obj1167-pl-635
+place_311,Rue de Varenne,Rue de Varenne,,,Rue de Varenne,Paris,Paris,France,,Ile-de-France,obj1172-pl-643
+place_312,Rue des Postes,Rue des Postes,,,Rue des Postes,Paris,Paris,France,,Ile-de-France,obj1120-pl-535
+place_313,Rue Le Pelletier,16 Rue Le Pelletier,,,Rue Le Pelletier,Paris,Paris,France,,Ile-de-France,obj1345-pl-61
+place_314,Rue Lepellelier,19 Rue Lepellelier,,,Rue Lepellelier,Paris,Paris,France,,Ile-de-France,obj1407-pl-151
+place_315,Rue Monsieur La Prince,20 Rue Monsieur La Prince,,,Rue Monsieur La Prince,Paris,Paris,France,,Ile-de-France,obj1727-pl-749
+place_316,Rue st Augar,40 Rue st Augar,,,Rue st Augar,Paris,Paris,France,,Ile-de-France,obj1486-pl-309
+place_317,Rue St Honore,Rue St Honore,,,Rue St Honore,Paris,Paris,France,,Ile-de-France,obj1163-pl-629
+place_318,Rue Tivoli,Rue Tivoli,,,Rue Tivoli,Paris,Paris,France,,Ile-de-France,obj1449-pl-231
+place_319,Russia,Russia,,,,,,Russia,,,obj1257-pl-760 || obj1270-pl-789 || obj1279-pl-808
+place_320,Salisbury,Salisbury,,,,Salisbury,Wiltshire,England,,,obj1137-pl-584
+place_321,Salisbury,Salisbury,Salisbury,,,,,United States of America,,,obj1540-pl-428
+place_322,Saratoga,Saratoga,,,,Saratoga,New York state,United States of America,,,obj1398-pl-138
+place_323,Scotland,Scotland,,,,,,Scotland,,,obj769-pl-26 || obj908-pl-238 || obj952-pl-304 || obj1019-pl-394 || obj1564-pl-477 || obj1618-pl-562 || obj1723-pl-744
+place_324,Senegal,Senegal,,,,,,Senegal,,,obj773-pl-41
+place_325,Sidney,Sidney,,,Sidney Farm,Washington DC,District of Columbia,United States of America,,,obj1189-pl-667
+place_326,S America,S America,,,,,,,South America,,obj1444-pl-219
+place_327,South America,South America,,,,,,,South America,,obj773-pl-40 || obj1215-pl-705
+place_328,Columbia,Columbia,,,,Columbia,South Carolina,United States of America,,,obj1330-pl-45 || obj1358-pl-79 || obj1530-pl-391 || obj1663-pl-649 || obj1755-pl-790
+place_329,Columbia SC,Columbia SC,,,,Columbia,South Carolina,United States of America,,,obj1358-pl-83
+place_330,Lexington (SC) district,Lexington (SC) district,,,,Lexington district,South Carolina,United States of America,,,obj1530-pl-395
+place_331,S Carolina,S Carolina,,,,,South Carolina,United States of America,,,obj1333-pl-54
+place_332,S. Carolina,S. Carolina,,,,,South Carolina,United States of America,,,obj958-pl-311 || obj1330-pl-44
+place_333,"Columbia, S.C","Columbia, [S.C]",,,,Columbia,South Carolina,United States of America,,,obj1319-pl-19
+place_334,"Charleston, SC","Charleston, SC",,,,Charleston,South Carolina,United States of America,,,obj1332-pl-46
+place_335,"Columbia, SC","Columbia, SC",,,,Columbia,South Carolina,United States of America,,,obj1330-pl-35
+place_336,SC,SC,,,,,South Carolina,United States of America,,,obj1530-pl-394
+place_337,"Charleston, South Carolina","Charleston, South Carolina",,,,Charleston,South Carolina,United States of America,,,obj925-pl-258 || obj1405-pl-146
+place_338,"Columbia, South Carolina","Columbia, South Carolina",,,,Columbia,South Carolina,United States of America,,,obj1432-pl-192
+place_339,South Carolina,South Carolina,,,,,South Carolina,United States of America,,,obj1321-pl-23 || obj1836-pl-895
+place_340,"Granada, Spain","Granada, Spain",,,,Granada,,Spain,,,obj1560-pl-464
+place_341,Spain,Spain,,,,,,Spain,,,obj879-pl-192 || obj1528-pl-388 || obj1587-pl-516 || obj1847-pl-923
+place_342,St Cloud,St Cloud,St Cloud,,,,,,,,obj801-pl-80
+place_343,St Croix,St Croix,,,,St Croix,,Virgin Islands,,,obj1747-pl-778
+place_344,St Germain,St Germain,,,St Germain,Paris,Paris,France,,Ile-de-France,obj952-pl-303 || obj1654-pl-624
+place_345,St Helena,St Helena,,,,,,St Helena,,,obj1661-pl-635
+place_346,St Louis,St Louis,,,,St Louis,Missouri,United States of America,,,obj1322-pl-26 || obj1517-pl-358 || obj1544-pl-431 || obj1544-pl-434
+place_347,St Roch,St Roch,,,St Roch,Paris,Paris,France,,Ile-de-France,obj1154-pl-620
+place_348,St Sulphice,St Sulphice,,,St Sulpice,Paris,Paris,France,,Ile-de-France,obj1862-pl-938
+place_349,St Thomas,St Thomas,,,,St Thomas,,Virgin Islands,,,obj1747-pl-779
+place_350,Stanley,Stanley,Stanley,,,,,,,,obj1237-pl-724
+place_351,Staten Island,Staten Island,,,Staten Island,New York,New York state,United States of America,,,obj849-pl-146
+place_352,Suisse,Suisse,,,,,,Switzerland,,,obj1402-pl-142
+place_353,Switzerland,Switzerland,,,,,,Switzerland,,,obj773-pl-38 || obj1103-pl-523 || obj1402-pl-143 || obj1547-pl-444
+place_354,Talamanca,Talamanca,,,,,Talamanca,Costa Rica,,,obj1596-pl-530
+place_355,Taunton,Taunton,,,,Taunton,Massachusetts,United States of America,,,obj1661-pl-637
+place_356,"Nashville, Tennessee","Nashville, Tennessee",,,,Nashville,Tennessee,United States of America,,,obj1645-pl-599
+place_357,Tennessee,Tennessee,,,,,Tennessee,United States of America,,,obj1622-pl-568
+place_358,Texas,Texas,,,,,Texas,United States of America,,,obj1122-pl-541 || obj1541-pl-428 || obj1757-pl-796 || obj1781-pl-845 || obj1783-pl-851
+place_359,the Doubs,the Doubs,,,,,Doubs,France,,Bourgogne-France-Comte,obj1827-pl-888
+place_360,the Floridas,the Floridas,,the Floridas,,,Florida,United States of America,,,obj908-pl-237
+place_361,the Guianes,the Guianes,,,,,,The Guianas,,,obj1477-pl-293
+place_362,the Hague,the Hague,,,,The Hague,,Netherlands,,,obj1754-pl-788
+place_363,the Haute Saône,the Haute Saône,,,,,Haute Saône,France,,Bourgogne-France-Comte,obj1827-pl-889
+place_364,the Ohio,the Ohio,,the Ohio,,,,,,,obj1145-pl-607
+place_365,the other Asia,the other Asia,the other Asia,,,,,,,,obj1122-pl-544
+place_366,the Potomac,the Potomac,,the Potomac,,,,,,,obj1194-pl-675
+place_367,Tinnespan,Tinnespan,Tinnespan,,,,,,,,obj1838-pl-900
+place_368,Tobasco,Tobasco,,,,,Tabasco,Mexico,,,obj1427-pl-182 || obj1492-pl-316
+place_369,Toulon,Toulon,,,,Toulon,Var,France,,Bourgogne-France-Comte,obj1447-pl-227
+place_370,Tripoli,Tripoli,,,,Tripoli,,Libya,,,obj1797-pl-864
+place_371,Turkey,Turkey,,,,,,Turkey,,,obj1547-pl-445
+place_372,United States,United States,,,,,,United States of America,,,obj806-pl-90 || obj807-pl-96 || obj853-pl-153 || obj874-pl-187 || obj1015-pl-388 || obj1043-pl-434 || obj1090-pl-482 || obj1151-pl-615 || obj1158-pl-625 || obj1171-pl-642 || obj1235-pl-719 || obj1257-pl-759 || obj1330-pl-36 || obj1340-pl-a11 || obj1349-pl-67 || obj1358-pl-82 || obj1478-pl-296 || obj1779-pl-843 || obj1791-pl-862 || obj1815-pl-868 || obj1829-pl-891 || obj1836-pl-894 || obj1843-pl-907 || obj1844-pl-914 || obj1845-pl-916 || obj1846-pl-918 || obj1847-pl-926 || obj1848-pl-927 || obj1850-pl-932 || obj1858-pl-936 || obj1890-pl-949
+place_373,US,US,,,,,,United States of America,,,obj755-pl-6 || obj769-pl-29 || obj770-pl-31 || obj773-pl-39 || obj780-pl-49 || obj798-pl-72 || obj801-pl-78 || obj808-pl-98 || obj863-pl-171 || obj877-pl-190 || obj1279-pl-809 || obj1398-pl-140 || obj1430-pl-189 || obj1467-pl-268 || obj1541-pl-429 || obj1560-pl-470 || obj1572-pl-494 || obj1586-pl-513
+place_374,"Virginia, US","Virginia, US",,,,,Virginia,United States of America,,,obj1627-pl-575
+place_375,Valladolid,Valladolid,,,,Valladolid,,Spain,,,obj1838-pl-899
+place_376,"Burlington, Vermont","Burlington, Vermont",,,,Burlington,Vermont,United States of America,,,obj1413-pl-159
+place_377,Vermont,Vermont,,,,,Vermont,United States of America,,,obj1191-pl-669 || obj1558-pl-460
+place_378,Rue de Reservoir a Versailles,Rue de Reservoir a Versailles,,,Rue de Reservoir,Versailles,Yvelines,France,,Ile-de-France,obj1102-pl-514
+place_379,Versailles,Versailles,,,,Versailles,Yvelines,France,,Ile-de-France,obj866-pl-177 || obj1102-pl-516 || obj1103-pl-520 || obj1156-pl-622 || obj1768-pl-819 || obj1769-pl-821 || obj1771-pl-825 || obj1771-pl-826 || obj1772-pl-830 || obj1876-pl-947
+place_380,Vienna,Vienna,,,,Vienna,,Austria,,,obj1122-pl-543 || obj1524-pl-375 || obj1588-pl-518 || obj1668-pl-659
+place_381,city of Richmond,city of Richmond,,,,Richmond,Virginia,United States of America,,,obj1010-pl-381
+place_382,"Jefferson County, VA","Jefferson County, VA",,,,Jefferson County,Virginia,United States of America,,,obj1621-pl-565
+place_383,"Lexington, VA","Lexington, VA",,,,Lexington,Virginia,United States of America,,,obj1436-pl-197 || obj1519-pl-363
+place_384,"Richmond, VA","Richmond, VA",,,,Richmond,Virginia,United States of America,,,obj1533-pl-410 || obj1534-pl-413 || obj1576-pl-501 || obj1626-pl-573
+place_385,VA,VA,,,,,Virginia,United States of America,,,obj1530-pl-393 || obj1533-pl-411 || obj1534-pl-415 || obj1547-pl-442 || obj1585-pl-511 || obj1588-pl-519 || obj1617-pl-561 || obj1627-pl-577 || obj1893-pl-956
+place_386,"Burlington, Virginia","Burlington, Virginia",,,,Burlington,Virginia,United States of America,,,obj1597-pl-531
+place_387,Virginia,Virginia,,,,,Virginia,United States of America,,,obj942-pl-274 || obj998-pl-367 || obj1011-pl-386 || obj1095-pl-491 || obj1165-pl-632 || obj1203-pl-683 || obj1209-pl-694 || obj1259-pl-765 || obj1294-pl-837 || obj1358-pl-81 || obj1422-pl-170 || obj1426-pl-179 || obj1438-pl-200 || obj1455-pl-246 || obj1598-pl-534 || obj1836-pl-897
+place_388,Wheeling Virginia,Wheeling Virginia,,,,Wheeling,Virginia,United States of America,,,obj1288-pl-826
+place_389,Wales,Wales,,,,,,Wales,,,obj1137-pl-586
+place_390,Warsaw,Warsaw,,,,Warsaw,,Poland,,,obj1271-pl-795
+place_391,Washington,Washington,,,,Washington DC,District of Columbia,United States of America,,,obj853-pl-155 || obj900-pl-224 || obj952-pl-294 || obj1004-pl-376 || obj1019-pl-395 || obj1080-pl-474 || obj1145-pl-601 || obj1151-pl-616 || obj1152-pl-617 || obj1158-pl-626 || obj1173-pl-644 || obj1203-pl-684 || obj1215-pl-701 || obj1216-pl-706 || obj1250-pl-741 || obj1260-pl-771 || obj1271-pl-793 || obj1274-pl-800 || obj1281-pl-815 || obj1322-pl-24 || obj1438-pl-201 || obj1547-pl-441 || obj1550-pl-450 || obj1574-pl-497 || obj1581-pl-508 || obj1598-pl-535 || obj1663-pl-648 || obj1663-pl-651 || obj1669-pl-663 || obj1671-pl-668 || obj1688-pl-689 || obj1693-pl-698 || obj1695-pl-702 || obj1695-pl-703 || obj1719-pl-735 || obj1783-pl-850 || obj1791-pl-861 || obj1804-pl-866 || obj1838-pl-898 || obj1891-pl-950
+place_392,Treasury Department,Treasury Department,,,Treasury Department,Washington DC,District of Columbia,United States of America,,,obj989-pl-354
+place_393,Washington City,Washington City,,,,Washington DC,District of Columbia,United States of America,,,obj1382-pl-115 || obj1571-pl-489
+place_394,Washington DC,[Washington DC],,,,Washington DC,District of Columbia,United States of America,,,obj1379-pl-109
+place_395,Washington DC,Washington DC,,,,Washington DC,District of Columbia,United States of America,,,obj1071-pl-461 || obj1484-pl-308
+place_396,West Indies,West Indies,,,,,,West Indies,,,obj836-pl-124
+place_397,West Point,West Point,,,,West Point,New York state,United States of America,,,obj1096-pl-494 || obj1097-pl-496 || obj1097-pl-497 || obj1622-pl-567 || obj1635-pl-590
+place_398,Williamsburg,Williamsburg,,,,Williamsburg,Virginia,United States of America,,,obj1010-pl-380 || obj1095-pl-490

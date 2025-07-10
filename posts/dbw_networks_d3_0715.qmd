@@ -1,0 +1,278 @@
+---
+title: "DBW's networks with d3.js"
+author: "Sharon Howard"
+date: "2020-07-16"
+execute: 
+  warning: false
+  message: false
+  echo: false 
+toc: true
+---
+
+Simple interactive network graphs using the [networkD3](https://christophergandrud.github.io/networkD3/) package.
+
+
+```{r include=FALSE}
+library(janitor)
+library(scales)
+library(knitr)
+library(kableExtra)
+library(tidytext)
+library(tidyverse)
+
+theme_set(theme_minimal()) # set preferred ggplot theme 
+
+library(widyr)
+
+library(RColorBrewer)
+# nb.cols <- 18
+# mycolors <- colorRampPalette(brewer.pal(8, "Set2"))(nb.cols)
+# scale_fill_manual(values = mycolors) +
+
+#library(patchwork)
+library(ggrepel)
+library(ggthemes)
+
+library(tidygraph) 
+library(ggraph)
+library(igraph)
+
+library(networkD3)
+
+
+# this was dbw_d3_viz_0715
+```
+
+
+```{r include=FALSE}
+
+#distinct places
+dbw_places <-
+  read_csv(here::here("data/dbw_places_distinct_final_0715.csv"))  
+
+#place instances
+dbw_places_n <-
+  read_csv(here::here("data/dbw_places_refs_final_0715.csv")) |>
+  left_join(dbw_places |> select(place_id, settlement, region, country, geog_name), by="place_id")
+
+
+
+# letters metadata
+
+dbw2_letters <-
+  read_csv(here::here("data/dbw2_letters_metadata_20200719.csv"))
+
+dbw3_letters <-
+  read_csv(here::here("data/dbw3_letters_metadata_20200719.csv")) |>
+  mutate(year = case_when(
+    year=="Undated letters" ~ NA_real_,
+    TRUE ~ as.double(year)
+  ))
+# year in dbw3 not numerical because it contains "Undated letters". 
+
+
+dbw_letters_metadata <-
+  bind_rows(
+    dbw2_letters |> mutate(src="dbw2"),
+    dbw3_letters |> mutate(src="dbw3")
+  ) |>
+  # exclude not letters
+  filter(is.na(query)) |>
+  mutate(year_when = parse_number(str_sub(date_when, 1, 4))) |>
+  # year for doing stuff
+  mutate(year_a = case_when(
+    obj_id %in% c("obj1114", "obj1116") ~ year_when,
+    !is.na(year) ~ year,
+    is.na(year) & !is.na(year_when) ~ year_when
+  ))  |>
+  # 2 periods and 4 periods as evenly divided as possible; dbw letters NAed
+  mutate(p2ed = case_when(
+    sender_id=="ppl:dbw" ~ NA_real_,
+    is.na(year_a) ~ 0,
+    between(year_a, 1817, 1831) ~ 1,
+    between(year_a, 1831, 1846) ~ 2
+  )) |>
+  mutate(p4ed = case_when(
+    sender_id =="ppl:dbw" ~ NA_real_,
+    is.na(year_a) ~ 0,
+    between(year_a, 1817, 1823) ~ 1,
+    between(year_a, 1824, 1831) ~ 2,
+    between(year_a, 1832, 1836) ~ 3,
+    between(year_a, 1837, 1846) ~ 4
+  )) 
+
+# updated final versions...
+
+dbw_short_names_csv <-
+  read_csv(here::here("data/dbw_short_names_v3_linkage_200715.csv"))
+
+# people
+dbw_ref_persnames <-
+  read_csv(here::here("data/dbw_people_distinct_v3_linkage_20200717.csv"))
+
+# orgs
+dbw_ref_orgnames <-
+  read_csv(here::here("data/dbw_orgs_distinct_final_20200717.csv"))
+
+
+
+#add the prefixes to ref_names at least for now
+#name_d_id "d" for distinct, so it's a bit clearer to you these are the unique refs
+dbw_ref_names <-
+  bind_rows(
+    dbw_ref_persnames |> mutate(name_d_id=paste0("ppl:", name_id)),
+    dbw_ref_orgnames |> mutate(name_d_id = paste0("org:", name_id))
+  ) |>
+  left_join(dbw_short_names_csv, by="name_d_id")
+
+# name instances with name ids
+dbw2_names <-
+  read_csv(here::here("data/dbw2_names_refs_linking_final_20200717.csv"))
+
+dbw3_names <-
+  read_csv(here::here("data/dbw3_names_refs_linking_final_20200717.csv"))
+
+
+dbw_names <-
+  bind_rows(
+    dbw2_names |> mutate(src="dbw2"), 
+    dbw3_names |> mutate(src="dbw3")
+  )  |>
+  rename(name_inst=name, name_d_id=name_ref, obj_id=div_id) |>
+  left_join(dbw_ref_names, by=c("name_d_id")) |> 
+  # # @ref can contain more than one id sep by space; causes various problems, only two names, get rid for now
+  filter(!str_detect(name_d_id, " ")) |>
+  select(name_d_id, name,  role, name_n, obj_id, src, everything())
+
+# correspondents only
+dbw_names_correspondents <-
+dbw_names |>
+  filter(!is.na(name_d_id)) |>
+  left_join(
+  dbw_names |>
+  filter(!is.na(name_d_id), role %in% c("recipient", "sender") #, name_d_id !="ppl:dbw"
+         ) |> 
+  distinct(name_d_id) |>
+  mutate(corr_type = case_when(
+    name_d_id=="ppl:dbw" ~ "dbw",
+    str_detect(name_d_id, "^org") ~ "org",
+    str_detect(name_d_id, "^ppl") ~ "ppl"
+  ))  , by="name_d_id"
+  ) |>
+  mutate(name_type = case_when(
+    name_d_id=="ppl:dbw" ~ "dbw",
+    !is.na(corr_type) ~ "corr",
+    TRUE ~ "non-c"
+  )) |>
+  arrange(obj_id) |>
+  select(name_d_id, name, name_type, corr_type, role, short_name, name_n, obj_id, src, old_id) 
+
+
+
+
+#using widyr::pairwise to create pairs for edges list
+dbw_corr_pair <-
+dbw_names_correspondents |>
+  add_count(name_d_id, name="n_m_corr") |>
+  filter(corr_type=="ppl") |>
+  pairwise_count(short_name, obj_id, upper=F, sort=T) |>
+  filter(n>1)
+
+
+dbw_corr_nodes <-
+dbw_corr_pair |>
+  filter(n>1) |>
+  select(-n) |>
+  pivot_longer(item1:item2, names_to="t", values_to = "label") |>
+  arrange(label) |>
+  distinct(label) |>
+  rowid_to_column("id") 
+
+dbw_corr_edges <-
+dbw_corr_pair |>
+  filter(n>1) |>
+  inner_join(dbw_corr_nodes |> rename(i1_id=id), by=c("item1"="label")) |>
+  inner_join(dbw_corr_nodes |> rename(i2_id=id), by=c("item2"="label")) |>
+  select(s=i1_id, t=i2_id, weight=n,everything()) |>
+  mutate(s=s-1, t=t-1)
+# if i'm reading the docs right, it doesn't matter if the nodes id starts at 1 and the edges s and t start at 0, as long as they are *in the same order*
+
+
+dbw_names_pair_d3 <-
+dbw_names |>
+  add_count(name_d_id, name="n_m") |>
+  filter(str_detect(name_d_id,"ppl")) |>
+  pairwise_count(short_name, obj_id, upper=F, sort=T) |>
+  filter(n>2)
+
+dbw_names_nodes_d3 <-
+dbw_names_pair_d3 |>
+  filter(n>1) |>
+  select(-n) |>
+  pivot_longer(item1:item2, names_to="t", values_to = "label") |>
+  arrange(label) |>
+  distinct(label) |>
+  rowid_to_column("id") 
+
+dbw_names_edges_d3 <-
+dbw_names_pair_d3 |>
+  filter(n>1) |>
+  inner_join(dbw_names_nodes_d3 |> rename(i1_id=id), by=c("item1"="label")) |>
+  inner_join(dbw_names_nodes_d3 |> rename(i2_id=id), by=c("item2"="label")) |>
+  select(s=i1_id, t=i2_id, weight=n,everything()) |>
+  mutate(s=s-1, t=t-1)
+```
+
+
+Network of all names
+
+at least 3 shared mentions
+
+```{r}
+forceNetwork(
+  Links = as.data.frame(dbw_names_edges_d3), Nodes = as.data.frame(dbw_names_nodes_d3),
+  Source = "s", Target = "t",
+  height = 900, width=900, 
+  NodeID = "label", Group = "id", 
+  Value = "weight",
+  opacity = 0.8, fontSize = 14, zoom = TRUE, opacityNoHover = TRUE)
+```
+
+
+
+Network of correspondents only 
+
+at least 2 shared mentions
+
+```{r}
+forceNetwork(
+  Links = as.data.frame(dbw_corr_edges), Nodes = as.data.frame(dbw_corr_nodes),
+  Source = "s", Target = "t",
+  height = 900, width=900, 
+  NodeID = "label", Group = "id", 
+  Value = "weight",
+  opacity = 0.8, fontSize = 14, zoom = TRUE, opacityNoHover = TRUE)
+```
+
+
+
+
+
+
+
+
+```{r}
+kable(
+  dbw_corr_pair |>
+  filter(n>1) |>
+  select(-n) |>
+  pivot_longer(item1:item2, names_to="t", values_to = "label") |>
+  arrange(label) |>
+  distinct(label) |>
+  inner_join(
+    dbw_ref_names |> select(short_name, name) #|> mutate(name_id=str_remove(name_id, "ppl:"))
+    , by=c("label"="short_name")
+  )
+ ) |>
+  kable_styling()
+```

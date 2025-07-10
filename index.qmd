@@ -1,0 +1,18 @@
+---
+title: "Transatlantic Intellectual Networks"
+listing:
+  contents:
+    - "posts/*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  date-format: "D MMM YYYY"
+  page-size: 9
+
+---
+
+
+Some exploratory visualisations for [Transatlantic Intellectual Networks](https://research.ncl.ac.uk/atnu/projects/transatlanticintellectualnetworks/) (2020), a pilot project on the correspondence of [David Bailie Warden (1772-1845)](https://en.wikipedia.org/wiki/David_Bailie_Warden).

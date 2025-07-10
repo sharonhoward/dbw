@@ -1,0 +1,1793 @@
+place_id,name_n,obj_id,name_cln,text
+place_001,obj807-pl-94,obj807,Aix,Aix
+place_002,obj1330-pl-41,obj1330,Alabama,Alabama
+place_003,obj1278-pl-807,obj1278,Albany,Albany
+place_003,obj1340-pl-58,obj1340,Albany,Albany
+place_003,obj1361-pl-86,obj1361,Albany,Albany
+place_003,obj1444-pl-215,obj1444,Albany,Albany
+place_003,obj1515-pl-356,obj1515,Albany,Albany
+place_003,obj1532-pl-409,obj1532,Albany,Albany
+place_003,obj1629-pl-584,obj1629,Albany,Albany
+place_003,obj1649-pl-609,obj1649,Albany,Albany
+place_003,obj1651-pl-613,obj1651,Albany,Albany
+place_003,obj1660-pl-630,obj1660,Albany,Albany
+place_003,obj1660-pl-632,obj1660,Albany,Albany
+place_003,obj1662-pl-640,obj1662,Albany,Albany
+place_003,obj1662-pl-647,obj1662,Albany,Albany
+place_003,obj1719-pl-734,obj1719,Albany,Albany
+place_003,obj1728-pl-750,obj1728,Albany,Albany
+place_003,obj1731-pl-754,obj1731,Albany,Albany
+place_003,obj1746-pl-773,obj1746,Albany,Albany
+place_003,obj1754-pl-787,obj1754,Albany,Albany
+place_003,obj1764-pl-813,obj1764,Albany,Albany
+place_003,obj1766-pl-816,obj1766,Albany,Albany
+place_003,obj1771-pl-829,obj1771,Albany,Albany
+place_003,obj1774-pl-837,obj1774,Albany,Albany
+place_003,obj1776-pl-841,obj1776,Albany,Albany
+place_003,obj1781-pl-846,obj1781,Albany,Albany
+place_003,obj1782-pl-848,obj1782,Albany,Albany
+place_003,obj1784-pl-853,obj1784,Albany,Albany
+place_004,obj1862-pl-939,obj1862,Algiers,Algiers
+place_005,obj763-pl-17,obj763,America,America
+place_005,obj801-pl-81,obj801,America,America
+place_005,obj802-pl-83,obj802,America,America
+place_005,obj804-pl-86,obj804,America,America
+place_005,obj842-pl-136,obj842,America,America
+place_005,obj846-pl-139,obj846,America,America
+place_005,obj861-pl-168,obj861,America,America
+place_005,obj897-pl-215,obj897,America,America
+place_005,obj899-pl-219,obj899,America,America
+place_005,obj902-pl-228,obj902,America,America
+place_005,obj908-pl-234,obj908,America,America
+place_005,obj909-pl-244,obj909,America,America
+place_005,obj935-pl-264,obj935,America,America
+place_005,obj951-pl-287,obj951,America,America
+place_005,obj952-pl-300,obj952,America,America
+place_005,obj952-pl-302,obj952,America,America
+place_005,obj969-pl-327,obj969,America,America
+place_005,obj991-pl-356,obj991,America,America
+place_005,obj1004-pl-375,obj1004,America,America
+place_005,obj1017-pl-390,obj1017,America,America
+place_005,obj1041-pl-425,obj1041,America,America
+place_005,obj1137-pl-588,obj1137,America,America
+place_005,obj1174-pl-648,obj1174,America,America
+place_005,obj1200-pl-680,obj1200,America,America
+place_005,obj1215-pl-704,obj1215,America,America
+place_005,obj1248-pl-737,obj1248,America,America
+place_005,obj1252-pl-744,obj1252,America,America
+place_005,obj1259-pl-764,obj1259,America,America
+place_005,obj1295-pl-839,obj1295,America,America
+place_005,obj1318-pl-18,obj1318,America,America
+place_005,obj1422-pl-173,obj1422,America,America
+place_005,obj1423-pl-176,obj1423,America,America
+place_005,obj1492-pl-314,obj1492,America,America
+place_005,obj1495-pl-324,obj1495,America,America
+place_005,obj1569-pl-486,obj1569,America,America
+place_005,obj1628-pl-581,obj1628,America,America
+place_005,obj1644-pl-597,obj1644,America,America
+place_005,obj1670-pl-665,obj1670,America,America
+place_005,obj1723-pl-743,obj1723,America,America
+place_005,obj1760-pl-807,obj1760,America,America
+place_005,obj1812-pl-867,obj1812,America,America
+place_005,obj1825-pl-875,obj1825,America,America
+place_005,obj1834-pl-893,obj1834,America,America
+place_006,obj895-pl-208,obj895,Amsterdam,Amsterdam
+place_006,obj897-pl-217,obj897,Amsterdam,Amsterdam
+place_006,obj1032-pl-411,obj1032,Amsterdam,Amsterdam
+place_006,obj1602-pl-545,obj1602,Amsterdam,Amsterdam
+place_007,obj1528-pl-386,obj1528,Andalucia,Andalucia
+place_008,obj1555-pl-455,obj1555,Armagh,Armagh
+place_009,obj1670-pl-666,obj1670,Asia,Asia
+place_010,obj1546-pl-439,obj1546,Augusta,Augusta
+place_011,obj1588-pl-517,obj1588,Austria,Austria
+place_012,obj837-pl-126,obj837,Baltimore,[Baltimore?]
+place_013,obj813-pl-100,obj813,Baltimore,Baltimore
+place_013,obj813-pl-101,obj813,Baltimore,Baltimore
+place_013,obj815-pl-103,obj815,Baltimore,Baltimore
+place_013,obj832-pl-112,obj832,Baltimore,Baltimore
+place_013,obj834-pl-114,obj834,Baltimore,Baltimore
+place_013,obj835-pl-116,obj835,Baltimore,Baltimore
+place_013,obj836-pl-119,obj836,Baltimore,Baltimore
+place_013,obj853-pl-151,obj853,Baltimore,Baltimore
+place_013,obj853-pl-156,obj853,Baltimore,Baltimore
+place_013,obj895-pl-212,obj895,Baltimore,Baltimore
+place_013,obj948-pl-281,obj948,Baltimore,Baltimore
+place_013,obj951-pl-289,obj951,Baltimore,Baltimore
+place_013,obj963-pl-315,obj963,Baltimore,Baltimore
+place_013,obj994-pl-360,obj994,Baltimore,Baltimore
+place_013,obj994-pl-361,obj994,Baltimore,Baltimore
+place_013,obj1070-pl-460,obj1070,Baltimore,Baltimore
+place_013,obj1105-pl-526,obj1105,Baltimore,Baltimore
+place_013,obj1184-pl-659,obj1184,Baltimore,Baltimore
+place_013,obj1194-pl-676,obj1194,Baltimore,Baltimore
+place_013,obj1215-pl-702,obj1215,Baltimore,Baltimore
+place_013,obj1233-pl-716,obj1233,Baltimore,Baltimore
+place_013,obj1237-pl-723,obj1237,Baltimore,Baltimore
+place_013,obj1268-pl-785,obj1268,Baltimore,Baltimore
+place_013,obj1282-pl-816,obj1282,Baltimore,Baltimore
+place_013,obj1336-pl-57,obj1336,Baltimore,Baltimore
+place_013,obj1382-pl-113,obj1382,Baltimore,Baltimore
+place_013,obj1383-pl-118,obj1383,Baltimore,Baltimore
+place_013,obj1452-pl-238,obj1452,Baltimore,Baltimore
+place_013,obj1454-pl-244,obj1454,Baltimore,Baltimore
+place_013,obj1457-pl-249,obj1457,Baltimore,Baltimore
+place_013,obj1512-pl-348,obj1512,Baltimore,Baltimore
+place_013,obj1534-pl-416,obj1534,Baltimore,Baltimore
+place_013,obj1542-pl-430,obj1542,Baltimore,Baltimore
+place_013,obj1547-pl-448,obj1547,Baltimore,Baltimore
+place_013,obj1575-pl-499,obj1575,Baltimore,Baltimore
+place_013,obj1628-pl-579,obj1628,Baltimore,Baltimore
+place_013,obj1733-pl-756,obj1733,Baltimore,Baltimore
+place_014,obj910-pl-247,obj910,Banisleu,Banisleu
+place_015,obj1664-pl-653,obj1664,Barcelona,Barcelona
+place_016,obj1827-pl-883,obj1827,Bas Rhin,Bas Rhin
+place_017,obj1137-pl-576,obj1137,Bath,Bath
+place_018,obj1750-pl-782,obj1750,Bealey Beach,Bealey Beach [?]
+place_019,obj1078-pl-469,obj1078,Belfast,Belfast
+place_019,obj1299-pl-843,obj1299,Belfast,Belfast
+place_019,obj1299-pl-844,obj1299,Belfast,Belfast
+place_019,obj1556-pl-457,obj1556,Belfast,Belfast
+place_019,obj1730-pl-752,obj1730,Belfast,Belfast
+place_019,obj1736-pl-762,obj1736,Belfast,Belfast
+place_019,obj1750-pl-781,obj1750,Belfast,Belfast
+place_019,obj1770-pl-824,obj1770,Belfast,Belfast
+place_020,obj1624-pl-569,obj1624,"Wellington Place, Belfast","11 Wellington Place, Belfast"
+place_021,obj1271-pl-791,obj1271,Berlin,Berlin
+place_021,obj1271-pl-794,obj1271,Berlin,Berlin
+place_021,obj1271-pl-796,obj1271,Berlin,Berlin
+place_021,obj1478-pl-298,obj1478,Berlin,Berlin
+place_021,obj1481-pl-306,obj1481,Berlin,Berlin
+place_021,obj1490-pl-310,obj1490,Berlin,Berlin
+place_021,obj1567-pl-478,obj1567,Berlin,Berlin
+place_021,obj1567-pl-480,obj1567,Berlin,Berlin
+place_021,obj1578-pl-505,obj1578,Berlin,Berlin
+place_021,obj1602-pl-543,obj1602,Berlin,Berlin
+place_021,obj1614-pl-557,obj1614,Berlin,Berlin
+place_022,obj1826-pl-878,obj1826,Besançon,Besançon
+place_023,obj950-pl-283,obj950,Birmingham,Birmingham
+place_024,obj877-pl-189,obj877,Bordeaux,Bordeaux
+place_024,obj892-pl-201,obj892,Bordeaux,Bordeaux
+place_024,obj911-pl-248,obj911,Bordeaux,Bordeaux
+place_024,obj1044-pl-436,obj1044,Bordeaux,Bordeaux
+place_025,obj833-pl-113,obj833,Boston,Boston
+place_025,obj864-pl-173,obj864,Boston,Boston
+place_025,obj864-pl-174,obj864,Boston,Boston
+place_025,obj1040-pl-419,obj1040,Boston,Boston
+place_025,obj1043-pl-430,obj1043,Boston,Boston
+place_025,obj1050-pl-443,obj1050,Boston,Boston
+place_025,obj1110-pl-531,obj1110,Boston,Boston
+place_025,obj1141-pl-594,obj1141,Boston,Boston
+place_025,obj1153-pl-619,obj1153,Boston,Boston
+place_025,obj1166-pl-633,obj1166,Boston,Boston
+place_025,obj1166-pl-634,obj1166,Boston,Boston
+place_025,obj1168-pl-637,obj1168,Boston,Boston
+place_025,obj1174-pl-647,obj1174,Boston,Boston
+place_025,obj1185-pl-662,obj1185,Boston,Boston
+place_025,obj1205-pl-687,obj1205,Boston,Boston
+place_025,obj1206-pl-690,obj1206,Boston,Boston
+place_025,obj1210-pl-695,obj1210,Boston,Boston
+place_025,obj1211-pl-696,obj1211,Boston,Boston
+place_025,obj1211-pl-697,obj1211,Boston,Boston
+place_025,obj1243-pl-732,obj1243,Boston,Boston
+place_025,obj1275-pl-802,obj1275,Boston,Boston
+place_025,obj1284-pl-819,obj1284,Boston,Boston
+place_025,obj1285-pl-821,obj1285,Boston,Boston
+place_025,obj1315-pl-12,obj1315,Boston,Boston
+place_025,obj1344-pl-60,obj1344,Boston,Boston
+place_025,obj1345-pl-63,obj1345,Boston,Boston
+place_025,obj1353-pl-72,obj1353,Boston,Boston
+place_025,obj1353-pl-75,obj1353,Boston,Boston
+place_025,obj1364-pl-90,obj1364,Boston,Boston
+place_025,obj1365-pl-92,obj1365,Boston,Boston
+place_025,obj1365-pl-93,obj1365,Boston,Boston
+place_025,obj1366-pl-95,obj1366,Boston,Boston
+place_025,obj1371-pl-99,obj1371,Boston,Boston
+place_025,obj1371-pl-100,obj1371,Boston,Boston
+place_025,obj1445-pl-223,obj1445,Boston,Boston
+place_025,obj1493-pl-320,obj1493,Boston,Boston
+place_025,obj1493-pl-321,obj1493,Boston,Boston
+place_025,obj1501-pl-331,obj1501,Boston,Boston
+place_025,obj1502-pl-333,obj1502,Boston,Boston
+place_025,obj1503-pl-334,obj1503,Boston,Boston
+place_025,obj1520-pl-368,obj1520,Boston,Boston
+place_025,obj1644-pl-598,obj1644,Boston,Boston
+place_025,obj1646-pl-605,obj1646,Boston,Boston
+place_025,obj1657-pl-628,obj1657,Boston,Boston
+place_025,obj1661-pl-638,obj1661,Boston,Boston
+place_025,obj1666-pl-657,obj1666,Boston,Boston
+place_025,obj1669-pl-661,obj1669,Boston,Boston
+place_025,obj1694-pl-699,obj1694,Boston,Boston
+place_025,obj1694-pl-700,obj1694,Boston,Boston
+place_025,obj1699-pl-707,obj1699,Boston,Boston
+place_025,obj1735-pl-761,obj1735,Boston,Boston
+place_025,obj1740-pl-766,obj1740,Boston,Boston
+place_025,obj1757-pl-794,obj1757,Boston,Boston
+place_025,obj1758-pl-799,obj1758,Boston,Boston
+place_025,obj1758-pl-800,obj1758,Boston,Boston
+place_025,obj1758-pl-801,obj1758,Boston,Boston
+place_025,obj1759-pl-803,obj1759,Boston,Boston
+place_025,obj1760-pl-809,obj1760,Boston,Boston
+place_025,obj1857-pl-935,obj1857,Boston,Boston
+place_025,obj1870-pl-946,obj1870,Boston,Boston
+place_026,obj905-pl-231,obj905,Boulevd. Des Invalides,Boulevd. Des Invalides
+place_027,obj1380-pl-111,obj1380,Boulevard St Martin,Boulevard St Martin
+place_028,obj1108-pl-528,obj1108,Brasil,Brasil
+place_028,obj1477-pl-292,obj1477,Brasil,Brasil
+place_028,obj1891-pl-955,obj1891,Brasil,Brasil
+place_029,obj1137-pl-582,obj1137,Brighton,Brighton
+place_030,obj839-pl-132,obj839,Bristol,Bristol
+place_031,obj1137-pl-585,obj1137,Bristol,Bristol
+place_032,obj952-pl-301,obj952,Britain,Britain
+place_032,obj1098-pl-504,obj1098,Britain,Britain
+place_032,obj1259-pl-769,obj1259,Britain,Britain
+place_033,obj1279-pl-811,obj1279,Brunwick,Brunwick
+place_034,obj1123-pl-546,obj1123,Brussels,Brussels
+place_034,obj1334-pl-55,obj1334,Brussels,Brussels
+place_034,obj1404-pl-144,obj1404,Brussels,Brussels
+place_034,obj1521-pl-371,obj1521,Brussels,Brussels
+place_034,obj1644-pl-595,obj1644,Brussels,Brussels
+place_034,obj1708-pl-721,obj1708,Brussels,Brussels
+place_035,obj1891-pl-953,obj1891,Buenos Ayres,Buenos Ayres
+place_036,obj1478-pl-295,obj1478,Calais,Calais
+place_037,obj870-pl-184,obj870,Cambray,Cambray
+place_038,obj926-pl-260,obj926,Cambridge,Cambridge
+place_038,obj1110-pl-533,obj1110,Cambridge,Cambridge
+place_038,obj1700-pl-708,obj1700,Cambridge,Cambridge
+place_039,obj972-pl-330,obj972,Canada,Canada
+place_040,obj1043-pl-435,obj1043,Cape Horn,Cape Horn
+place_041,obj972-pl-331,obj972,Cape of Good Hope,Cape of Good Hope
+place_041,obj1043-pl-432,obj1043,Cape of Good Hope,Cape of Good Hope
+place_041,obj1843-pl-910,obj1843,Cape of Good Hope,Cape of Good Hope
+place_041,obj1844-pl-915,obj1844,Cape of Good Hope,Cape of Good Hope
+place_042,obj1891-pl-954,obj1891,Caracus,Caracus
+place_043,obj868-pl-180,obj868,Carolina,Carolina
+place_043,obj950-pl-284,obj950,Carolina,Carolina
+place_044,obj1528-pl-385,obj1528,Castillo and Leon,Castillo and Leon
+place_045,obj936-pl-267,obj936,Champs Elysees,Champs Elysees
+place_046,obj1816-pl-870,obj1816,Chantilly,Chantilly
+place_047,obj757-pl-9,obj757,Charleston,Charleston
+place_047,obj772-pl-32,obj772,Charleston,Charleston
+place_047,obj790-pl-64,obj790,Charleston,Charleston
+place_047,obj850-pl-147,obj850,Charleston,Charleston
+place_047,obj893-pl-203,obj893,Charleston,Charleston
+place_047,obj947-pl-279,obj947,Charleston,Charleston
+place_047,obj958-pl-309,obj958,Charleston,Charleston
+place_047,obj960-pl-313,obj960,Charleston,Charleston
+place_047,obj1020-pl-396,obj1020,Charleston,Charleston
+place_047,obj1372-pl-102,obj1372,Charleston,Charleston
+place_047,obj1378-pl-108,obj1378,Charleston,Charleston
+place_047,obj1395-pl-127,obj1395,Charleston,Charleston
+place_047,obj1405-pl-147,obj1405,Charleston,Charleston
+place_047,obj1498-pl-328,obj1498,Charleston,Charleston
+place_047,obj1510-pl-343,obj1510,Charleston,Charleston
+place_047,obj1511-pl-346,obj1511,Charleston,Charleston
+place_047,obj1513-pl-351,obj1513,Charleston,Charleston
+place_047,obj1530-pl-390,obj1530,Charleston,Charleston
+place_047,obj1530-pl-398,obj1530,Charleston,Charleston
+place_047,obj1530-pl-405,obj1530,Charleston,Charleston
+place_047,obj1536-pl-420,obj1536,Charleston,Charleston
+place_047,obj1549-pl-449,obj1549,Charleston,Charleston
+place_047,obj1550-pl-451,obj1550,Charleston,Charleston
+place_047,obj1616-pl-559,obj1616,Charleston,Charleston
+place_048,obj1137-pl-579,obj1137,Cherbourg,Cherbourg
+place_049,obj1043-pl-431,obj1043,China,China
+place_049,obj1843-pl-909,obj1843,China,China
+place_049,obj1844-pl-913,obj1844,China,China
+place_050,obj1530-pl-406,obj1530,Cincinatti,Cincinatti
+place_051,obj1613-pl-556,obj1613,Cincinnati,Cincinnati
+place_052,obj1557-pl-459,obj1557,Cinncinati,Cinncinati
+place_053,obj1145-pl-605,obj1145,Cleveland,Cleveland
+place_054,obj1819-pl-871,obj1819,Colombia,Colombia
+place_054,obj1841-pl-902,obj1841,Colombia,Colombia
+place_055,obj1841-pl-903,obj1841,Veragua,Veragua
+place_056,obj909-pl-246,obj909,Connecticut,Connecticut
+place_056,obj1479-pl-303,obj1479,Connecticut,Connecticut
+place_056,obj1773-pl-835,obj1773,Connecticut,Connecticut
+place_057,obj1751-pl-783,obj1751,"Harford, Connecticut","Harford, Connecticut"
+place_058,obj1249-pl-739,obj1249,Copenhagen,Copenhagen
+place_059,obj769-pl-28,obj769,Cork,Cork
+place_060,obj1144-pl-600,obj1144,Costa Rica,Costa Rica
+place_061,obj1145-pl-603,obj1145,County of Tuscarawas,County of Tuscarawas
+place_062,obj980-pl-347,obj980,County of Wicklow,County of Wicklow
+place_063,obj1053-pl-447,obj1053,Cuba,Cuba
+place_063,obj1842-pl-906,obj1842,Cuba,Cuba
+place_064,obj1610-pl-555,obj1610,Island of Cuba,Island of Cuba
+place_065,obj1662-pl-643,obj1662,Detroit,Detroit
+place_066,obj1137-pl-581,obj1137,Dieppe,Dieppe
+place_067,obj952-pl-305,obj952,"Coxes buildings, Georgetown, District of Columbia","Coxes buildings, Georgetown, District of Columbia"
+place_068,obj780-pl-53,obj780,District of Columbia,District of Columbia
+place_068,obj831-pl-110,obj831,District of Columbia,District of Columbia
+place_068,obj886-pl-196,obj886,District of Columbia,District of Columbia
+place_069,obj1004-pl-373,obj1004,"Georgetown, District of Columbia","Georgetown, District of Columbia"
+place_070,obj1713-pl-727,obj1713,Downpatrick,Downpatrick
+place_071,obj1478-pl-299,obj1478,Dresden,Dresden
+place_072,obj1138-pl-590,obj1138,"Belvedere Place, Dublin","15 Belvedere Place, Dublin"
+place_073,obj762-pl-15,obj762,Dublin,Dublin
+place_073,obj776-pl-43,obj776,Dublin,Dublin
+place_073,obj783-pl-55,obj783,Dublin,Dublin
+place_073,obj789-pl-61,obj789,Dublin,Dublin
+place_073,obj799-pl-74,obj799,Dublin,Dublin
+place_073,obj936-pl-265,obj936,Dublin,Dublin
+place_073,obj940-pl-269,obj940,Dublin,Dublin
+place_073,obj1183-pl-658,obj1183,Dublin,Dublin
+place_073,obj1193-pl-673,obj1193,Dublin,Dublin
+place_074,obj980-pl-346,obj980,"Kildare Street, Dublin","Kildare Street, Dublin"
+place_075,obj873-pl-186,obj873,"north Frederick street, Dublin","3, north Frederick street, Dublin"
+place_076,obj1164-pl-631,obj1164,Trinity College Dublin,Trinity College Dublin
+place_076,obj1183-pl-656,obj1183,Trinity College Dublin,Trinity College Dublin
+place_077,obj1408-pl-152,obj1408,East Hartford,East Hartford
+place_078,obj1843-pl-908,obj1843,Eastern Indies,Eastern Indies
+place_079,obj1263-pl-780,obj1263,Edenburg,Edenburg
+place_080,obj1060-pl-451,obj1060,Edgeworthstown,Edgeworthstown
+place_081,obj863-pl-170,obj863,Edinburgh,[Edinburgh]
+place_082,obj826-pl-108,obj826,Edinburgh,Edinburgh
+place_082,obj831-pl-109,obj831,Edinburgh,Edinburgh
+place_082,obj868-pl-181,obj868,Edinburgh,Edinburgh
+place_082,obj870-pl-183,obj870,Edinburgh,Edinburgh
+place_082,obj895-pl-210,obj895,Edinburgh,Edinburgh
+place_082,obj900-pl-221,obj900,Edinburgh,Edinburgh
+place_082,obj944-pl-275,obj944,Edinburgh,Edinburgh
+place_082,obj972-pl-334,obj972,Edinburgh,Edinburgh
+place_082,obj1061-pl-453,obj1061,Edinburgh,Edinburgh
+place_082,obj1156-pl-623,obj1156,Edinburgh,Edinburgh
+place_082,obj1283-pl-818,obj1283,Edinburgh,Edinburgh
+place_082,obj1288-pl-831,obj1288,Edinburgh,Edinburgh
+place_082,obj1348-pl-65,obj1348,Edinburgh,Edinburgh
+place_082,obj1567-pl-482,obj1567,Edinburgh,Edinburgh
+place_082,obj1826-pl-877,obj1826,Edinburgh,Edinburgh
+place_083,obj1547-pl-446,obj1547,Egypt,Egypt
+place_084,obj1746-pl-776,obj1746,Elba,Elba
+place_085,obj769-pl-25,obj769,England,England
+place_085,obj783-pl-57,obj783,England,England
+place_085,obj791-pl-65,obj791,England,England
+place_085,obj835-pl-117,obj835,England,England
+place_085,obj837-pl-127,obj837,England,England
+place_085,obj847-pl-141,obj847,England,England
+place_085,obj894-pl-206,obj894,England,England
+place_085,obj895-pl-213,obj895,England,England
+place_085,obj908-pl-236,obj908,England,England
+place_085,obj922-pl-257,obj922,England,England
+place_085,obj1001-pl-372,obj1001,England,England
+place_085,obj1075-pl-465,obj1075,England,England
+place_085,obj1090-pl-484,obj1090,England,England
+place_085,obj1099-pl-509,obj1099,England,England
+place_085,obj1126-pl-557,obj1126,England,England
+place_085,obj1134-pl-572,obj1134,England,England
+place_085,obj1137-pl-577,obj1137,England,England
+place_085,obj1141-pl-595,obj1141,England,England
+place_085,obj1207-pl-691,obj1207,England,England
+place_085,obj1288-pl-829,obj1288,England,England
+place_085,obj1330-pl-39,obj1330,England,England
+place_085,obj1444-pl-218,obj1444,England,England
+place_085,obj1474-pl-284,obj1474,England,England
+place_085,obj1476-pl-289,obj1476,England,England
+place_085,obj1492-pl-315,obj1492,England,England
+place_085,obj1593-pl-525,obj1593,England,England
+place_085,obj1629-pl-586,obj1629,England,England
+place_085,obj1643-pl-594,obj1643,England,England
+place_085,obj1651-pl-617,obj1651,England,England
+place_085,obj1723-pl-745,obj1723,England,England
+place_085,obj1757-pl-797,obj1757,England,England
+place_085,obj1819-pl-872,obj1819,England,England
+place_085,obj1847-pl-925,obj1847,England,England
+place_086,obj778-pl-46,obj778,Europe,Europe
+place_086,obj874-pl-188,obj874,Europe,Europe
+place_086,obj877-pl-191,obj877,Europe,Europe
+place_086,obj900-pl-223,obj900,Europe,Europe
+place_086,obj951-pl-288,obj951,Europe,Europe
+place_086,obj967-pl-324,obj967,Europe,Europe
+place_086,obj1010-pl-382,obj1010,Europe,Europe
+place_086,obj1011-pl-385,obj1011,Europe,Europe
+place_086,obj1049-pl-442,obj1049,Europe,Europe
+place_086,obj1099-pl-506,obj1099,Europe,Europe
+place_086,obj1101-pl-513,obj1101,Europe,Europe
+place_086,obj1104-pl-525,obj1104,Europe,Europe
+place_086,obj1110-pl-532,obj1110,Europe,Europe
+place_086,obj1132-pl-568,obj1132,Europe,Europe
+place_086,obj1259-pl-763,obj1259,Europe,Europe
+place_086,obj1263-pl-779,obj1263,Europe,Europe
+place_086,obj1282-pl-817,obj1282,Europe,Europe
+place_086,obj1320-pl-22,obj1320,Europe,Europe
+place_086,obj1375-pl-106,obj1375,Europe,Europe
+place_086,obj1390-pl-122,obj1390,Europe,Europe
+place_086,obj1414-pl-161,obj1414,Europe,Europe
+place_086,obj1415-pl-162,obj1415,Europe,Europe
+place_086,obj1423-pl-175,obj1423,Europe,Europe
+place_086,obj1434-pl-195,obj1434,Europe,Europe
+place_086,obj1439-pl-204,obj1439,Europe,Europe
+place_086,obj1440-pl-210,obj1440,Europe,Europe
+place_086,obj1451-pl-237,obj1451,Europe,Europe
+place_086,obj1460-pl-256,obj1460,Europe,Europe
+place_086,obj1467-pl-270,obj1467,Europe,Europe
+place_086,obj1505-pl-338,obj1505,Europe,Europe
+place_086,obj1525-pl-377,obj1525,Europe,Europe
+place_086,obj1527-pl-382,obj1527,Europe,Europe
+place_086,obj1544-pl-436,obj1544,Europe,Europe
+place_086,obj1600-pl-538,obj1600,Europe,Europe
+place_086,obj1628-pl-580,obj1628,Europe,Europe
+place_086,obj1683-pl-682,obj1683,Europe,Europe
+place_086,obj1760-pl-808,obj1760,Europe,Europe
+place_086,obj1870-pl-945,obj1870,Europe,Europe
+place_087,obj1466-pl-265,obj1466,Falls of Maryland,Falls of Maryland
+place_088,obj916-pl-251,obj916,Firenze,Firenze
+place_089,obj1089-pl-481,obj1089,Florence,Florence
+place_089,obj1163-pl-630,obj1163,Florence,Florence
+place_090,obj1206-pl-689,obj1206,Florida,Florida
+place_090,obj1510-pl-344,obj1510,Florida,Florida
+place_090,obj1530-pl-399,obj1530,Florida,Florida
+place_090,obj1530-pl-401,obj1530,Florida,Florida
+place_090,obj1687-pl-688,obj1687,Florida,Florida
+place_090,obj1846-pl-920,obj1846,Florida,Florida
+place_091,obj1122-pl-539,obj1122,Greek Colony,Greek Colony
+place_092,obj1816-pl-869,obj1816,Fontenay-aux-Roses,Fontenay-aux-Roses
+place_092,obj1823-pl-873,obj1823,Fontenay-aux-Roses,Fontenay-aux-Roses
+place_093,obj972-pl-336,obj972,"Kerrymuir, Forfarshire","Kerrymuir, Forfarshire"
+place_094,obj949-pl-282,obj949,"Lindectis, Forfarshire","Lindectis, Forfarshire"
+place_095,obj972-pl-335,obj972,"Lindentis, Forfarshire","Lindentis, Forfarshire"
+place_096,obj1405-pl-148,obj1405,Fort Mitchell,Fort Mitchell
+place_097,obj1476-pl-290,obj1476,Fort Vancouver,Fort Vancouver
+place_098,obj776-pl-44,obj776,France,France
+place_098,obj804-pl-85,obj804,France,France
+place_098,obj806-pl-89,obj806,France,France
+place_098,obj835-pl-118,obj835,France,France
+place_098,obj837-pl-128,obj837,France,France
+place_098,obj846-pl-140,obj846,France,France
+place_098,obj847-pl-142,obj847,France,France
+place_098,obj853-pl-152,obj853,France,France
+place_098,obj860-pl-167,obj860,France,France
+place_098,obj888-pl-199,obj888,France,France
+place_098,obj951-pl-292,obj951,France,France
+place_098,obj952-pl-296,obj952,France,France
+place_098,obj974-pl-339,obj974,France,France
+place_098,obj978-pl-344,obj978,France,France
+place_098,obj1011-pl-387,obj1011,France,France
+place_098,obj1033-pl-414,obj1033,France,France
+place_098,obj1090-pl-483,obj1090,France,France
+place_098,obj1097-pl-498,obj1097,France,France
+place_098,obj1098-pl-503,obj1098,France,France
+place_098,obj1130-pl-564,obj1130,France,France
+place_098,obj1207-pl-692,obj1207,France,France
+place_098,obj1235-pl-721,obj1235,France,France
+place_098,obj1255-pl-755,obj1255,France,France
+place_098,obj1259-pl-768,obj1259,France,France
+place_098,obj1260-pl-775,obj1260,France,France
+place_098,obj1261-pl-777,obj1261,France,France
+place_098,obj1299-pl-845,obj1299,France,France
+place_098,obj1330-pl-38,obj1330,France,France
+place_098,obj1416-pl-165,obj1416,France,France
+place_098,obj1436-pl-199,obj1436,France,France
+place_098,obj1444-pl-217,obj1444,France,France
+place_098,obj1463-pl-262,obj1463,France,France
+place_098,obj1467-pl-269,obj1467,France,France
+place_098,obj1475-pl-287,obj1475,France,France
+place_098,obj1477-pl-294,obj1477,France,France
+place_098,obj1478-pl-301,obj1478,France,France
+place_098,obj1492-pl-318,obj1492,France,France
+place_098,obj1514-pl-355,obj1514,France,France
+place_098,obj1515-pl-357,obj1515,France,France
+place_098,obj1526-pl-380,obj1526,France,France
+place_098,obj1530-pl-402,obj1530,France,France
+place_098,obj1544-pl-435,obj1544,France,France
+place_098,obj1555-pl-456,obj1555,France,France
+place_098,obj1564-pl-475,obj1564,France,France
+place_098,obj1572-pl-493,obj1572,France,France
+place_098,obj1593-pl-526,obj1593,France,France
+place_098,obj1643-pl-593,obj1643,France,France
+place_098,obj1651-pl-618,obj1651,France,France
+place_098,obj1672-pl-670,obj1672,France,France
+place_098,obj1681-pl-679,obj1681,France,France
+place_098,obj1689-pl-691,obj1689,France,France
+place_098,obj1723-pl-746,obj1723,France,France
+place_098,obj1764-pl-814,obj1764,France,France
+place_098,obj1826-pl-880,obj1826,France,France
+place_098,obj1827-pl-881,obj1827,France,France
+place_098,obj1829-pl-892,obj1829,France,France
+place_098,obj1865-pl-942,obj1865,France,France
+place_098,obj1867-pl-943,obj1867,France,France
+place_099,obj759-pl-13,obj759,South of France,South of France
+place_100,obj1602-pl-546,obj1602,Frankfort,Frankfort
+place_101,obj1827-pl-886,obj1827,Gard,Gard
+place_102,obj755-pl-3,obj755,Geneva,Geneva
+place_102,obj755-pl-5,obj755,Geneva,Geneva
+place_102,obj895-pl-209,obj895,Geneva,Geneva
+place_102,obj897-pl-214,obj897,Geneva,Geneva
+place_102,obj899-pl-218,obj899,Geneva,Geneva
+place_102,obj1032-pl-412,obj1032,Geneva,Geneva
+place_102,obj1041-pl-422,obj1041,Geneva,Geneva
+place_102,obj1041-pl-424,obj1041,Geneva,Geneva
+place_102,obj1102-pl-518,obj1102,Geneva,Geneva
+place_102,obj1227-pl-714,obj1227,Geneva,Geneva
+place_102,obj1770-pl-823,obj1770,Geneva,Geneva
+place_103,obj1032-pl-409,obj1032,Geneve,Geneve
+place_104,obj836-pl-120,obj836,George Town,George Town
+place_105,obj952-pl-295,obj952,Georgetown,Georgetown
+place_105,obj1065-pl-456,obj1065,Georgetown,Georgetown
+place_105,obj1080-pl-473,obj1080,Georgetown,Georgetown
+place_105,obj1081-pl-475,obj1081,Georgetown,Georgetown
+place_105,obj1260-pl-770,obj1260,Georgetown,Georgetown
+place_105,obj1891-pl-951,obj1891,Georgetown,Georgetown
+place_106,obj1442-pl-212,obj1442,"Augusta, Georgia","Augusta, Georgia"
+place_107,obj958-pl-310,obj958,Georgia,Georgia
+place_107,obj1330-pl-40,obj1330,Georgia,Georgia
+place_107,obj1405-pl-150,obj1405,Georgia,Georgia
+place_107,obj1512-pl-349,obj1512,Georgia,Georgia
+place_107,obj1530-pl-397,obj1530,Georgia,Georgia
+place_107,obj1685-pl-685,obj1685,Georgia,Georgia
+place_108,obj1422-pl-171,obj1422,Germany,Germany
+place_108,obj1530-pl-400,obj1530,Germany,Germany
+place_108,obj1530-pl-403,obj1530,Germany,Germany
+place_108,obj1760-pl-810,obj1760,Germany,Germany
+place_109,obj792-pl-67,obj792,Ghent,Ghent
+place_110,obj1151-pl-613,obj1151,Gibraltar,Gibraltar
+place_111,obj1564-pl-476,obj1564,Glasgow,Glasgow
+place_111,obj1707-pl-717,obj1707,Glasgow,Glasgow
+place_111,obj1708-pl-719,obj1708,Glasgow,Glasgow
+place_111,obj1708-pl-720,obj1708,Glasgow,Glasgow
+place_111,obj1723-pl-742,obj1723,Glasgow,Glasgow
+place_112,obj752-pl-1,obj752,Gottingen,Gottingen
+place_113,obj860-pl-166,obj860,Great Britain,Great Britain
+place_113,obj909-pl-243,obj909,Great Britain,Great Britain
+place_114,obj1185-pl-663,obj1185,Greece,Greece
+place_115,obj1510-pl-345,obj1510,Greenville village,Greenville village
+place_116,obj1093-pl-486,obj1093,Guatemala,Guatemala
+place_116,obj1596-pl-527,obj1596,Guatemala,Guatemala
+place_116,obj1841-pl-905,obj1841,Guatemala,Guatemala
+place_116,obj1850-pl-931,obj1850,Guatemala,Guatemala
+place_117,obj1395-pl-132,obj1395,Gulph of Florida,Gulph of Florida
+place_118,obj1108-pl-529,obj1108,Hamburg,Hamburg
+place_118,obj1673-pl-672,obj1673,Hamburg,Hamburg
+place_119,obj1269-pl-999,obj1269,Harvard,Harvard
+place_119,obj1284-pl-820,obj1284,Harvard,Harvard
+place_119,obj1497-pl-999,obj1497,Harvard,Harvard
+place_119,obj1618-pl-999,obj1618,Harvard,Harvard
+place_119,obj1656-pl-627,obj1656,Harvard,Harvard
+place_119,obj1682-pl-999,obj1682,Harvard,Harvard
+place_119,obj1696-pl-704,obj1696,Harvard,Harvard
+place_120,obj1827-pl-882,obj1827,Haut Rhin,Haut Rhin
+place_121,obj1269-pl-786,obj1269,Havana,Havana
+place_122,obj773-pl-34,obj773,Havre,Havre
+place_122,obj997-pl-365,obj997,Havre,Havre
+place_122,obj1009-pl-379,obj1009,Havre,Havre
+place_122,obj1019-pl-392,obj1019,Havre,Havre
+place_122,obj1041-pl-426,obj1041,Havre,Havre
+place_122,obj1042-pl-428,obj1042,Havre,Havre
+place_122,obj1063-pl-455,obj1063,Havre,Havre
+place_122,obj1123-pl-548,obj1123,Havre,Havre
+place_122,obj1137-pl-580,obj1137,Havre,Havre
+place_122,obj1366-pl-97,obj1366,Havre,Havre
+place_122,obj1424-pl-177,obj1424,Havre,Havre
+place_122,obj1444-pl-220,obj1444,Havre,Havre
+place_122,obj1651-pl-614,obj1651,Havre,Havre
+place_123,obj1138-pl-591,obj1138,Holland,Holland
+place_123,obj1253-pl-749,obj1253,Holland,Holland
+place_123,obj1534-pl-417,obj1534,Holland,Holland
+place_124,obj1693-pl-697,obj1693,Homestead,Homestead
+place_125,obj1599-pl-536,obj1599,Hotel d’Hollande,Hotel d’Hollande
+place_126,obj1770-pl-822,obj1770,Hotel de France,Hotel de France
+place_127,obj1227-pl-713,obj1227,Hotel de Lille,Hotel de Lille
+place_128,obj1000-pl-369,obj1000,Hotel du Nord,Hotel du Nord
+place_129,obj1482-pl-307,obj1482,Hotel Montmorency,Hotel Montmorency
+place_130,obj1238-pl-726,obj1238,Hotel rue comedle,Hotel rue comedle
+place_131,obj1395-pl-131,obj1395,Hudson’s Bay,Hudson’s Bay
+place_132,obj1320-pl-20,obj1320,Hyde Park,Hyde Park
+place_133,obj868-pl-179,obj868,Illinois,Illinois
+place_134,obj1043-pl-433,obj1043,India,India
+place_135,obj836-pl-123,obj836,Iona,Iona
+place_136,obj769-pl-27,obj769,Ireland,Ireland
+place_136,obj789-pl-63,obj789,Ireland,Ireland
+place_136,obj836-pl-122,obj836,Ireland,Ireland
+place_136,obj853-pl-154,obj853,Ireland,Ireland
+place_136,obj854-pl-158,obj854,Ireland,Ireland
+place_136,obj911-pl-249,obj911,Ireland,Ireland
+place_136,obj980-pl-349,obj980,Ireland,Ireland
+place_136,obj994-pl-362,obj994,Ireland,Ireland
+place_136,obj1215-pl-703,obj1215,Ireland,Ireland
+place_136,obj1233-pl-717,obj1233,Ireland,Ireland
+place_136,obj1288-pl-830,obj1288,Ireland,Ireland
+place_136,obj1538-pl-424,obj1538,Ireland,Ireland
+place_136,obj1628-pl-582,obj1628,Ireland,Ireland
+place_136,obj1801-pl-865,obj1801,Ireland,Ireland
+place_137,obj1849-pl-930,obj1849,The Island of France and Bourbon,The Island of France and Bourbon
+place_138,obj798-pl-73,obj798,Italy,Italy
+place_138,obj936-pl-266,obj936,Italy,Italy
+place_138,obj983-pl-351,obj983,Italy,Italy
+place_138,obj1075-pl-466,obj1075,Italy,Italy
+place_138,obj1447-pl-228,obj1447,Italy,Italy
+place_138,obj1473-pl-281,obj1473,Italy,Italy
+place_138,obj1475-pl-288,obj1475,Italy,Italy
+place_138,obj1530-pl-404,obj1530,Italy,Italy
+place_138,obj1607-pl-550,obj1607,Italy,Italy
+place_138,obj1610-pl-554,obj1610,Italy,Italy
+place_139,obj1142-pl-597,obj1142,Jubingen,Jubingen
+place_140,obj1263-pl-778,obj1263,Kentucky,Kentucky
+place_140,obj1846-pl-922,obj1846,Kentucky,Kentucky
+place_141,obj763-pl-18,obj763,Lexington KY,Lexington KY
+place_142,obj1061-pl-452,obj1061,"Lindvitis, Kerriemuir","Lindvitis, Kerriemuir"
+place_143,obj1785-pl-854,obj1785,Kinderhook,Kinderhook
+place_144,obj1408-pl-153,obj1408,Kingston,Kingston
+place_145,add1181-pl-001,add1181,la Commune de Chailly,la Commune de Chailly
+place_146,obj977-pl-341,obj977,La Grange,La Grange
+place_146,obj1031-pl-408,obj1031,La Grange,La Grange
+place_146,obj1119-pl-534,obj1119,La Grange,La Grange
+place_146,obj1160-pl-628,obj1160,La Grange,La Grange
+place_146,obj1374-pl-105,obj1374,La Grange,La Grange
+place_147,obj1560-pl-465,obj1560,La Mancha,La Mancha
+place_148,obj1145-pl-606,obj1145,Lake Erie,Lake Erie
+place_148,obj1453-pl-243,obj1453,Lake Erie,Lake Erie
+place_149,obj1102-pl-517,obj1102,Lausanne,Lausanne
+place_149,obj1103-pl-522,obj1103,Lausanne,Lausanne
+place_149,obj1245-pl-734,obj1245,Lausanne,Lausanne
+place_150,obj867-pl-178,obj867,Le Grange Blemeau Rogoy,Le Grange Blemeau Rogoy
+place_151,obj991-pl-358,obj991,Leghorn,Leghorn
+place_152,obj1254-pl-750,obj1254,Liberia,Liberia
+place_152,obj1254-pl-752,obj1254,Liberia,Liberia
+place_153,obj1126-pl-556,obj1126,Livano,Livano
+place_154,obj951-pl-286,obj951,Liverpool,Liverpool
+place_154,obj1047-pl-440,obj1047,Liverpool,Liverpool
+place_154,obj1098-pl-501,obj1098,Liverpool,Liverpool
+place_154,obj1134-pl-574,obj1134,Liverpool,Liverpool
+place_154,obj1259-pl-766,obj1259,Liverpool,Liverpool
+place_154,obj1444-pl-221,obj1444,Liverpool,Liverpool
+place_154,obj1735-pl-760,obj1735,Liverpool,Liverpool
+place_154,obj1772-pl-831,obj1772,Liverpool,Liverpool
+place_155,obj1263-pl-781,obj1263,Liverpooll,Liverpooll
+place_156,obj972-pl-333,obj972,Allermark St London,Allermark St London
+place_157,obj1306-pl-2,obj1306,"Chapel Street Grosvenor Place, London","28 Chapel Street Grosvenor Place, London"
+place_158,obj1287-pl-824,obj1287,"Chapel Street, Grosvenor Place, London","28 Chapel Street, Grosvenor Place, London"
+place_159,obj1325-pl-27,obj1325,"Guildford Street, London","90 Guildford Street, London"
+place_160,obj762-pl-16,obj762,London,London
+place_160,obj773-pl-36,obj773,London,London
+place_160,obj779-pl-48,obj779,London,London
+place_160,obj785-pl-59,obj785,London,London
+place_160,obj799-pl-75,obj799,London,London
+place_160,obj806-pl-87,obj806,London,London
+place_160,obj806-pl-88,obj806,London,London
+place_160,obj839-pl-131,obj839,London,London
+place_160,obj900-pl-225,obj900,London,London
+place_160,obj909-pl-245,obj909,London,London
+place_160,obj922-pl-255,obj922,London,London
+place_160,obj930-pl-262,obj930,London,London
+place_160,obj951-pl-293,obj951,London,London
+place_160,obj983-pl-350,obj983,London,London
+place_160,obj1076-pl-468,obj1076,London,London
+place_160,obj1110-pl-530,obj1110,London,London
+place_160,obj1138-pl-593,obj1138,London,London
+place_160,obj1209-pl-693,obj1209,London,London
+place_160,obj1214-pl-700,obj1214,London,London
+place_160,obj1226-pl-711,obj1226,London,London
+place_160,obj1234-pl-718,obj1234,London,London
+place_160,obj1244-pl-733,obj1244,London,London
+place_160,obj1253-pl-747,obj1253,London,London
+place_160,obj1259-pl-767,obj1259,London,London
+place_160,obj1298-pl-842,obj1298,London,London
+place_160,obj1325-pl-28,obj1325,London,London
+place_160,obj1333-pl-51,obj1333,London,London
+place_160,obj1360-pl-84,obj1360,London,London
+place_160,obj1439-pl-206,obj1439,London,London
+place_160,obj1446-pl-226,obj1446,London,London
+place_160,obj1462-pl-260,obj1462,London,London
+place_160,obj1534-pl-418,obj1534,London,London
+place_160,obj1582-pl-509,obj1582,London,London
+place_160,obj1587-pl-514,obj1587,London,London
+place_160,obj1596-pl-528,obj1596,London,London
+place_160,obj1602-pl-544,obj1602,London,London
+place_160,obj1607-pl-548,obj1607,London,London
+place_160,obj1628-pl-583,obj1628,London,London
+place_160,obj1644-pl-596,obj1644,London,London
+place_160,obj1646-pl-603,obj1646,London,London
+place_160,obj1652-pl-622,obj1652,London,London
+place_160,obj1655-pl-626,obj1655,London,London
+place_160,obj1681-pl-677,obj1681,London,London
+place_160,obj1692-pl-695,obj1692,London,London
+place_160,obj1703-pl-713,obj1703,London,London
+place_160,obj1705-pl-715,obj1705,London,London
+place_160,obj1708-pl-722,obj1708,London,London
+place_160,obj1726-pl-748,obj1726,London,London
+place_160,obj1737-pl-763,obj1737,London,London
+place_160,obj1737-pl-764,obj1737,London,London
+place_160,obj1760-pl-811,obj1760,London,London
+place_160,obj1883-pl-948,obj1883,London,London
+place_161,obj769-pl-23,obj769,London,"London,"
+place_162,obj1248-pl-736,obj1248,"Norton Street, Portland Place, London","29 Norton Street, Portland Place, London"
+place_163,obj948-pl-280,obj948,"Charles Street, Clarendon Square, Somerstown","12 Charles Street, Clarendon Square, Somerstown"
+place_164,obj1719-pl-737,obj1719,Long Island,Long Island
+place_165,obj780-pl-51,obj780,Louisiana,Louisiana
+place_165,obj1846-pl-919,obj1846,Louisiana,Louisiana
+place_165,obj1848-pl-928,obj1848,Louisiana,Louisiana
+place_165,obj1849-pl-929,obj1849,Louisiana,Louisiana
+place_166,obj1263-pl-783,obj1263,Louisville,Louisville
+place_166,obj1288-pl-825,obj1288,Louisville,Louisville
+place_166,obj1333-pl-49,obj1333,Louisville,Louisville
+place_166,obj1530-pl-407,obj1530,Louisville,Louisville
+place_166,obj1620-pl-563,obj1620,Louisville,Louisville
+place_167,obj1568-pl-484,obj1568,Luxembourg,Luxembourg
+place_168,obj999-pl-368,obj999,the Luxembourg,the Luxembourg
+place_169,obj1827-pl-890,obj1827,Lyon,Lyon
+place_170,obj1089-pl-480,obj1089,Lyons,Lyons
+place_171,obj1719-pl-738,obj1719,Madeira,Madeira
+place_172,obj1184-pl-661,obj1184,Madrid,Madrid
+place_172,obj1395-pl-129,obj1395,Madrid,Madrid
+place_172,obj1528-pl-383,obj1528,Madrid,Madrid
+place_172,obj1528-pl-384,obj1528,Madrid,Madrid
+place_172,obj1528-pl-387,obj1528,Madrid,Madrid
+place_172,obj1560-pl-466,obj1560,Madrid,Madrid
+place_173,obj1316-pl-15,obj1316,"Brunswick, Maine","Brunswick, Maine"
+place_174,obj1574-pl-498,obj1574,Maine,Maine
+place_175,obj1560-pl-463,obj1560,"c/o US Consul, Malaga","c/o US Consul, Malaga"
+place_176,obj1560-pl-468,obj1560,Malaga,Malaga
+place_177,obj1662-pl-642,obj1662,Marseilles,Marseilles
+place_177,obj1664-pl-652,obj1664,Marseilles,Marseilles
+place_178,obj1098-pl-500,obj1098,Maryland,Maryland
+place_178,obj1517-pl-362,obj1517,Maryland,Maryland
+place_178,obj1846-pl-921,obj1846,Maryland,Maryland
+place_179,obj1452-pl-240,obj1452,MD,MD
+place_180,obj1302-pl-1,obj1302,"Cambridge, Mass","Cambridge, [Mass]"
+place_181,obj1051-pl-445,obj1051,"Cambridge, Mass","Cambridge, Mass"
+place_181,obj1236-pl-722,obj1236,"Cambridge, Mass","Cambridge, Mass"
+place_181,obj1411-pl-156,obj1411,"Cambridge, Mass","Cambridge, Mass"
+place_181,obj1480-pl-304,obj1480,"Cambridge, Mass","Cambridge, Mass"
+place_181,obj1624a-pl-571,obj1624a,"Cambridge, Mass","Cambridge, Mass"
+place_181,obj1760-pl-805,obj1760,"Cambridge, Mass","Cambridge, Mass"
+place_182,obj1584-pl-510,obj1584,"Leworth , Mass","Leworth [?], Mass"
+place_183,obj800-pl-76,obj800,Massach,Massach
+place_184,obj1692-pl-694,obj1692,Cambridge Harvard,Cambridge [Harvard]
+place_185,obj1205-pl-685,obj1205,Cambridge Mass,Cambridge Mass.
+place_186,obj831-pl-111,obj831,"Boston, MA","Boston, MA"
+place_187,obj1690-pl-692,obj1690,"Cambridge, MA","Cambridge, MA"
+place_188,obj1666-pl-656,obj1666,Worcester Mass,Worcester Mass
+place_189,obj1259-pl-762,obj1259,"Laval, Mayenne","Laval, Mayenne"
+place_190,obj1137-pl-587,obj1137,Merthyr Tydvil,Merthyr Tydvil
+place_191,obj1150-pl-612,obj1150,Metz,Metz
+place_192,obj1004-pl-374,obj1004,Mexico,Mexico
+place_192,obj1122-pl-542,obj1122,Mexico,Mexico
+place_192,obj1169-pl-638,obj1169,Mexico,Mexico
+place_192,obj1260-pl-772,obj1260,Mexico,Mexico
+place_192,obj1395-pl-130,obj1395,Mexico,Mexico
+place_192,obj1492-pl-313,obj1492,Mexico,Mexico
+place_192,obj1544-pl-433,obj1544,Mexico,Mexico
+place_192,obj1838-pl-901,obj1838,Mexico,Mexico
+place_192,obj1891-pl-952,obj1891,Mexico,Mexico
+place_193,obj1662-pl-641,obj1662,Michigan,Michigan
+place_194,obj1383-pl-117,obj1383,"Woodville, Missippi","Woodville, Missippi"
+place_195,obj1330-pl-43,obj1330,Mississippi,Mississippi
+place_195,obj1850-pl-933,obj1850,Mississippi,Mississippi
+place_196,obj1288-pl-827,obj1288,Mississippi Valley,Mississippi Valley
+place_197,obj1333-pl-48,obj1333,"Jefferson Barracks, Missouri","Jefferson Barracks, Missouri"
+place_198,obj1747-pl-780,obj1747,Mobile,Mobile
+place_199,obj1040-pl-421,obj1040,Montanbar,Montanbar
+place_200,obj1826-pl-879,obj1826,Montefiascone,Montefiascone
+place_201,obj953-pl-306,obj953,Monticello,Monticello
+place_201,obj998-pl-366,obj998,Monticello,Monticello
+place_201,obj1039-pl-418,obj1039,Monticello,Monticello
+place_202,obj964-pl-319,obj964,Montmartre,Montmartre
+place_202,obj966-pl-322,obj966,Montmartre,Montmartre
+place_203,obj1030-pl-407,obj1030,Montmorence,Montmorence
+place_204,obj1099-pl-508,obj1099,Montpellier,Montpellier
+place_205,obj1827-pl-884,obj1827,Moselle,Moselle
+place_206,obj1065-pl-457,obj1065,Mount Vernon,Mount Vernon
+place_207,obj1027-pl-404,obj1027,Mountmorence,Mountmorence
+place_208,obj1524-pl-374,obj1524,Munich,Munich
+place_209,obj807-pl-93,obj807,Nancy,Nancy
+place_210,obj1652-pl-619,obj1652,Nantucket,Nantucket
+place_210,obj1652-pl-620,obj1652,Nantucket,Nantucket
+place_210,obj1661-pl-633,obj1661,Nantucket,Nantucket
+place_210,obj1718-pl-733,obj1718,Nantucket,Nantucket
+place_210,obj1844-pl-911,obj1844,Nantucket,Nantucket
+place_211,obj1332-pl-47,obj1332,Naples,Naples
+place_212,obj1645-pl-600,obj1645,Nashville,Nashville
+place_213,obj1661-pl-636,obj1661,New Bedford,New Bedford
+place_214,obj1662-pl-645,obj1662,New England,New England
+place_214,obj1751-pl-784,obj1751,New England,New England
+place_214,obj1757-pl-798,obj1757,New England,New England
+place_215,obj1213-pl-699,obj1213,New Haven,New Haven
+place_216,obj972-pl-332,obj972,New Holland,New Holland
+place_217,obj900-pl-226,obj900,New Jersey,New Jersey
+place_218,obj1554-pl-454,obj1554,NJ,NJ
+place_219,obj1856-pl-934,obj1856,New Mexico,New Mexico
+place_220,obj834-pl-115,obj834,New Orleans,New Orleans
+place_220,obj836-pl-125,obj836,New Orleans,New Orleans
+place_220,obj963-pl-318,obj963,New Orleans,New Orleans
+place_220,obj1272-pl-798,obj1272,New Orleans,New Orleans
+place_220,obj1314-pl-11,obj1314,New Orleans,New Orleans
+place_220,obj1333-pl-52,obj1333,New Orleans,New Orleans
+place_220,obj1492-pl-317,obj1492,New Orleans,New Orleans
+place_220,obj1517-pl-359,obj1517,New Orleans,New Orleans
+place_220,obj1684-pl-683,obj1684,New Orleans,New Orleans
+place_220,obj1686-pl-686,obj1686,New Orleans,New Orleans
+place_220,obj1691-pl-693,obj1691,New Orleans,New Orleans
+place_220,obj1863-pl-940,obj1863,New Orleans,New Orleans
+place_221,obj1145-pl-604,obj1145,New Philadelphia,New Philadelphia
+place_222,obj1266-pl-784,obj1266,BY,BY
+place_223,obj1560-pl-469,obj1560,N Y,N Y
+place_224,obj1741-pl-768,obj1741,N York,N York
+place_225,obj952-pl-298,obj952,N.Y,N.Y.
+place_226,obj1252-pl-745,obj1252,"Courtland St, New York","46 Courtland St, New York"
+place_227,obj902-pl-230,obj902,"Fulton Street, New York","143 Fulton Street, New York"
+place_228,obj1047-pl-438,obj1047,"Greenwich Street, New York","313 Greenwich Street, New York"
+place_229,obj1610-pl-552,obj1610,"Harrison Street, New York","15 Harrison Street, New York"
+place_230,obj758-pl-10,obj758,New York,New York
+place_230,obj767-pl-21,obj767,New York,New York
+place_230,obj797-pl-70,obj797,New York,New York
+place_230,obj802-pl-84,obj802,New York,New York
+place_230,obj825-pl-107,obj825,New York,New York
+place_230,obj839-pl-129,obj839,New York,New York
+place_230,obj839-pl-134,obj839,New York,New York
+place_230,obj854-pl-157,obj854,New York,New York
+place_230,obj860-pl-164,obj860,New York,New York
+place_230,obj860-pl-165,obj860,New York,New York
+place_230,obj864-pl-176,obj864,New York,New York
+place_230,obj888-pl-198,obj888,New York,New York
+place_230,obj894-pl-205,obj894,New York,New York
+place_230,obj900-pl-220,obj900,New York,New York
+place_230,obj909-pl-239,obj909,New York,New York
+place_230,obj909-pl-240,obj909,New York,New York
+place_230,obj926-pl-259,obj926,New York,New York
+place_230,obj941-pl-271,obj941,New York,New York
+place_230,obj942-pl-273,obj942,New York,New York
+place_230,obj946-pl-277,obj946,New York,New York
+place_230,obj947-pl-278,obj947,New York,New York
+place_230,obj951-pl-290,obj951,New York,New York
+place_230,obj963-pl-317,obj963,New York,New York
+place_230,obj968-pl-325,obj968,New York,New York
+place_230,obj969-pl-326,obj969,New York,New York
+place_230,obj972-pl-329,obj972,New York,New York
+place_230,obj973-pl-337,obj973,New York,New York
+place_230,obj974-pl-338,obj974,New York,New York
+place_230,obj1001-pl-370,obj1001,New York,New York
+place_230,obj1005-pl-377,obj1005,New York,New York
+place_230,obj1018-pl-391,obj1018,New York,New York
+place_230,obj1022-pl-398,obj1022,New York,New York
+place_230,obj1023-pl-399,obj1023,New York,New York
+place_230,obj1028-pl-405,obj1028,New York,New York
+place_230,obj1029-pl-406,obj1029,New York,New York
+place_230,obj1033-pl-413,obj1033,New York,New York
+place_230,obj1035-pl-415,obj1035,New York,New York
+place_230,obj1037-pl-417,obj1037,New York,New York
+place_230,obj1049-pl-441,obj1049,New York,New York
+place_230,obj1057-pl-448,obj1057,New York,New York
+place_230,obj1060-pl-450,obj1060,New York,New York
+place_230,obj1068-pl-458,obj1068,New York,New York
+place_230,obj1069-pl-459,obj1069,New York,New York
+place_230,obj1074-pl-463,obj1074,New York,New York
+place_230,obj1075-pl-464,obj1075,New York,New York
+place_230,obj1076-pl-467,obj1076,New York,New York
+place_230,obj1079-pl-471,obj1079,New York,New York
+place_230,obj1083-pl-476,obj1083,New York,New York
+place_230,obj1084-pl-477,obj1084,New York,New York
+place_230,obj1086-pl-478,obj1086,New York,New York
+place_230,obj1092-pl-485,obj1092,New York,New York
+place_230,obj1094-pl-489,obj1094,New York,New York
+place_230,obj1098-pl-499,obj1098,New York,New York
+place_230,obj1101-pl-512,obj1101,New York,New York
+place_230,obj1121-pl-536,obj1121,New York,New York
+place_230,obj1124-pl-549,obj1124,New York,New York
+place_230,obj1128-pl-560,obj1128,New York,New York
+place_230,obj1129-pl-561,obj1129,New York,New York
+place_230,obj1130-pl-562,obj1130,New York,New York
+place_230,obj1131-pl-565,obj1131,New York,New York
+place_230,obj1132-pl-566,obj1132,New York,New York
+place_230,obj1134-pl-570,obj1134,New York,New York
+place_230,obj1134-pl-575,obj1134,New York,New York
+place_230,obj1143-pl-598,obj1143,New York,New York
+place_230,obj1144-pl-599,obj1144,New York,New York
+place_230,obj1146-pl-608,obj1146,New York,New York
+place_230,obj1147-pl-609,obj1147,New York,New York
+place_230,obj1150-pl-610,obj1150,New York,New York
+place_230,obj1150-pl-611,obj1150,New York,New York
+place_230,obj1155-pl-621,obj1155,New York,New York
+place_230,obj1171-pl-640,obj1171,New York,New York
+place_230,obj1177-pl-650,obj1177,New York,New York
+place_230,obj1179-pl-652,obj1179,New York,New York
+place_230,obj1180-pl-654,obj1180,New York,New York
+place_230,obj1182-pl-655,obj1182,New York,New York
+place_230,obj1192-pl-671,obj1192,New York,New York
+place_230,obj1192-pl-672,obj1192,New York,New York
+place_230,obj1194-pl-674,obj1194,New York,New York
+place_230,obj1212-pl-698,obj1212,New York,New York
+place_230,obj1228-pl-715,obj1228,New York,New York
+place_230,obj1238-pl-728,obj1238,New York,New York
+place_230,obj1255-pl-753,obj1255,New York,New York
+place_230,obj1255-pl-754,obj1255,New York,New York
+place_230,obj1256-pl-756,obj1256,New York,New York
+place_230,obj1258-pl-761,obj1258,New York,New York
+place_230,obj1270-pl-788,obj1270,New York,New York
+place_230,obj1276-pl-804,obj1276,New York,New York
+place_230,obj1277-pl-805,obj1277,New York,New York
+place_230,obj1279-pl-810,obj1279,New York,New York
+place_230,obj1281-pl-813,obj1281,New York,New York
+place_230,obj1293-pl-835,obj1293,New York,New York
+place_230,obj1295-pl-838,obj1295,New York,New York
+place_230,obj1297-pl-841,obj1297,New York,New York
+place_230,obj1311-pl-5,obj1311,New York,New York
+place_230,obj1327-pl-31,obj1327,New York,New York
+place_230,obj1327-pl-32,obj1327,New York,New York
+place_230,obj1345-pl-64,obj1345,New York,New York
+place_230,obj1348-pl-66,obj1348,New York,New York
+place_230,obj1366-pl-96,obj1366,New York,New York
+place_230,obj1369-pl-98,obj1369,New York,New York
+place_230,obj1372-pl-103,obj1372,New York,New York
+place_230,obj1392-pl-124,obj1392,New York,New York
+place_230,obj1398-pl-137,obj1398,New York,New York
+place_230,obj1399-pl-141,obj1399,New York,New York
+place_230,obj1412-pl-157,obj1412,New York,New York
+place_230,obj1414-pl-160,obj1414,New York,New York
+place_230,obj1422-pl-169,obj1422,New York,New York
+place_230,obj1423-pl-174,obj1423,New York,New York
+place_230,obj1463-pl-261,obj1463,New York,New York
+place_230,obj1469-pl-272,obj1469,New York,New York
+place_230,obj1470-pl-274,obj1470,New York,New York
+place_230,obj1475-pl-286,obj1475,New York,New York
+place_230,obj1497-pl-327,obj1497,New York,New York
+place_230,obj1514-pl-353,obj1514,New York,New York
+place_230,obj1538-pl-422,obj1538,New York,New York
+place_230,obj1540-pl-426,obj1540,New York,New York
+place_230,obj1544-pl-437,obj1544,New York,New York
+place_230,obj1558-pl-461,obj1558,New York,New York
+place_230,obj1568-pl-483,obj1568,New York,New York
+place_230,obj1580-pl-506,obj1580,New York,New York
+place_230,obj1590-pl-522,obj1590,New York,New York
+place_230,obj1591-pl-523,obj1591,New York,New York
+place_230,obj1600-pl-537,obj1600,New York,New York
+place_230,obj1601-pl-539,obj1601,New York,New York
+place_230,obj1617-pl-560,obj1617,New York,New York
+place_230,obj1625-pl-572,obj1625,New York,New York
+place_230,obj1629-pl-585,obj1629,New York,New York
+place_230,obj1642-pl-592,obj1642,New York,New York
+place_230,obj1650-pl-611,obj1650,New York,New York
+place_230,obj1651-pl-616,obj1651,New York,New York
+place_230,obj1661-pl-639,obj1661,New York,New York
+place_230,obj1662-pl-644,obj1662,New York,New York
+place_230,obj1685-pl-684,obj1685,New York,New York
+place_230,obj1710-pl-725,obj1710,New York,New York
+place_230,obj1712-pl-726,obj1712,New York,New York
+place_230,obj1717-pl-732,obj1717,New York,New York
+place_230,obj1734-pl-757,obj1734,New York,New York
+place_230,obj1743-pl-771,obj1743,New York,New York
+place_230,obj1746-pl-774,obj1746,New York,New York
+place_230,obj1747-pl-777,obj1747,New York,New York
+place_230,obj1754-pl-789,obj1754,New York,New York
+place_230,obj1756-pl-791,obj1756,New York,New York
+place_230,obj1768-pl-820,obj1768,New York,New York
+place_230,obj1771-pl-827,obj1771,New York,New York
+place_230,obj1773-pl-833,obj1773,New York,New York
+place_230,obj1773-pl-834,obj1773,New York,New York
+place_230,obj1782-pl-847,obj1782,New York,New York
+place_230,obj1783-pl-849,obj1783,New York,New York
+place_230,obj1786-pl-857,obj1786,New York,New York
+place_230,obj1825-pl-876,obj1825,New York,New York
+place_231,obj1572-pl-491,obj1572,"Troy, New York","Troy, New York"
+place_232,obj1393-pl-126,obj1393,"Wall Street, New York","34 Wall Street, New York"
+place_233,obj863-pl-172,obj863,"Wall Street, New York","Wall Street, New York"
+place_234,obj1677-pl-675,obj1677,"Astor House, NY","Astor House, NY"
+place_235,obj755-pl-8,obj755,NY,NY
+place_235,obj759-pl-11,obj759,NY,NY
+place_235,obj766-pl-20,obj766,NY,NY
+place_235,obj773-pl-35,obj773,NY,NY
+place_235,obj774-pl-42,obj774,NY,NY
+place_235,obj777-pl-45,obj777,NY,NY
+place_235,obj784-pl-58,obj784,NY,NY
+place_235,obj794-pl-69,obj794,NY,NY
+place_235,obj807-pl-92,obj807,NY,NY
+place_235,obj847-pl-143,obj847,NY,NY
+place_235,obj1125-pl-551,obj1125,NY,NY
+place_235,obj1218-pl-707,obj1218,NY,NY
+place_235,obj1276-pl-803,obj1276,NY,NY
+place_235,obj1280-pl-812,obj1280,NY,NY
+place_235,obj1352-pl-70,obj1352,NY,NY
+place_235,obj1353-pl-74,obj1353,NY,NY
+place_235,obj1382-pl-116,obj1382,NY,NY
+place_235,obj1412-pl-158,obj1412,NY,NY
+place_235,obj1427-pl-180,obj1427,NY,NY
+place_235,obj1428-pl-185,obj1428,NY,NY
+place_235,obj1431-pl-190,obj1431,NY,NY
+place_235,obj1432-pl-191,obj1432,NY,NY
+place_235,obj1434-pl-194,obj1434,NY,NY
+place_235,obj1440-pl-208,obj1440,NY,NY
+place_235,obj1440-pl-209,obj1440,NY,NY
+place_235,obj1443-pl-214,obj1443,NY,NY
+place_235,obj1448-pl-229,obj1448,NY,NY
+place_235,obj1450-pl-232,obj1450,NY,NY
+place_235,obj1472-pl-278,obj1472,NY,NY
+place_235,obj1475-pl-285,obj1475,NY,NY
+place_235,obj1492-pl-311,obj1492,NY,NY
+place_235,obj1492-pl-312,obj1492,NY,NY
+place_235,obj1505-pl-337,obj1505,NY,NY
+place_235,obj1520-pl-365,obj1520,NY,NY
+place_235,obj1520-pl-366,obj1520,NY,NY
+place_235,obj1523-pl-373,obj1523,NY,NY
+place_235,obj1535-pl-419,obj1535,NY,NY
+place_235,obj1601-pl-540,obj1601,NY,NY
+place_235,obj1604-pl-547,obj1604,NY,NY
+place_235,obj1627-pl-576,obj1627,NY,NY
+place_235,obj1650-pl-610,obj1650,NY,NY
+place_235,obj1683-pl-680,obj1683,NY,NY
+place_235,obj1683-pl-681,obj1683,NY,NY
+place_235,obj1697-pl-705,obj1697,NY,NY
+place_235,obj1719-pl-736,obj1719,NY,NY
+place_235,obj1741-pl-767,obj1741,NY,NY
+place_235,obj1753-pl-786,obj1753,NY,NY
+place_235,obj1765-pl-815,obj1765,NY,NY
+place_235,obj1767-pl-818,obj1767,NY,NY
+place_235,obj1776-pl-840,obj1776,NY,NY
+place_235,obj1781-pl-844,obj1781,NY,NY
+place_235,obj1785-pl-855,obj1785,NY,NY
+place_236,obj872-pl-185,obj872,"Wall St, NY","Wall St, NY"
+place_237,obj909-pl-242,obj909,NYC,NYC
+place_238,obj1427-pl-181,obj1427,State of New York,State of New York
+place_238,obj1729-pl-751,obj1729,State of New York,State of New York
+place_238,obj1788-pl-859,obj1788,State of New York,State of New York
+place_239,obj1450-pl-233,obj1450,State of NY,State of NY
+place_240,obj1662-pl-646,obj1662,Newburg,Newburg
+place_241,obj1730-pl-753,obj1730,Newtown Newtownards,Newtown [Newtownards]
+place_242,obj1827-pl-887,obj1827,Nîmes,Nîmes
+place_243,obj1844-pl-912,obj1844,Nootka,Nootka
+place_244,obj1453-pl-242,obj1453,N America,N America
+place_245,obj937-pl-268,obj937,North America,North America
+place_245,obj1026-pl-402,obj1026,North America,North America
+place_246,obj1470-pl-275,obj1470,N Carolina,N Carolina
+place_247,obj1530-pl-392,obj1530,NC,NC
+place_248,obj1095-pl-493,obj1095,North Carolina,North Carolina
+place_248,obj1330-pl-42,obj1330,North Carolina,North Carolina
+place_248,obj1448-pl-230,obj1448,North Carolina,North Carolina
+place_248,obj1836-pl-896,obj1836,North Carolina,North Carolina
+place_249,obj1093-pl-488,obj1093,Oaxaca,Oaxaca
+place_250,obj848-pl-145,obj848,Ohio,Ohio
+place_250,obj1545-pl-438,obj1545,Ohio,Ohio
+place_251,obj1663-pl-650,obj1663,Oregon,Oregon
+place_252,obj780-pl-52,obj780,Pacific Ocean,Pacific Ocean
+place_253,obj1093-pl-487,obj1093,Palenque,Palenque
+place_253,obj1439-pl-207,obj1439,Palenque,Palenque
+place_254,obj1317-pl-16,obj1317,Palermo,Palermo
+place_255,obj1841-pl-904,obj1841,Panama,Panama
+place_256,obj1602-pl-542,obj1602,Euceinta de la Muette,Euceinta de la Muette
+place_257,obj965-pl-321,obj965,N. Paris,N. Paris
+place_258,obj781-pl-54,obj781,"Lyons, Paris","Lyons, Paris,"
+place_259,obj1608-pl-551,obj1608,Paris,[Paris]
+place_260,obj754-pl-2,obj754,Paris,Paris
+place_260,obj755-pl-7,obj755,Paris,Paris
+place_260,obj764-pl-19,obj764,Paris,Paris
+place_260,obj769-pl-24,obj769,Paris,Paris
+place_260,obj770-pl-30,obj770,Paris,Paris
+place_260,obj773-pl-33,obj773,Paris,Paris
+place_260,obj773-pl-37,obj773,Paris,Paris
+place_260,obj779-pl-47,obj779,Paris,Paris
+place_260,obj780-pl-50,obj780,Paris,Paris
+place_260,obj783-pl-56,obj783,Paris,Paris
+place_260,obj789-pl-62,obj789,Paris,Paris
+place_260,obj791-pl-66,obj791,Paris,Paris
+place_260,obj798-pl-71,obj798,Paris,Paris
+place_260,obj800-pl-77,obj800,Paris,Paris
+place_260,obj801-pl-79,obj801,Paris,Paris
+place_260,obj806-pl-91,obj806,Paris,Paris
+place_260,obj807-pl-95,obj807,Paris,Paris
+place_260,obj808-pl-97,obj808,Paris,Paris
+place_260,obj809-pl-99,obj809,Paris,Paris
+place_260,obj839-pl-130,obj839,Paris,Paris
+place_260,obj839-pl-133,obj839,Paris,Paris
+place_260,obj842-pl-135,obj842,Paris,Paris
+place_260,obj850-pl-148,obj850,Paris,Paris
+place_260,obj851-pl-149,obj851,Paris,Paris
+place_260,obj852-pl-150,obj852,Paris,Paris
+place_260,obj857-pl-160,obj857,Paris,Paris
+place_260,obj859-pl-163,obj859,Paris,Paris
+place_260,obj862-pl-169,obj862,Paris,Paris
+place_260,obj864-pl-175,obj864,Paris,Paris
+place_260,obj869-pl-182,obj869,Paris,Paris
+place_260,obj879-pl-193,obj879,Paris,Paris
+place_260,obj881-pl-194,obj881,Paris,Paris
+place_260,obj883-pl-195,obj883,Paris,Paris
+place_260,obj888-pl-200,obj888,Paris,Paris
+place_260,obj892-pl-202,obj892,Paris,Paris
+place_260,obj893-pl-204,obj893,Paris,Paris
+place_260,obj894-pl-207,obj894,Paris,Paris
+place_260,obj895-pl-211,obj895,Paris,Paris
+place_260,obj897-pl-216,obj897,Paris,Paris
+place_260,obj900-pl-222,obj900,Paris,Paris
+place_260,obj901-pl-227,obj901,Paris,Paris
+place_260,obj908-pl-235,obj908,Paris,Paris
+place_260,obj909-pl-241,obj909,Paris,Paris
+place_260,obj915-pl-250,obj915,Paris,Paris
+place_260,obj918-pl-252,obj918,Paris,Paris
+place_260,obj919-pl-253,obj919,Paris,Paris
+place_260,obj920-pl-254,obj920,Paris,Paris
+place_260,obj922-pl-256,obj922,Paris,Paris
+place_260,obj930-pl-263,obj930,Paris,Paris
+place_260,obj940-pl-270,obj940,Paris,Paris
+place_260,obj941-pl-272,obj941,Paris,Paris
+place_260,obj944-pl-276,obj944,Paris,Paris
+place_260,obj962-pl-314,obj962,Paris,Paris
+place_260,obj963-pl-316,obj963,Paris,Paris
+place_260,obj964-pl-320,obj964,Paris,Paris
+place_260,obj972-pl-328,obj972,Paris,Paris
+place_260,obj976-pl-340,obj976,Paris,Paris
+place_260,obj977-pl-342,obj977,Paris,Paris
+place_260,obj979-pl-345,obj979,Paris,Paris
+place_260,obj980-pl-348,obj980,Paris,Paris
+place_260,obj987-pl-352,obj987,Paris,Paris
+place_260,obj988-pl-353,obj988,Paris,Paris
+place_260,obj990-pl-355,obj990,Paris,Paris
+place_260,obj991-pl-357,obj991,Paris,Paris
+place_260,obj992-pl-359,obj992,Paris,Paris
+place_260,obj995-pl-363,obj995,Paris,Paris
+place_260,obj996-pl-364,obj996,Paris,Paris
+place_260,obj1001-pl-371,obj1001,Paris,Paris
+place_260,obj1005-pl-378,obj1005,Paris,Paris
+place_260,obj1010-pl-383,obj1010,Paris,Paris
+place_260,obj1019-pl-393,obj1019,Paris,Paris
+place_260,obj1020-pl-397,obj1020,Paris,Paris
+place_260,obj1023-pl-400,obj1023,Paris,Paris
+place_260,obj1024-pl-401,obj1024,Paris,Paris
+place_260,obj1027-pl-403,obj1027,Paris,Paris
+place_260,obj1032-pl-410,obj1032,Paris,Paris
+place_260,obj1040-pl-420,obj1040,Paris,Paris
+place_260,obj1041-pl-423,obj1041,Paris,Paris
+place_260,obj1042-pl-429,obj1042,Paris,Paris
+place_260,obj1047-pl-439,obj1047,Paris,Paris
+place_260,obj1052-pl-446,obj1052,Paris,Paris
+place_260,obj1057-pl-449,obj1057,Paris,Paris
+place_260,obj1071-pl-462,obj1071,Paris,Paris
+place_260,obj1078-pl-470,obj1078,Paris,Paris
+place_260,obj1079-pl-472,obj1079,Paris,Paris
+place_260,obj1096-pl-495,obj1096,Paris,Paris
+place_260,obj1098-pl-502,obj1098,Paris,Paris
+place_260,obj1099-pl-507,obj1099,Paris,Paris
+place_260,obj1100-pl-511,obj1100,Paris,Paris
+place_260,obj1102-pl-515,obj1102,Paris,Paris
+place_260,obj1102-pl-519,obj1102,Paris,Paris
+place_260,obj1103-pl-521,obj1103,Paris,Paris
+place_260,obj1107-pl-527,obj1107,Paris,Paris
+place_260,obj1121-pl-537,obj1121,Paris,Paris
+place_260,obj1123-pl-547,obj1123,Paris,Paris
+place_260,obj1124-pl-550,obj1124,Paris,Paris
+place_260,obj1125-pl-552,obj1125,Paris,Paris
+place_260,obj1126-pl-554,obj1126,Paris,Paris
+place_260,obj1134-pl-571,obj1134,Paris,Paris
+place_260,obj1134-pl-573,obj1134,Paris,Paris
+place_260,obj1137-pl-578,obj1137,Paris,Paris
+place_260,obj1141-pl-596,obj1141,Paris,Paris
+place_260,obj1145-pl-602,obj1145,Paris,Paris
+place_260,obj1151-pl-614,obj1151,Paris,Paris
+place_260,obj1159-pl-627,obj1159,Paris,Paris
+place_260,obj1168-pl-636,obj1168,Paris,Paris
+place_260,obj1171-pl-641,obj1171,Paris,Paris
+place_260,obj1173-pl-645,obj1173,Paris,Paris
+place_260,obj1178-pl-651,obj1178,Paris,Paris
+place_260,obj1179-pl-653,obj1179,Paris,Paris
+place_260,obj1183-pl-657,obj1183,Paris,Paris
+place_260,obj1184-pl-660,obj1184,Paris,Paris
+place_260,obj1185-pl-664,obj1185,Paris,Paris
+place_260,obj1187-pl-665,obj1187,Paris,Paris
+place_260,obj1189-pl-668,obj1189,Paris,Paris
+place_260,obj1191-pl-670,obj1191,Paris,Paris
+place_260,obj1195-pl-677,obj1195,Paris,Paris
+place_260,obj1196-pl-678,obj1196,Paris,Paris
+place_260,obj1199-pl-679,obj1199,Paris,Paris
+place_260,obj1203-pl-682,obj1203,Paris,Paris
+place_260,obj1205-pl-686,obj1205,Paris,Paris
+place_260,obj1219-pl-708,obj1219,Paris,Paris
+place_260,obj1221-pl-709,obj1221,Paris,Paris
+place_260,obj1226-pl-712,obj1226,Paris,Paris
+place_260,obj1235-pl-720,obj1235,Paris,Paris
+place_260,obj1237-pl-725,obj1237,Paris,Paris
+place_260,obj1240-pl-730,obj1240,Paris,Paris
+place_260,obj1243-pl-731,obj1243,Paris,Paris
+place_260,obj1249-pl-738,obj1249,Paris,Paris
+place_260,obj1252-pl-742,obj1252,Paris,Paris
+place_260,obj1252-pl-743,obj1252,Paris,Paris
+place_260,obj1253-pl-746,obj1253,Paris,Paris
+place_260,obj1253-pl-748,obj1253,Paris,Paris
+place_260,obj1254-pl-751,obj1254,Paris,Paris
+place_260,obj1257-pl-757,obj1257,Paris,Paris
+place_260,obj1257-pl-758,obj1257,Paris,Paris
+place_260,obj1260-pl-776,obj1260,Paris,Paris
+place_260,obj1270-pl-787,obj1270,Paris,Paris
+place_260,obj1274-pl-801,obj1274,Paris,Paris
+place_260,obj1277-pl-806,obj1277,Paris,Paris
+place_260,obj1281-pl-814,obj1281,Paris,Paris
+place_260,obj1286-pl-823,obj1286,Paris,Paris
+place_260,obj1288-pl-828,obj1288,Paris,Paris
+place_260,obj1290-pl-832,obj1290,Paris,Paris
+place_260,obj1293-pl-836,obj1293,Paris,Paris
+place_260,obj1311-pl-7,obj1311,Paris,Paris
+place_260,obj1312-pl-9,obj1312,Paris,Paris
+place_260,obj1315-pl-14,obj1315,Paris,Paris
+place_260,obj1317-pl-17,obj1317,Paris,Paris
+place_260,obj1322-pl-25,obj1322,Paris,Paris
+place_260,obj1325-pl-29,obj1325,Paris,Paris
+place_260,obj1329-pl-34,obj1329,Paris,Paris
+place_260,obj1330-pl-37,obj1330,Paris,Paris
+place_260,obj1333-pl-50,obj1333,Paris,Paris
+place_260,obj1333-pl-53,obj1333,Paris,Paris
+place_260,obj1335-pl-56,obj1335,Paris,Paris
+place_260,obj1345-pl-62,obj1345,Paris,Paris
+place_260,obj1353-pl-73,obj1353,Paris,Paris
+place_260,obj1357-pl-78,obj1357,Paris,Paris
+place_260,obj1358-pl-80,obj1358,Paris,Paris
+place_260,obj1361-pl-87,obj1361,Paris,Paris
+place_260,obj1363-pl-89,obj1363,Paris,Paris
+place_260,obj1364-pl-91,obj1364,Paris,Paris
+place_260,obj1366-pl-94,obj1366,Paris,Paris
+place_260,obj1371-pl-101,obj1371,Paris,Paris
+place_260,obj1377-pl-107,obj1377,Paris,Paris
+place_260,obj1386-pl-120,obj1386,Paris,Paris
+place_260,obj1391-pl-123,obj1391,Paris,Paris
+place_260,obj1392-pl-125,obj1392,Paris,Paris
+place_260,obj1395-pl-133,obj1395,Paris,Paris
+place_260,obj1396-pl-134,obj1396,Paris,Paris
+place_260,obj1397-pl-136,obj1397,Paris,Paris
+place_260,obj1404-pl-145,obj1404,Paris,Paris
+place_260,obj1410-pl-155,obj1410,Paris,Paris
+place_260,obj1416-pl-163,obj1416,Paris,Paris
+place_260,obj1417-pl-166,obj1417,Paris,Paris
+place_260,obj1418-pl-167,obj1418,Paris,Paris
+place_260,obj1422-pl-172,obj1422,Paris,Paris
+place_260,obj1427-pl-184,obj1427,Paris,Paris
+place_260,obj1429-pl-187,obj1429,Paris,Paris
+place_260,obj1433-pl-193,obj1433,Paris,Paris
+place_260,obj1434-pl-196,obj1434,Paris,Paris
+place_260,obj1436-pl-198,obj1436,Paris,Paris
+place_260,obj1439-pl-205,obj1439,Paris,Paris
+place_260,obj1442-pl-213,obj1442,Paris,Paris
+place_260,obj1444-pl-216,obj1444,Paris,Paris
+place_260,obj1445-pl-222,obj1445,Paris,Paris
+place_260,obj1445-pl-224,obj1445,Paris,Paris
+place_260,obj1446-pl-225,obj1446,Paris,Paris
+place_260,obj1450-pl-234,obj1450,Paris,Paris
+place_260,obj1452-pl-239,obj1452,Paris,Paris
+place_260,obj1455-pl-245,obj1455,Paris,Paris
+place_260,obj1456-pl-248,obj1456,Paris,Paris
+place_260,obj1458-pl-251,obj1458,Paris,Paris
+place_260,obj1461-pl-258,obj1461,Paris,Paris
+place_260,obj1462-pl-259,obj1462,Paris,Paris
+place_260,obj1467-pl-267,obj1467,Paris,Paris
+place_260,obj1468-pl-271,obj1468,Paris,Paris
+place_260,obj1469-pl-273,obj1469,Paris,Paris
+place_260,obj1471-pl-276,obj1471,Paris,Paris
+place_260,obj1472-pl-279,obj1472,Paris,Paris
+place_260,obj1474-pl-282,obj1474,Paris,Paris
+place_260,obj1478-pl-297,obj1478,Paris,Paris
+place_260,obj1478-pl-300,obj1478,Paris,Paris
+place_260,obj1479-pl-302,obj1479,Paris,Paris
+place_260,obj1492-pl-319,obj1492,Paris,Paris
+place_260,obj1493-pl-322,obj1493,Paris,Paris
+place_260,obj1495-pl-323,obj1495,Paris,Paris
+place_260,obj1497-pl-325,obj1497,Paris,Paris
+place_260,obj1497-pl-326,obj1497,Paris,Paris
+place_260,obj1498-pl-329,obj1498,Paris,Paris
+place_260,obj1501-pl-332,obj1501,Paris,Paris
+place_260,obj1504-pl-336,obj1504,Paris,Paris
+place_260,obj1509-pl-342,obj1509,Paris,Paris
+place_260,obj1511-pl-347,obj1511,Paris,Paris
+place_260,obj1512-pl-350,obj1512,Paris,Paris
+place_260,obj1513-pl-352,obj1513,Paris,Paris
+place_260,obj1514-pl-354,obj1514,Paris,Paris
+place_260,obj1517-pl-360,obj1517,Paris,Paris
+place_260,obj1517-pl-361,obj1517,Paris,Paris
+place_260,obj1519-pl-364,obj1519,Paris,Paris
+place_260,obj1520-pl-367,obj1520,Paris,Paris
+place_260,obj1521-pl-369,obj1521,Paris,Paris
+place_260,obj1531-pl-408,obj1531,Paris,Paris
+place_260,obj1533-pl-412,obj1533,Paris,Paris
+place_260,obj1534-pl-414,obj1534,Paris,Paris
+place_260,obj1536-pl-421,obj1536,Paris,Paris
+place_260,obj1538-pl-423,obj1538,Paris,Paris
+place_260,obj1544-pl-432,obj1544,Paris,Paris
+place_260,obj1546-pl-440,obj1546,Paris,Paris
+place_260,obj1547-pl-443,obj1547,Paris,Paris
+place_260,obj1547-pl-447,obj1547,Paris,Paris
+place_260,obj1550-pl-452,obj1550,Paris,Paris
+place_260,obj1556-pl-458,obj1556,Paris,Paris
+place_260,obj1560-pl-467,obj1560,Paris,Paris
+place_260,obj1561-pl-471,obj1561,Paris,Paris
+place_260,obj1563-pl-473,obj1563,Paris,Paris
+place_260,obj1567-pl-479,obj1567,Paris,Paris
+place_260,obj1569-pl-487,obj1569,Paris,Paris
+place_260,obj1571-pl-490,obj1571,Paris,Paris
+place_260,obj1572-pl-492,obj1572,Paris,Paris
+place_260,obj1573-pl-496,obj1573,Paris,Paris
+place_260,obj1575-pl-500,obj1575,Paris,Paris
+place_260,obj1576-pl-502,obj1576,Paris,Paris
+place_260,obj1577-pl-503,obj1577,Paris,Paris
+place_260,obj1581-pl-507,obj1581,Paris,Paris
+place_260,obj1586-pl-512,obj1586,Paris,Paris
+place_260,obj1587-pl-515,obj1587,Paris,Paris
+place_260,obj1588-pl-520,obj1588,Paris,Paris
+place_260,obj1589-pl-521,obj1589,Paris,Paris
+place_260,obj1596-pl-529,obj1596,Paris,Paris
+place_260,obj1597-pl-532,obj1597,Paris,Paris
+place_260,obj1607-pl-549,obj1607,Paris,Paris
+place_260,obj1610-pl-553,obj1610,Paris,Paris
+place_260,obj1620-pl-564,obj1620,Paris,Paris
+place_260,obj1624-pl-570,obj1624,Paris,Paris
+place_260,obj1626-pl-574,obj1626,Paris,Paris
+place_260,obj1628-pl-578,obj1628,Paris,Paris
+place_260,obj1629-pl-587,obj1629,Paris,Paris
+place_260,obj1632-pl-588,obj1632,Paris,Paris
+place_260,obj1635-pl-591,obj1635,Paris,Paris
+place_260,obj1645-pl-602,obj1645,Paris,Paris
+place_260,obj1649-pl-608,obj1649,Paris,Paris
+place_260,obj1650-pl-612,obj1650,Paris,Paris
+place_260,obj1651-pl-615,obj1651,Paris,Paris
+place_260,obj1652-pl-621,obj1652,Paris,Paris
+place_260,obj1660-pl-631,obj1660,Paris,Paris
+place_260,obj1661-pl-634,obj1661,Paris,Paris
+place_260,obj1668-pl-660,obj1668,Paris,Paris
+place_260,obj1669-pl-662,obj1669,Paris,Paris
+place_260,obj1670-pl-667,obj1670,Paris,Paris
+place_260,obj1671-pl-669,obj1671,Paris,Paris
+place_260,obj1672-pl-671,obj1672,Paris,Paris
+place_260,obj1674-pl-673,obj1674,Paris,Paris
+place_260,obj1681-pl-678,obj1681,Paris,Paris
+place_260,obj1692-pl-696,obj1692,Paris,Paris
+place_260,obj1694-pl-701,obj1694,Paris,Paris
+place_260,obj1700-pl-709,obj1700,Paris,Paris
+place_260,obj1702-pl-710,obj1702,Paris,Paris
+place_260,obj1702-pl-711,obj1702,Paris,Paris
+place_260,obj1706-pl-716,obj1706,Paris,Paris
+place_260,obj1707-pl-718,obj1707,Paris,Paris
+place_260,obj1717-pl-731,obj1717,Paris,Paris
+place_260,obj1721-pl-740,obj1721,Paris,Paris
+place_260,obj1725-pl-747,obj1725,Paris,Paris
+place_260,obj1735-pl-759,obj1735,Paris,Paris
+place_260,obj1742-pl-770,obj1742,Paris,Paris
+place_260,obj1745-pl-772,obj1745,Paris,Paris
+place_260,obj1756-pl-793,obj1756,Paris,Paris
+place_260,obj1758-pl-802,obj1758,Paris,Paris
+place_260,obj1759-pl-804,obj1759,Paris,Paris
+place_260,obj1760-pl-806,obj1760,Paris,Paris
+place_260,obj1763-pl-812,obj1763,Paris,Paris
+place_260,obj1766-pl-817,obj1766,Paris,Paris
+place_260,obj1772-pl-832,obj1772,Paris,Paris
+place_260,obj1774-pl-836,obj1774,Paris,Paris
+place_260,obj1775-pl-839,obj1775,Paris,Paris
+place_260,obj1776-pl-842,obj1776,Paris,Paris
+place_260,-pl-852,,Paris,Paris
+place_260,obj1786-pl-856,obj1786,Paris,Paris
+place_260,obj1788-pl-858,obj1788,Paris,Paris
+place_260,obj1789-pl-860,obj1789,Paris,Paris
+place_260,obj1791-pl-863,obj1791,Paris,Paris
+place_260,obj1825-pl-874,obj1825,Paris,Paris
+place_260,obj1827-pl-885,obj1827,Paris,Paris
+place_260,obj1845-pl-917,obj1845,Paris,Paris
+place_260,obj1858-pl-937,obj1858,Paris,Paris
+place_260,obj1863-pl-941,obj1863,Paris,Paris
+place_261,obj1570-pl-488,obj1570,"Places des Italiens, Paris","5 Places des Italiens, Paris"
+place_262,obj1655-pl-625,obj1655,"US Consulate, Paris","US Consulate, Paris"
+place_263,obj1665-pl-654,obj1665,US Consulate Paris,US Consulate Paris
+place_264,obj1578-pl-504,obj1578,"L’enceinte de la Muette, 7 Passy","L’enceinte de la Muette, 7 Passy"
+place_265,obj1614-pl-558,obj1614,Passy,Passy
+place_265,obj1665-pl-655,obj1665,Passy,Passy
+place_266,obj1427-pl-183,obj1427,Pelenqup,Pelenqup
+place_267,obj1530-pl-396,obj1530,Pendleton,Pendleton
+place_268,obj1459-pl-253,obj1459,Penn,Penn
+place_269,obj1459-pl-252,obj1459,"Bolton Farm, Bucks Co., PA","Bolton Farm, Bucks Co., PA"
+place_270,obj1460-pl-255,obj1460,PA,PA
+place_271,obj1246-pl-735,obj1246,"Bolton Farm, near Bristol, Pennsylvania","Bolton Farm, near Bristol, Pennsylvania"
+place_272,obj930-pl-261,obj930,Pennsylvania,Pennsylvania
+place_272,obj950-pl-285,obj950,Pennsylvania,Pennsylvania
+place_272,obj1311-pl-4,obj1311,Pennsylvania,Pennsylvania
+place_272,obj1526-pl-379,obj1526,Pennsylvania,Pennsylvania
+place_272,obj1621-pl-566,obj1621,Pennsylvania,Pennsylvania
+place_273,obj1473-pl-280,obj1473,Pensa,Pensa
+place_274,obj1710-pl-724,obj1710,Ohi,Ohi.
+place_275,obj1739-pl-765,obj1739,Phi,"Phi,"
+place_276,obj1314-pl-10,obj1314,Phil,Phil
+place_276,obj1320-pl-21,obj1320,Phil,Phil
+place_276,obj1329-pl-33,obj1329,Phil,Phil
+place_276,obj1352-pl-71,obj1352,Phil,Phil
+place_276,obj1373-pl-104,obj1373,Phil,Phil
+place_276,obj1439-pl-202,obj1439,Phil,Phil
+place_276,obj1451-pl-236,obj1451,Phil,Phil
+place_276,obj1670-pl-664,obj1670,Phil,Phil
+place_276,obj1703-pl-712,obj1703,Phil,Phil
+place_277,obj1263-pl-782,obj1263,Phila,Phila
+place_278,obj859-pl-161,obj859,Philadelphia,[Philadelphia]
+place_279,obj755-pl-4,obj755,Philadelphia,Philadelphia
+place_279,obj759-pl-12,obj759,Philadelphia,Philadelphia
+place_279,obj787-pl-60,obj787,Philadelphia,Philadelphia
+place_279,obj792-pl-68,obj792,Philadelphia,Philadelphia
+place_279,obj802-pl-82,obj802,Philadelphia,Philadelphia
+place_279,obj818-pl-104,obj818,Philadelphia,Philadelphia
+place_279,obj819-pl-105,obj819,Philadelphia,Philadelphia
+place_279,obj820-pl-106,obj820,Philadelphia,Philadelphia
+place_279,obj855-pl-159,obj855,Philadelphia,Philadelphia
+place_279,obj906-pl-232,obj906,Philadelphia,Philadelphia
+place_279,obj908-pl-233,obj908,Philadelphia,Philadelphia
+place_279,obj951-pl-291,obj951,Philadelphia,Philadelphia
+place_279,obj952-pl-297,obj952,Philadelphia,Philadelphia
+place_279,obj952-pl-299,obj952,Philadelphia,Philadelphia
+place_279,obj959-pl-312,obj959,Philadelphia,Philadelphia
+place_279,obj967-pl-323,obj967,Philadelphia,Philadelphia
+place_279,obj978-pl-343,obj978,Philadelphia,Philadelphia
+place_279,obj1036-pl-416,obj1036,Philadelphia,Philadelphia
+place_279,obj1045-pl-437,obj1045,Philadelphia,Philadelphia
+place_279,obj1063-pl-454,obj1063,Philadelphia,Philadelphia
+place_279,obj1104-pl-524,obj1104,Philadelphia,Philadelphia
+place_279,obj1122-pl-538,obj1122,Philadelphia,Philadelphia
+place_279,obj1122-pl-545,obj1122,Philadelphia,Philadelphia
+place_279,obj1127-pl-558,obj1127,Philadelphia,Philadelphia
+place_279,obj1127-pl-559,obj1127,Philadelphia,Philadelphia
+place_279,obj1130-pl-563,obj1130,Philadelphia,Philadelphia
+place_279,obj1137-pl-589,obj1137,Philadelphia,Philadelphia
+place_279,obj1153-pl-618,obj1153,Philadelphia,Philadelphia
+place_279,obj1177-pl-649,obj1177,Philadelphia,Philadelphia
+place_279,obj1188-pl-666,obj1188,Philadelphia,Philadelphia
+place_279,obj1203-pl-681,obj1203,Philadelphia,Philadelphia
+place_279,obj1206-pl-688,obj1206,Philadelphia,Philadelphia
+place_279,obj1222-pl-710,obj1222,Philadelphia,Philadelphia
+place_279,obj1238-pl-727,obj1238,Philadelphia,Philadelphia
+place_279,obj1260-pl-774,obj1260,Philadelphia,Philadelphia
+place_279,obj1273-pl-799,obj1273,Philadelphia,Philadelphia
+place_279,obj1285-pl-822,obj1285,Philadelphia,Philadelphia
+place_279,obj1292-pl-833,obj1292,Philadelphia,Philadelphia
+place_279,obj1311-pl-3,obj1311,Philadelphia,Philadelphia
+place_279,obj1312-pl-8,obj1312,Philadelphia,Philadelphia
+place_279,obj1315-pl-13,obj1315,Philadelphia,Philadelphia
+place_279,obj1326-pl-30,obj1326,Philadelphia,Philadelphia
+place_279,obj1344-pl-59,obj1344,Philadelphia,Philadelphia
+place_279,obj1355-pl-76,obj1355,Philadelphia,Philadelphia
+place_279,obj1356-pl-77,obj1356,Philadelphia,Philadelphia
+place_279,obj1361-pl-85,obj1361,Philadelphia,Philadelphia
+place_279,obj1382-pl-114,obj1382,Philadelphia,Philadelphia
+place_279,obj1395-pl-128,obj1395,Philadelphia,Philadelphia
+place_279,obj1397-pl-135,obj1397,Philadelphia,Philadelphia
+place_279,obj1398-pl-139,obj1398,Philadelphia,Philadelphia
+place_279,obj1409-pl-154,obj1409,Philadelphia,Philadelphia
+place_279,obj1419-pl-168,obj1419,Philadelphia,Philadelphia
+place_279,obj1426-pl-178,obj1426,Philadelphia,Philadelphia
+place_279,obj1429-pl-186,obj1429,Philadelphia,Philadelphia
+place_279,obj1430-pl-188,obj1430,Philadelphia,Philadelphia
+place_279,obj1439-pl-203,obj1439,Philadelphia,Philadelphia
+place_279,obj1441-pl-211,obj1441,Philadelphia,Philadelphia
+place_279,obj1451-pl-235,obj1451,Philadelphia,Philadelphia
+place_279,obj1453-pl-241,obj1453,Philadelphia,Philadelphia
+place_279,obj1456-pl-247,obj1456,Philadelphia,Philadelphia
+place_279,obj1458-pl-250,obj1458,Philadelphia,Philadelphia
+place_279,obj1460-pl-254,obj1460,Philadelphia,Philadelphia
+place_279,obj1461-pl-257,obj1461,Philadelphia,Philadelphia
+place_279,obj1474-pl-283,obj1474,Philadelphia,Philadelphia
+place_279,obj1481-pl-305,obj1481,Philadelphia,Philadelphia
+place_279,obj1500-pl-330,obj1500,Philadelphia,Philadelphia
+place_279,obj1506-pl-339,obj1506,Philadelphia,Philadelphia
+place_279,obj1507-pl-340,obj1507,Philadelphia,Philadelphia
+place_279,obj1509-pl-341,obj1509,Philadelphia,Philadelphia
+place_279,obj1525-pl-376,obj1525,Philadelphia,Philadelphia
+place_279,obj1526-pl-378,obj1526,Philadelphia,Philadelphia
+place_279,obj1527-pl-381,obj1527,Philadelphia,Philadelphia
+place_279,obj1529-pl-389,obj1529,Philadelphia,Philadelphia
+place_279,obj1539-pl-425,obj1539,Philadelphia,Philadelphia
+place_279,obj1554-pl-453,obj1554,Philadelphia,Philadelphia
+place_279,obj1563-pl-472,obj1563,Philadelphia,Philadelphia
+place_279,obj1567-pl-481,obj1567,Philadelphia,Philadelphia
+place_279,obj1569-pl-485,obj1569,Philadelphia,Philadelphia
+place_279,obj1573-pl-495,obj1573,Philadelphia,Philadelphia
+place_279,obj1592-pl-524,obj1592,Philadelphia,Philadelphia
+place_279,obj1598-pl-533,obj1598,Philadelphia,Philadelphia
+place_279,obj1601-pl-541,obj1601,Philadelphia,Philadelphia
+place_279,obj1635-pl-589,obj1635,Philadelphia,Philadelphia
+place_279,obj1648-pl-606,obj1648,Philadelphia,Philadelphia
+place_279,obj1648-pl-607,obj1648,Philadelphia,Philadelphia
+place_279,obj1653-pl-623,obj1653,Philadelphia,Philadelphia
+place_279,obj1659-pl-629,obj1659,Philadelphia,Philadelphia
+place_279,obj1675-pl-674,obj1675,Philadelphia,Philadelphia
+place_279,obj1687-pl-687,obj1687,Philadelphia,Philadelphia
+place_279,obj1698-pl-706,obj1698,Philadelphia,Philadelphia
+place_279,obj1703-pl-714,obj1703,Philadelphia,Philadelphia
+place_279,obj1709-pl-723,obj1709,Philadelphia,Philadelphia
+place_279,obj1715-pl-728,obj1715,Philadelphia,Philadelphia
+place_279,obj1716-pl-729,obj1716,Philadelphia,Philadelphia
+place_279,obj1717-pl-730,obj1717,Philadelphia,Philadelphia
+place_279,obj1720-pl-739,obj1720,Philadelphia,Philadelphia
+place_279,obj1722-pl-741,obj1722,Philadelphia,Philadelphia
+place_279,obj1732-pl-755,obj1732,Philadelphia,Philadelphia
+place_279,obj1742-pl-769,obj1742,Philadelphia,Philadelphia
+place_279,obj1756-pl-792,obj1756,Philadelphia,Philadelphia
+place_279,obj1771-pl-828,obj1771,Philadelphia,Philadelphia
+place_279,obj1775-pl-838,obj1775,Philadelphia,Philadelphia
+place_280,obj847-pl-144,obj847,Philly,Philly
+place_281,obj1042-pl-427,obj1042,Pittsburgh,Pittsburgh
+place_282,obj1174-pl-646,obj1174,Place de Italians,5 Place de Italians
+place_283,obj1362-pl-88,obj1362,Place Louis 15,Place Louis 15
+place_284,obj1270-pl-790,obj1270,Poland,Poland
+place_285,obj1137-pl-583,obj1137,Portsmouth,Portsmouth
+place_285,obj1646-pl-604,obj1646,Portsmouth,Portsmouth
+place_286,obj859-pl-162,obj859,Portugal,Portugal
+place_286,obj1847-pl-924,obj1847,Portugal,Portugal
+place_287,obj1260-pl-773,obj1260,Princeton,Princeton
+place_288,obj1133-pl-569,obj1133,Providence,Providence
+place_288,obj1170-pl-639,obj1170,Providence,Providence
+place_289,obj1271-pl-797,obj1271,Prussia,Prussia
+place_290,obj1132-pl-567,obj1132,"Providence, Rhode Island","Providence, Rhode Island"
+place_291,obj1050-pl-444,obj1050,"Providence, RI","Providence, RI"
+place_291,obj1757-pl-795,obj1757,"Providence, RI","Providence, RI"
+place_292,obj768-pl-22,obj768,Richmond,Richmond
+place_292,obj953-pl-307,obj953,Richmond,Richmond
+place_292,obj1011-pl-384,obj1011,Richmond,Richmond
+place_292,obj1095-pl-492,obj1095,Richmond,Richmond
+place_292,obj1099-pl-505,obj1099,Richmond,Richmond
+place_292,obj1100-pl-510,obj1100,Richmond,Richmond
+place_292,obj1250-pl-740,obj1250,Richmond,Richmond
+place_292,obj1292-pl-834,obj1292,Richmond,Richmond
+place_292,obj1352-pl-68,obj1352,Richmond,Richmond
+place_292,obj1352-pl-69,obj1352,Richmond,Richmond
+place_292,obj1380-pl-110,obj1380,Richmond,Richmond
+place_292,obj1381-pl-112,obj1381,Richmond,Richmond
+place_292,obj1390-pl-121,obj1390,Richmond,Richmond
+place_292,obj1466-pl-266,obj1466,Richmond,Richmond
+place_292,obj1471-pl-277,obj1471,Richmond,Richmond
+place_292,obj1752-pl-785,obj1752,Richmond,Richmond
+place_293,obj1476-pl-291,obj1476,Rio Colombia,Rio Colombia
+place_294,obj902-pl-229,obj902,Rockaway,Rockaway
+place_295,obj1126-pl-553,obj1126,Roma,Roma
+place_296,obj1504-pl-335,obj1504,Rome,Rome
+place_296,obj1564-pl-474,obj1564,Rome,Rome
+place_296,obj1645-pl-601,obj1645,Rome,Rome
+place_296,obj1689-pl-690,obj1689,Rome,Rome
+place_296,obj1746-pl-775,obj1746,Rome,Rome
+place_297,obj1138-pl-592,obj1138,Rotterdam,Rotterdam
+place_298,obj1087-pl-479,obj1087,Ruckesevres,Ruckesevres
+place_299,obj1296-pl-840,obj1296,Rue Basse du Rempart,Rue Basse du Rempart
+place_300,obj887-pl-197,obj887,Rue Beaujolais,7 Rue Beaujolais
+place_301,obj1735-pl-758,obj1735,Rue Castiglione,Rue Castiglione
+place_302,obj1667-pl-658,obj1667,rue d’alger no 12,rue d’alger no 12
+place_303,obj1870-pl-944,obj1870,rue d’Artur,rue d’Artur
+place_304,obj955-pl-308,obj955,Rue de Bourbon,Rue de Bourbon
+place_305,obj1464-pl-263,obj1464,rue de Dominique,11 rue de Dominique
+place_305,obj1465-pl-264,obj1465,rue de Dominique,11 rue de Dominique
+place_306,obj761-pl-14,obj761,Rue de Dragon,Rue de Dragon
+place_307,obj1386-pl-119,obj1386,rue de la Madeline,41 rue de la Madeline
+place_308,obj1559-pl-462,obj1559,rue de la victoire,20 rue de la victoire
+place_309,obj1522-pl-372,obj1522,No. 24 rue de rivoli,No. 24 rue de rivoli
+place_310,obj1167-pl-635,obj1167,Rue de Varcan,Rue de Varcan
+place_311,obj1172-pl-643,obj1172,Rue de Varenne,Rue de Varenne
+place_312,obj1120-pl-535,obj1120,Rue des Postes,Rue des Postes
+place_313,obj1345-pl-61,obj1345,Rue Le Pelletier,16 Rue Le Pelletier
+place_314,obj1407-pl-151,obj1407,Rue Lepellelier,19 Rue Lepellelier
+place_315,obj1727-pl-749,obj1727,Rue Monsieur La Prince,20 Rue Monsieur La Prince
+place_316,obj1486-pl-309,obj1486,Rue st Augar,40 Rue st Augar
+place_317,obj1163-pl-629,obj1163,Rue St Honore,Rue St Honore
+place_318,obj1449-pl-231,obj1449,Rue Tivoli,Rue Tivoli
+place_319,obj1257-pl-760,obj1257,Russia,Russia
+place_319,obj1270-pl-789,obj1270,Russia,Russia
+place_319,obj1279-pl-808,obj1279,Russia,Russia
+place_320,obj1137-pl-584,obj1137,Salisbury,Salisbury
+place_321,obj1540-pl-428,obj1540,Salisbury,Salisbury
+place_322,obj1398-pl-138,obj1398,Saratoga,Saratoga
+place_323,obj769-pl-26,obj769,Scotland,Scotland
+place_323,obj908-pl-238,obj908,Scotland,Scotland
+place_323,obj952-pl-304,obj952,Scotland,Scotland
+place_323,obj1019-pl-394,obj1019,Scotland,Scotland
+place_323,obj1564-pl-477,obj1564,Scotland,Scotland
+place_323,obj1618-pl-562,obj1618,Scotland,Scotland
+place_323,obj1723-pl-744,obj1723,Scotland,Scotland
+place_324,obj773-pl-41,obj773,Senegal,Senegal
+place_325,obj1189-pl-667,obj1189,Sidney,Sidney
+place_326,obj1444-pl-219,obj1444,S America,S America
+place_327,obj773-pl-40,obj773,South America,South America
+place_327,obj1215-pl-705,obj1215,South America,South America
+place_328,obj1330-pl-45,obj1330,Columbia,Columbia
+place_328,obj1358-pl-79,obj1358,Columbia,Columbia
+place_328,obj1530-pl-391,obj1530,Columbia,Columbia
+place_328,obj1663-pl-649,obj1663,Columbia,Columbia
+place_328,obj1755-pl-790,obj1755,Columbia,Columbia
+place_329,obj1358-pl-83,obj1358,Columbia SC,Columbia SC
+place_330,obj1530-pl-395,obj1530,Lexington (SC) district,Lexington (SC) district
+place_331,obj1333-pl-54,obj1333,S Carolina,S Carolina
+place_332,obj958-pl-311,obj958,S. Carolina,S. Carolina
+place_332,obj1330-pl-44,obj1330,S. Carolina,S. Carolina
+place_333,obj1319-pl-19,obj1319,"Columbia, S.C","Columbia, [S.C]"
+place_334,obj1332-pl-46,obj1332,"Charleston, SC","Charleston, SC"
+place_335,obj1330-pl-35,obj1330,"Columbia, SC","Columbia, SC"
+place_336,obj1530-pl-394,obj1530,SC,SC
+place_337,obj925-pl-258,obj925,"Charleston, South Carolina","Charleston, South Carolina"
+place_337,obj1405-pl-146,obj1405,"Charleston, South Carolina","Charleston, South Carolina"
+place_338,obj1432-pl-192,obj1432,"Columbia, South Carolina","Columbia, South Carolina"
+place_339,obj1321-pl-23,obj1321,South Carolina,South Carolina
+place_339,obj1836-pl-895,obj1836,South Carolina,South Carolina
+place_340,obj1560-pl-464,obj1560,"Granada, Spain","Granada, Spain"
+place_341,obj879-pl-192,obj879,Spain,Spain
+place_341,obj1528-pl-388,obj1528,Spain,Spain
+place_341,obj1587-pl-516,obj1587,Spain,Spain
+place_341,obj1847-pl-923,obj1847,Spain,Spain
+place_342,obj801-pl-80,obj801,St Cloud,St Cloud
+place_343,obj1747-pl-778,obj1747,St Croix,St Croix
+place_344,obj952-pl-303,obj952,St Germain,St Germain
+place_344,obj1654-pl-624,obj1654,St Germain,St Germain
+place_345,obj1661-pl-635,obj1661,St Helena,St Helena
+place_346,obj1322-pl-26,obj1322,St Louis,St Louis
+place_346,obj1517-pl-358,obj1517,St Louis,St Louis
+place_346,obj1544-pl-431,obj1544,St Louis,St Louis
+place_346,obj1544-pl-434,obj1544,St Louis,St Louis
+place_347,obj1154-pl-620,obj1154,St Roch,St Roch
+place_348,obj1862-pl-938,obj1862,St Sulphice,St Sulphice
+place_349,obj1747-pl-779,obj1747,St Thomas,St Thomas
+place_350,obj1237-pl-724,obj1237,Stanley,Stanley
+place_351,obj849-pl-146,obj849,Staten Island,Staten Island
+place_352,obj1402-pl-142,obj1402,Suisse,Suisse
+place_353,obj773-pl-38,obj773,Switzerland,Switzerland
+place_353,obj1103-pl-523,obj1103,Switzerland,Switzerland
+place_353,obj1402-pl-143,obj1402,Switzerland,Switzerland
+place_353,obj1547-pl-444,obj1547,Switzerland,Switzerland
+place_354,obj1596-pl-530,obj1596,Talamanca,Talamanca
+place_355,obj1661-pl-637,obj1661,Taunton,Taunton
+place_356,obj1645-pl-599,obj1645,"Nashville, Tennessee","Nashville, Tennessee"
+place_357,obj1622-pl-568,obj1622,Tennessee,Tennessee
+place_358,obj1122-pl-541,obj1122,Texas,Texas
+place_358,obj1541-pl-428,obj1541,Texas,Texas
+place_358,obj1757-pl-796,obj1757,Texas,Texas
+place_358,obj1781-pl-845,obj1781,Texas,Texas
+place_358,obj1783-pl-851,obj1783,Texas,Texas
+place_359,obj1827-pl-888,obj1827,the Doubs,the Doubs
+place_360,obj908-pl-237,obj908,the Floridas,the Floridas
+place_361,obj1477-pl-293,obj1477,the Guianes,the Guianes
+place_362,obj1754-pl-788,obj1754,the Hague,the Hague
+place_363,obj1827-pl-889,obj1827,the Haute Saône,the Haute Saône
+place_364,obj1145-pl-607,obj1145,the Ohio,the Ohio
+place_365,obj1122-pl-544,obj1122,the other Asia,the other Asia
+place_366,obj1194-pl-675,obj1194,the Potomac,the Potomac
+place_367,obj1838-pl-900,obj1838,Tinnespan,Tinnespan
+place_368,obj1427-pl-182,obj1427,Tobasco,Tobasco
+place_368,obj1492-pl-316,obj1492,Tobasco,Tobasco
+place_369,obj1447-pl-227,obj1447,Toulon,Toulon
+place_370,obj1797-pl-864,obj1797,Tripoli,Tripoli
+place_371,obj1547-pl-445,obj1547,Turkey,Turkey
+place_372,obj806-pl-90,obj806,United States,United States
+place_372,obj807-pl-96,obj807,United States,United States
+place_372,obj853-pl-153,obj853,United States,United States
+place_372,obj874-pl-187,obj874,United States,United States
+place_372,obj1015-pl-388,obj1015,United States,United States
+place_372,obj1043-pl-434,obj1043,United States,United States
+place_372,obj1090-pl-482,obj1090,United States,United States
+place_372,obj1151-pl-615,obj1151,United States,United States
+place_372,obj1158-pl-625,obj1158,United States,United States
+place_372,obj1171-pl-642,obj1171,United States,United States
+place_372,obj1235-pl-719,obj1235,United States,United States
+place_372,obj1257-pl-759,obj1257,United States,United States
+place_372,obj1330-pl-36,obj1330,United States,United States
+place_372,obj1340-pl-a11,obj1340,United States,United States
+place_372,obj1349-pl-67,obj1349,United States,United States
+place_372,obj1358-pl-82,obj1358,United States,United States
+place_372,obj1478-pl-296,obj1478,United States,United States
+place_372,obj1779-pl-843,obj1779,United States,United States
+place_372,obj1791-pl-862,obj1791,United States,United States
+place_372,obj1815-pl-868,obj1815,United States,United States
+place_372,obj1829-pl-891,obj1829,United States,United States
+place_372,obj1836-pl-894,obj1836,United States,United States
+place_372,obj1843-pl-907,obj1843,United States,United States
+place_372,obj1844-pl-914,obj1844,United States,United States
+place_372,obj1845-pl-916,obj1845,United States,United States
+place_372,obj1846-pl-918,obj1846,United States,United States
+place_372,obj1847-pl-926,obj1847,United States,United States
+place_372,obj1848-pl-927,obj1848,United States,United States
+place_372,obj1850-pl-932,obj1850,United States,United States
+place_372,obj1858-pl-936,obj1858,United States,United States
+place_372,obj1890-pl-949,obj1890,United States,United States
+place_373,obj755-pl-6,obj755,US,US
+place_373,obj769-pl-29,obj769,US,US
+place_373,obj770-pl-31,obj770,US,US
+place_373,obj773-pl-39,obj773,US,US
+place_373,obj780-pl-49,obj780,US,US
+place_373,obj798-pl-72,obj798,US,US
+place_373,obj801-pl-78,obj801,US,US
+place_373,obj808-pl-98,obj808,US,US
+place_373,obj863-pl-171,obj863,US,US
+place_373,obj877-pl-190,obj877,US,US
+place_373,obj1279-pl-809,obj1279,US,US
+place_373,obj1398-pl-140,obj1398,US,US
+place_373,obj1430-pl-189,obj1430,US,US
+place_373,obj1467-pl-268,obj1467,US,US
+place_373,obj1541-pl-429,obj1541,US,US
+place_373,obj1560-pl-470,obj1560,US,US
+place_373,obj1572-pl-494,obj1572,US,US
+place_373,obj1586-pl-513,obj1586,US,US
+place_374,obj1627-pl-575,obj1627,"Virginia, US","Virginia, US"
+place_375,obj1838-pl-899,obj1838,Valladolid,Valladolid
+place_376,obj1413-pl-159,obj1413,"Burlington, Vermont","Burlington, Vermont"
+place_377,obj1191-pl-669,obj1191,Vermont,Vermont
+place_377,obj1558-pl-460,obj1558,Vermont,Vermont
+place_378,obj1102-pl-514,obj1102,Rue de Reservoir a Versailles,Rue de Reservoir a Versailles
+place_379,obj866-pl-177,obj866,Versailles,Versailles
+place_379,obj1102-pl-516,obj1102,Versailles,Versailles
+place_379,obj1103-pl-520,obj1103,Versailles,Versailles
+place_379,obj1156-pl-622,obj1156,Versailles,Versailles
+place_379,obj1768-pl-819,obj1768,Versailles,Versailles
+place_379,obj1769-pl-821,obj1769,Versailles,Versailles
+place_379,obj1771-pl-825,obj1771,Versailles,Versailles
+place_379,obj1771-pl-826,obj1771,Versailles,Versailles
+place_379,obj1772-pl-830,obj1772,Versailles,Versailles
+place_379,obj1876-pl-947,obj1876,Versailles,Versailles
+place_380,obj1122-pl-543,obj1122,Vienna,Vienna
+place_380,obj1524-pl-375,obj1524,Vienna,Vienna
+place_380,obj1588-pl-518,obj1588,Vienna,Vienna
+place_380,obj1668-pl-659,obj1668,Vienna,Vienna
+place_381,obj1010-pl-381,obj1010,city of Richmond,city of Richmond
+place_382,obj1621-pl-565,obj1621,"Jefferson County, VA","Jefferson County, VA"
+place_383,obj1436-pl-197,obj1436,"Lexington, VA","Lexington, VA"
+place_383,obj1519-pl-363,obj1519,"Lexington, VA","Lexington, VA"
+place_384,obj1533-pl-410,obj1533,"Richmond, VA","Richmond, VA"
+place_384,obj1534-pl-413,obj1534,"Richmond, VA","Richmond, VA"
+place_384,obj1576-pl-501,obj1576,"Richmond, VA","Richmond, VA"
+place_384,obj1626-pl-573,obj1626,"Richmond, VA","Richmond, VA"
+place_385,obj1530-pl-393,obj1530,VA,VA
+place_385,obj1533-pl-411,obj1533,VA,VA
+place_385,obj1534-pl-415,obj1534,VA,VA
+place_385,obj1547-pl-442,obj1547,VA,VA
+place_385,obj1585-pl-511,obj1585,VA,VA
+place_385,obj1588-pl-519,obj1588,VA,VA
+place_385,obj1617-pl-561,obj1617,VA,VA
+place_385,obj1627-pl-577,obj1627,VA,VA
+place_385,obj1893-pl-956,obj1893,VA,VA
+place_386,obj1597-pl-531,obj1597,"Burlington, Virginia","Burlington, Virginia"
+place_387,obj942-pl-274,obj942,Virginia,Virginia
+place_387,obj998-pl-367,obj998,Virginia,Virginia
+place_387,obj1011-pl-386,obj1011,Virginia,Virginia
+place_387,obj1095-pl-491,obj1095,Virginia,Virginia
+place_387,obj1165-pl-632,obj1165,Virginia,Virginia
+place_387,obj1203-pl-683,obj1203,Virginia,Virginia
+place_387,obj1209-pl-694,obj1209,Virginia,Virginia
+place_387,obj1259-pl-765,obj1259,Virginia,Virginia
+place_387,obj1294-pl-837,obj1294,Virginia,Virginia
+place_387,obj1358-pl-81,obj1358,Virginia,Virginia
+place_387,obj1422-pl-170,obj1422,Virginia,Virginia
+place_387,obj1426-pl-179,obj1426,Virginia,Virginia
+place_387,obj1438-pl-200,obj1438,Virginia,Virginia
+place_387,obj1455-pl-246,obj1455,Virginia,Virginia
+place_387,obj1598-pl-534,obj1598,Virginia,Virginia
+place_387,obj1836-pl-897,obj1836,Virginia,Virginia
+place_388,obj1288-pl-826,obj1288,Wheeling Virginia,Wheeling Virginia
+place_389,obj1137-pl-586,obj1137,Wales,Wales
+place_390,obj1271-pl-795,obj1271,Warsaw,Warsaw
+place_391,obj853-pl-155,obj853,Washington,Washington
+place_391,obj900-pl-224,obj900,Washington,Washington
+place_391,obj952-pl-294,obj952,Washington,Washington
+place_391,obj1004-pl-376,obj1004,Washington,Washington
+place_391,obj1019-pl-395,obj1019,Washington,Washington
+place_391,obj1080-pl-474,obj1080,Washington,Washington
+place_391,obj1145-pl-601,obj1145,Washington,Washington
+place_391,obj1151-pl-616,obj1151,Washington,Washington
+place_391,obj1152-pl-617,obj1152,Washington,Washington
+place_391,obj1158-pl-626,obj1158,Washington,Washington
+place_391,obj1173-pl-644,obj1173,Washington,Washington
+place_391,obj1203-pl-684,obj1203,Washington,Washington
+place_391,obj1215-pl-701,obj1215,Washington,Washington
+place_391,obj1216-pl-706,obj1216,Washington,Washington
+place_391,obj1250-pl-741,obj1250,Washington,Washington
+place_391,obj1260-pl-771,obj1260,Washington,Washington
+place_391,obj1271-pl-793,obj1271,Washington,Washington
+place_391,obj1274-pl-800,obj1274,Washington,Washington
+place_391,obj1281-pl-815,obj1281,Washington,Washington
+place_391,obj1322-pl-24,obj1322,Washington,Washington
+place_391,obj1438-pl-201,obj1438,Washington,Washington
+place_391,obj1547-pl-441,obj1547,Washington,Washington
+place_391,obj1550-pl-450,obj1550,Washington,Washington
+place_391,obj1574-pl-497,obj1574,Washington,Washington
+place_391,obj1581-pl-508,obj1581,Washington,Washington
+place_391,obj1598-pl-535,obj1598,Washington,Washington
+place_391,obj1663-pl-648,obj1663,Washington,Washington
+place_391,obj1663-pl-651,obj1663,Washington,Washington
+place_391,obj1669-pl-663,obj1669,Washington,Washington
+place_391,obj1671-pl-668,obj1671,Washington,Washington
+place_391,obj1688-pl-689,obj1688,Washington,Washington
+place_391,obj1693-pl-698,obj1693,Washington,Washington
+place_391,obj1695-pl-702,obj1695,Washington,Washington
+place_391,obj1695-pl-703,obj1695,Washington,Washington
+place_391,obj1719-pl-735,obj1719,Washington,Washington
+place_391,obj1783-pl-850,obj1783,Washington,Washington
+place_391,obj1791-pl-861,obj1791,Washington,Washington
+place_391,obj1804-pl-866,obj1804,Washington,Washington
+place_391,obj1838-pl-898,obj1838,Washington,Washington
+place_391,obj1891-pl-950,obj1891,Washington,Washington
+place_392,obj989-pl-354,obj989,Treasury Department,Treasury Department
+place_393,obj1382-pl-115,obj1382,Washington City,Washington City
+place_393,obj1571-pl-489,obj1571,Washington City,Washington City
+place_394,obj1379-pl-109,obj1379,Washington DC,[Washington DC]
+place_395,obj1071-pl-461,obj1071,Washington DC,Washington DC
+place_395,obj1484-pl-308,obj1484,Washington DC,Washington DC
+place_396,obj836-pl-124,obj836,West Indies,West Indies
+place_397,obj1096-pl-494,obj1096,West Point,West Point
+place_397,obj1097-pl-496,obj1097,West Point,West Point
+place_397,obj1097-pl-497,obj1097,West Point,West Point
+place_397,obj1622-pl-567,obj1622,West Point,West Point
+place_397,obj1635-pl-590,obj1635,West Point,West Point
+place_398,obj1010-pl-380,obj1010,Williamsburg,Williamsburg
+place_398,obj1095-pl-490,obj1095,Williamsburg,Williamsburg

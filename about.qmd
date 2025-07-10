@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This is a small website of exploratory visualisations for the [Transatlantic Intellectual Networks](https://research.ncl.ac.uk/atnu/projects/transatlanticintellectualnetworks/) project (2020), by [Sharon Howard](https://sharonhoward.org).

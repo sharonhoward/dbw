@@ -1,0 +1,905 @@
+sort,obj_id,old_obj,year,query,sender1,sender_id,sender_n,date_sent,date_when,recipient1,recipient_id,recipient_n,place_sent,place_n,untranscribed
+1,obj1301,Obj1317,1832,,"Academie de L’industrie agricole, manufacturiere et commerciale",org:org_001,obj1301-on-1,24 Jan 1832,1832-01-24,DBW,ppl:dbw,,,,
+2,obj1302,Obj1318,1832,,Josiah Quincy,ppl:jqt,obj1302-s-1,,,DBW,ppl:dbw,,"Cambridge, [Mass]",obj1302-pl-1,
+3,obj1303,Obj1319,1832,,Societe Philotechnique de Paris,org:org_102,obj1303-on-3,2 Feb 1832,1832-02-02,DBW,ppl:dbw,,,,
+4,obj1304,Obj1320,1832,,D. Vaucel,ppl:dvaucel,obj1304-s-1,23 Feb 1832,1832-02-23,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            D. Vaucel, Biographie Contemporains, 23 Feb 1832
+                        
+               
+                    
+                        In french [photo]- not yet transcribed
+               
+                "
+5,obj1305,Obj1321,1832,,Vaucel,ppl:dvaucel,obj1305-s-1,28 Feb 1832,1832-02-28,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Vaucel, Biographie Contemporains, 28 Feb 1832
+                        
+               
+                    
+                        [photos x2] – not yet transcribed 
+               
+                "
+6,obj1306,Obj1322,1832,,Biddle,ppl:rbidd,obj1306-s-1,29 Feb 1832,1832-02-29,DBW,ppl:dbw,,"28 Chapel Street Grosvenor Place, London",obj1306-pl-2,
+7,obj1307,Obj1323,1832,,Dr GM McMahon,ppl:gmmcmahon,obj1307-s-1,23 Mar 1832,1832-03-23,DBW,ppl:dbw,,,,
+8,obj1308,Obj1324,1832,,D. Vaucel,ppl:dvaucel,obj1308-s-1,26 Mar 1832,1832-03-26,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            D. Vaucel, Biographie Contemporains, 26 Mar 1832
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                    DBW note: Schuick, le general Steuben, Phillipe Scheyler, Bouard Shippen
+                "
+9,obj1309,Obj1325,1832,,Mrs McMahon,ppl:mrsamcmahon,obj1309-s-1,,,DBW,ppl:dbw,,,,
+10,obj1310,Obj1326,1832,,D. Vaucel,ppl:dvaucel,obj1310-s-1,4 April 1832,1832-04-04,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            D. Vaucel, Biographie Contemporains, 4 April 1832
+                        
+               
+                    
+                        In French [photo x2] – not yet transcribed
+               
+                "
+11,obj1311,Obj1327,1832,,Dallas Backe,ppl:adbache,obj1311-s-1,6 April 1832,1832-04-06,DBW,ppl:dbw,,Philadelphia,obj1311-pl-3,
+12,obj1312,Obj1328,1832,,"C.J. Ingersoll,",ppl:cji,obj1312-s-1,9 April 1832,1832-04-09,DBW,ppl:dbw,,Philadelphia,obj1312-pl-8,
+13,obj1313,Obj1329,1832,,D. Vaucel,ppl:dvaucel,obj1313-s-1,11 April 1832,1832-04-11,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            D. Vaucel, Biographie Contemporains, 11 April
+                                1832
+                        
+               
+                    
+                        In French [photo x2] – not yet transcribed
+               
+                "
+14,obj1314,Obj1330,1832,,James Brown,ppl:jbro,obj1314-s-1,19 Apr 1832,1832-04-19,DBW,ppl:dbw,,Phil,obj1314-pl-10,
+15,obj1315,Obj1331,1832,,"George Parkman, S.A.,",ppl:gparkman,obj1315-s-1,1 May 1832,1832-05-01,DBW,ppl:dbw,,Boston,obj1315-pl-12,
+16,obj1316,Obj1332,1832,,Dr R L Mussey,ppl:rlmussey,obj1316-s-1,4 May 1832,1832-05-04,DBW,ppl:dbw,,"Brunswick, Maine",obj1316-pl-15,
+17,obj1317,Obj1332,1832,,Charles S. Jackson,ppl:csjackson,obj1317-s-1,16 May 1832,1832-05-16,DBW,ppl:dbw,,,,
+18,obj1318,Obj1333,1832,,F. C Grey,ppl:fcgray,obj1318-s-1,9 May 1832,1832-05-09,DBW,ppl:dbw,,,,
+19,obj1319,Obj1334,1832,,Colonel MacCord,ppl:djmccord,obj1319-s-1,20 May 1832,1832-05-20,DBW,ppl:dbw,,"Columbia, [S.C]",obj1319-pl-19,
+20,obj1320,Obj1335,1832,,Dr Hosack,ppl:dhos,obj1320-s-1,26 May 1832,1832-05-26,DBW,ppl:dbw,,Hyde Park,obj1320-pl-20,
+21,obj1321,Obj1336,1832,,"Henry Junius Nott,",ppl:hjnott,obj1321-s-1,23 May 1832,1832-05-23,DBW,ppl:dbw,,South Carolina,obj1321-pl-23,
+22,obj1322,Obj1337,1832,,Col J MacMahon,ppl:jpcmacmahon,obj1322-s-1,7 June 1832,1832-06-07,DBW,ppl:dbw,,Washington,obj1322-pl-24,
+23,obj1323,Obj1338,1832,,Isaiah Townsend,ppl:ditj,obj1323-s-1,"Sat 21 July, 1832",1832-07-21,DBW,ppl:dbw,,,,
+24,obj1324,Obj1339,1832,,"A.D. Bache [Alexander Dallas Bache],",ppl:adbache,obj1324-s-1,6 Aug 1832,1832-08-06,DBW,ppl:dbw,,,,
+25,obj1325,Obj1340,1832,,"Augustus de Morgan,",ppl:admorgan,obj1325-s-1,14 August 1832,1832-08-14,DBW,ppl:dbw,,"90 Guildford Street, London",obj1325-pl-27,
+26,obj1326,Obj1341,1832,,"A.D. Bache [Alexander Dallas Bache],",ppl:adbache,obj1326-s-1,16 Oct 1832,1832-10-16,DBW,ppl:dbw,,Philadelphia,obj1326-pl-30,
+27,obj1327,Obj1342,1832,,John W. Francis,ppl:jwfran,obj1327-s-1,18 Oct 1832,1832-10-18,DBW,ppl:dbw,,New York,obj1327-pl-31,
+28,obj1328,Obj1342,1832,,"Leonard Cassell McPhail,",ppl:lencassmcp,obj1328-s-1,19 Oct 1832,1832-10-19,DBW,ppl:dbw,,,,
+29,obj1329,Obj1343,1832,,James Brown,ppl:jbro,obj1329-s-1,19 Oct 1832,1832-10-19,DBW,ppl:dbw,,Phil,obj1329-pl-33,
+30,obj1330,Obj1344,1832,,"Colonel MacCord,",ppl:djmccord,obj1330-s-1,24 Nov 1832,1832-11-24,DBW,ppl:dbw,,"Columbia, SC",obj1330-pl-35,
+31,obj1331,Obj1345,1832,,Secretaire de le Institut de France,org:org_046,obj1331-s-1,31 Dec 1832,1832-12-31,DBW,ppl:dbw,,,,
+32,obj1332,Obj1346,1832,,"Hugh S. Legare,",ppl:hslegare,obj1332-s-1,11 Dec 1832,1832-12-11,DBW,ppl:dbw,,"Charleston, SC",obj1332-pl-46,
+33,obj1333,Obj1347,1832,,Col J MacMahon,ppl:jpcmacmahon,obj1333-s-1,14 Dec 1832,1832-12-14,DBW,ppl:dbw,,"Jefferson Barracks, Missouri",obj1333-pl-48,
+34,obj1334,Obj1348,1832,,Hugh Legare,ppl:hslegare,obj1334-s-1,30 Dec 1832,1832-12-30,DBW,ppl:dbw,,Brussels,obj1334-pl-55,
+35,obj1335,Obj1349,1832,,de Morgan,ppl:admorgan,obj1335-s-1,1832,1832,DBW,ppl:dbw,,,,
+36,obj1336,Obj1350,1832,,Leonard Cassell-McPhail,ppl:lencassmcp,obj1336-s-1,[1832],1832,DBW,ppl:dbw,,,,
+37,obj1337,Obj1351,1832,,"Isaiah Townsend,",ppl:ditj,obj1337-s-1,[1832],1832,DBW,ppl:dbw,,,,
+38,obj1338,Obj1352,1832,,Dr Townsend,ppl:ditj,obj1338-s-1,n.d.,1832,DBW,ppl:dbw,,,,
+39,obj1339,Obj1353,1832,,Isaiah Townsend,ppl:ditj,obj1339-s-1,n.d.,1832,DBW,ppl:dbw,,,,
+40,obj1340,Obj1354,1832,,Isaiah Townsend,ppl:ditj,obj1340-s-1,n.d. [1832],1832,DBW,ppl:dbw,,,,
+41,obj1341,Obj1355,1832,,Isaiah Townsend,ppl:ditj,obj1341-s-1,n.d.,1832,DBW,ppl:dbw,,,,
+1,obj1343,Obj1356,1833,,M. Blunt,ppl:edmblunt,obj1343-s-1,6 Jan 1833,1833-01-06,someone else,ppl:rnk2,obj1343-r-1,,,
+2,obj1344,Obj1357,1833,,Charles Jackson,ppl:ctjackson,obj1344-s-1,28 Jan 1833,1833-01-28,DBW,ppl:dbw,,Philadelphia,obj1344-pl-59,
+3,obj1345,Obj1358,1833,,Jos. William Jenks,ppl:jwjenks,obj1345-s-1,n.d.,1833,DBW,ppl:dbw,,16 Rue Le Pelletier,obj1345-pl-61,
+4,obj1346,Obj1359,1833,,Lenard Cassel-McPhail,ppl:lencassmcp,obj1346-s-1,31 Jan 1833,1833-01-31,DBW,ppl:dbw,,,,
+5,obj1347,Obj1360,1833,,"James Fenimore Cooper,",ppl:jfcooper,obj1347-s-1,[Jan 1833],1833-01,DBW,ppl:dbw,,,,
+6,obj1348,Obj1361,1833,,A. Coventry,ppl:acoventry,obj1348-s-1,13 Feb 1833,1833-02-13,DBW,ppl:dbw,,Edinburgh,obj1348-pl-65,
+7,obj1349,Obj1362,1833,,Lenard Cassel-McPhail,ppl:lencassmcp,obj1349-s-1,23 Feb 1833,1833-02-23,DBW,ppl:dbw,,,,
+8,obj1350,Obj1363,1833,,M. Filleau,ppl:mfilleau,obj1350-s-1,27 Feb 1833,1833-02-27,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            M. Filleau, 27 Feb 1833
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                "
+9,obj1351,Obj1364,1833,,"Octavia Mullanphy [later Delany],",ppl:octaviadelany,obj1351-s-1,1 Mar 1833,1833-03-01,DBW,ppl:dbw,,,,
+10,obj1352,Obj1365,1833,,Robert H. Cabell,ppl:rhcabell,obj1352-s-1,12 March 1833,1833-03-12,DBW,ppl:dbw,,Richmond,obj1352-pl-68,
+11,obj1353,Obj1366,1833,,"John Howard Payne,",ppl:jhp,obj1353-s-1,27 Mar 1833,1833-03-27,DBW,ppl:dbw,,Boston,obj1353-pl-72,
+12,obj1354,Obj1367,1833,,Lenard Cassel-McPhail,ppl:lencassmcp,obj1354-s-1,31 Mar 1833,1833-03-31,DBW,ppl:dbw,,,,
+13,obj1355,Obj1368,1833,,J. Francis Fisher,ppl:jffish,obj1355-s-1,12 April 1833,1833-04-12,DBW,ppl:dbw,,Philadelphia,obj1355-pl-76,
+14,obj1356,Obj1369,1833,,R. M Patterson,ppl:rmpatterson,obj1356-s-1,13 Apr 1833,1833-04-13,DBW,ppl:dbw,,,,
+15,obj1357,Obj1370,1833,,Menture Post,ppl:mpost,obj1357-s-1,14 Apr 1833,1833-04-14,DBW,ppl:dbw,,,,
+16,obj1358,Obj1371,1833,,Col McCord,ppl:djmccord,obj1358-s-1,21 April 1833,1833-04-21,DBW,ppl:dbw,,Columbia,obj1358-pl-79,
+17,obj1359,Obj1372,1833,,Du Murton,ppl:_dumurton,obj1359-s-1,22 Apr 1833,1833-04-22,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Du Murton, 22 Apr 1833
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                "
+18,obj1360, Obj1373 ,1833,,"Dr John Croghan,",ppl:jocroghan,obj1360-s-1,10 May 1833,1833-05-10,DBW,ppl:dbw,,London,obj1360-pl-84,
+19,obj1361,Obj1374,1833,,Peter Duponceau,ppl:pdup,obj1361-s-1,13 May 1833,1833-05-13,DBW,ppl:dbw,,Philadelphia,obj1361-pl-85,
+20,obj1362,Obj1375,1833,,Madame Elizabeth Patterson [Bonaparte],ppl:epb,obj1362-s-1,16 May 1833,1833-05-16,DBW,ppl:dbw,,Place Louis 15,obj1362-pl-88,
+21,obj1363,Obj1376,1833,,Miss Garnett,ppl:missgarnett,obj1363-s-1,22 May 1833,1833-05-22,DBW,ppl:dbw,,Paris,obj1363-pl-89,
+22,obj1364,Obj1377,1833,,Charles Jackson,ppl:ctjackson,obj1364-s-1,22 May 1833,1833-05-22,DBW,ppl:dbw,,Boston,obj1364-pl-90,
+23,obj1365,Obj1378,1833,,Charles Jackson,ppl:ctjackson,obj1365-s-1,28 May 1833,1833-05-28,DBW,ppl:dbw,,Boston,obj1365-pl-92,
+24,obj1366,Obj1379,1833,,"Jos. Wm. Jenks [Joseph William Jenks],",ppl:jwjenks,obj1366-s-1,28 June 1833,1833-06-28,DBW,ppl:dbw,,,,
+25,obj1367,Obj1380,1833,,Thomas Sedgewick,ppl:thossedg,obj1367-s-1,7 July 1833,1833-07-07,DBW,ppl:dbw,,,,
+26,obj1368,Obj1381,1833,,"M de Marbuis,",ppl:fbmarbois,obj1368-s-1,22 Apr 1833,1833-04-22,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            M de Marbuis,
+                            
+                             22 Apr 1833 
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                "
+27,obj1369,Obj1382,1833,,C. P. White [Campbell Patrick White],ppl:cpw,obj1369-s-1,1 sep 1833,1833-09-01,DBW,ppl:dbw,,New York,obj1369-pl-98,
+28,obj1370,Obj1383,1833,,Madame de Givre,ppl:mmedegivre,obj1370-s-1,9 Sep 1833,1833-09-09,DBW,ppl:dbw,,,,
+29,obj1371,Obj1384,1833,,Charles Jackson,ppl:ctjackson,obj1371-s-1,4 Oct 1833,1833-10-04,DBW,ppl:dbw,,Boston,obj1371-pl-99,
+30,obj1372,Obj1385,1833,,"Dr Thomas M. Logan,",ppl:tmlogan,obj1372-s-1,5 Oct 1833,1833-10-05,DBW,ppl:dbw,,Charleston,obj1372-pl-102,
+31,obj1373,Obj1386,1833,,F. Fraley,ppl:ffraley,obj1373-s-1,11 Oct 1833,1833-10-11,DBW,ppl:dbw,,Phil,obj1373-pl-104,
+32,obj1374,Obj1387,1833,,LaFayette,ppl:lafayette,obj1374-s-1,28 Oct 1833,1833-10-28,DBW,ppl:dbw,,La Grange,obj1374-pl-105,
+33,obj1375,Obj1388,1833,,Hosack,ppl:dhos,obj1375-s-1,31 Oct 1833,1833-10-31,DBW,ppl:dbw,,,,
+34,obj1376,Obj1388,1833,,MacPhail,ppl:_macphail,obj1376-s-1,6 Nov 1833,1833-11-06,DBW,ppl:dbw,,,,
+35,obj1377,Obj1389,1833,,Mr Legare,ppl:hslegare,obj1377-s-1,22 Nov 1833,1833-11-22,DBW,ppl:dbw,,Paris,obj1377-pl-107,
+36,obj1378,Obj1390,1833,,"Dr Logan,",ppl:tmlogan,obj1378-s-1,1 Dec 1833,1833-12-01,DBW,ppl:dbw,,Charleston,obj1378-pl-108,
+37,obj1379,Obj1391,1833,,Campbell P. White,ppl:cpw,obj1379-s-1,9 Dec 1833,1833-12-09,DBW,ppl:dbw,,[Washington DC],obj1379-pl-109,
+38,obj1380,Obj1392,1833,,Joseph C. Cabbell,ppl:jccabell,obj1380-s-1,13 Dec 1833,1833-12-13,madame Lejeune,ppl:mmelejeune,obj1380-r-1,Richmond,obj1380-pl-110,
+39,obj1381,Obj1393,1833,,Joseph C. Cabbell,ppl:jccabell,obj1381-s-1,13 Dec 1833,1833-12-13,DBW,ppl:dbw,obj1381-r-1,Richmond,obj1381-pl-112,
+40,obj1382,Obj1394,1833,,"J. ventress,",ppl:jav,obj1382-s-1,25 Dec [1833],1833-12-25,DBW,ppl:dbw,,Baltimore,obj1382-pl-113,
+41,obj1383,Obj1395,1833,,J Ventress,ppl:jav,obj1383-s-1,26 Dec [18]33,1833-12-26,D.B Warden,ppl:dbw,obj1383-r-1,Baltimore,obj1383-pl-118,
+42,obj1384,Obj1396,1833,,"Mr Biddle,",ppl:mrbidd,obj1384-s-1,[Dec 1833],1833-12,DBW,ppl:dbw,,,,
+43,obj1385,Obj1397,1833,,Mr Biddle,ppl:mrbidd,obj1385-s-1,[1833],1833,DBW,ppl:dbw,,,,
+44,obj1386,Obj1398,1833,,H Garnett,ppl:hgarnett,obj1386-s-1,,,DBW,ppl:dbw,,41 rue de la Madeline,obj1386-pl-119,
+1,obj1388,Obj1399,1834,,"Anna Bridgen,",ppl:abridgen,obj1388-s-1,8 Feb 1834,1834-02-08,DBW,ppl:dbw,,,,
+2,obj1389,Obj1400,1834,,"Thomas P. Barton,",ppl:tpbarton,obj1389-s-1,12 Mar [1834],1834-03-12,DBW,ppl:dbw,,,,
+3,obj1390,Obj1401,1834,,Joseph C. Cabell,ppl:jccabell,obj1390-s-1,19 Mar 1834,1834-03-19,DBW,ppl:dbw,,Richmond,obj1390-pl-121,
+4,obj1391,Obj1402,1834,,Dr MacNeven,ppl:wmacneven,obj1391-s-1,25 Mar 1834,1834-03-25,DBW,ppl:dbw,,,,
+5,obj1392,Obj1403,1834,,Dr G. Bedford,ppl:dgsb,obj1392-s-1,7 April 1834,1834-04-07,DBW,ppl:dbw,,New York,obj1392-pl-124,
+6,obj1393,Obj1404,1834,,Thomas Allen,ppl:thomallen,obj1393-s-1,,,DBW,ppl:dbw,,"34 Wall Street, New York",obj1393-pl-126,
+7,obj1394,Obj1405,1834,,Theodore Allen,ppl:theoallen,obj1394-s-1,19 May 1834,1834-05-19,DBW,ppl:dbw,,,,
+8,obj1395,Obj1405,1834,,J. R. Poinsett,ppl:jrpoinsett,obj1395-s-1,26 May 1834,1834-05-26,DBW,ppl:dbw,,Charleston,obj1395-pl-127,
+9,obj1396,Obj1406,1834,,MacNeven,ppl:wmacneven,obj1396-s-1,28 May 1834,1834-05-28,DBW,ppl:dbw,,,,
+10,obj1397,Obj1407,1834,,"Joseph Peace,",ppl:jpeace,obj1397-s-1,12 June 1834,1834-06-12,DBW,ppl:dbw,,Philadelphia,obj1397-pl-135,
+11,obj1398,Obj1408,1834,,"Mrs Ann Biddle,",ppl:annbiddle,obj1398-s-1,15 June 1834,1834-06-15,DBW,ppl:dbw,,New York,obj1398-pl-137,
+12,obj1399,Obj1409,1834,,"E. & G.W. Blunt,",org:org_032,obj1399-s-1,24 June 1834,1834-06-24,DBW,ppl:dbw,,New York,obj1399-pl-141,
+13,obj1400,Obj1410,1834,,Theodore Allen,ppl:theoallen,obj1400-s-1,26 June 1834,1834-06-26,DBW,ppl:dbw,,,,
+14,obj1401,Obj1411,1834,,Dr William Macneven,ppl:wmacneven,obj1401-s-1,28 June 1834,1834-06-28,DBW,ppl:dbw,,,,
+15,obj1402,Obj1412,1834,,"Charles Sealsfield,",ppl:kap,obj1402-s-1,5 July 1834,1834-07-05,DBW,ppl:dbw,,Suisse,obj1402-pl-142,
+16,obj1403,Obj1413,1834,,Dr William Macneven,ppl:wmacneven,obj1403-s-1,4 July 1834,1834-07-04,DBW,ppl:dbw,,,,
+17,obj1404,Obj1414,1834,,Hugh Legare,ppl:hslegare,obj1404-s-1,14 Jul 1834,1834-07-14,DBW,ppl:dbw,,Brussels,obj1404-pl-144,
+18,obj1405,Obj1415,1834,,"Dr F. Wurdemann,",ppl:jgfwurdemann,obj1405-s-1,31 Jul 1834,1834-07-31,DBW,ppl:dbw,,"Charleston, South Carolina",obj1405-pl-146,
+19,obj1406,Obj1416,1834,,"H. Atherton,",ppl:humatherton,obj1406-s-1,24 Sep 1834,1834-09-24,DBW,ppl:dbw,,,,
+20,obj1407,Obj1417,1834,,Gen. F. P. Robinson,ppl:fprobinson,obj1407-s-1,8 Oct 1834,1834-10-08,DBW,ppl:dbw,,19 Rue Lepellelier,obj1407-pl-151,
+21,obj1408,Obj1418,1834,,"[Catherine Van Gassbeek Stanley],",ppl:cgstanley,obj1408-s-1,"October 10, 1834",1834-10-10,DBW,ppl:dbw,,East Hartford,obj1408-pl-152,
+22,obj1409,Obj1419,1834,,"Rafinesque,",ppl:csrafinesque,obj1409-s-1,22 Oct 1834,1834-10-22,DBW,ppl:dbw,,Philadelphia,obj1409-pl-154,"
+                    
+                    
+                  
+                            Rafinesque,
+                            
+                             Philadelphia, 22 Oct 1834
+                        
+               
+                    
+                        In French but clearly written and probably translatable [x4] – not yet
+                        transcribed
+               
+                "
+23,obj1410,Obj1420,1834,,"Major Lee,",ppl:henrylee,obj1410-s-1,25 Oct 1834,1834-10-25,DBW,ppl:dbw,,Paris,obj1410-pl-155,
+24,obj1411,Obj1421,1834,,"J.E. Worcester,",ppl:jeworcester,obj1411-s-1,27 Oct 1834,1834-10-27,DBW,ppl:dbw,,"Cambridge, Mass",obj1411-pl-156,
+25,obj1412,Obj1422,1834,,"Dr Frederick Bronson,",ppl:fredbronson,obj1412-s-1,Oct 1834,1834-10,DBW,ppl:dbw,,New York,obj1412-pl-157,
+26,obj1413,Obj1423,1834,,J. Torrey,ppl:jostorrey,obj1413-s-1,October 1834,1834-10,DBW,ppl:dbw,,"Burlington, Vermont",obj1413-pl-159,
+27,obj1414,Obj1424,1834,,Dr J. A. Washington,ppl:jawashington,obj1414-s-1,7 Nov 1834,1834-11-07,DBW,ppl:dbw,,New York,obj1414-pl-160,
+28,obj1415,Obj1425,1834,,"F. Wurdemann,",ppl:jgfwurdemann,obj1415-s-1,[1834],1834,DBW,ppl:dbw,,,,
+29,obj1416,Obj1426,1834,,Henry Barnard,ppl:henbarnard,obj1416-s-1,4 Dec 1834,1834-12-04,DBW,ppl:dbw,,Paris,obj1416-pl-163,
+30,obj1417,Obj1427,1834,,Thomas Pennant Barton,ppl:tpbarton,obj1417-s-1,14 Dec 1834,1834-12-14,DBW,ppl:dbw,,Paris,obj1417-pl-166,
+31,obj1418,Obj1428,1834,,Thomas Pennant Barton,ppl:tpbarton,obj1418-s-1,n.d,1834,DBW,ppl:dbw,,,,
+32,obj1419,Obj1429,1834,,Pennant Barton [Thomas Pennant Barton],ppl:tpbarton,obj1419-s-1,,,DBW,ppl:dbw,,,,
+33,obj1420,Obj1430,1834,,"Miss Bridgen,",ppl:missbridgen,obj1420-s-1,n.d. [1834],1834,DBW,ppl:dbw,,,,
+1,obj1422,Obj1431,1835,,J. A. Washington,ppl:jawashington,obj1422-s-1,2 Jan 1835,1835-01-02,DBW,ppl:dbw,,New York,obj1422-pl-169,
+2,obj1423,Obj1432,1835,,J. A. Washington,ppl:jawashington,obj1423-s-1,2 Jan 1835,1835-01-02,DBW,ppl:dbw,,New York,obj1423-pl-174,
+3,obj1424,Obj1433,1835,,"E.& G. W Blunt,",org:org_032,obj1424-s-1,19 Jan 1835,1835-01-19,DBW,ppl:dbw,,,,
+4,obj1425,Obj1434,1835,correspondence_note,,,,,,,,,,,"
+                    
+                    
+                  
+                            [Fragment, possibly in DBW’s hand] Le Bon Sense du
+                                Samedi 24 Jan 1835
+                        
+               
+                    
+                        In French but translatable [see photo] – not yet transcribed 
+               
+                "
+5,obj1426,Obj1435,1835,,"B. W. Richards,",ppl:bwrichards,obj1426-s-1,6 Feb 1835,1835-02-06,DBW,ppl:dbw,,Philadelphia,obj1426-pl-178,
+6,obj1427,Obj1436,1835,,"Gen. [Solomon] Van Rensselaer,",ppl:svrensselaer,obj1427-s-1,14 Feb 1835,1835-02-14,DBW,ppl:dbw,,NY,obj1427-pl-180,
+7,obj1428,Obj1437,1835,,Dr MacNeven,ppl:wmacneven,obj1428-s-1,11 Feb 1835,1835-02-11,DBW,ppl:dbw,,NY,obj1428-pl-185,
+8,obj1429,Obj1438,1835,,Richard Harton,ppl:rharton,obj1429-s-1,13 Feb 1835,1835-02-13,DBW,ppl:dbw,,Philadelphia,obj1429-pl-186,
+9,obj1430,Obj1439,1835,,Henry Tanner,ppl:htanner,obj1430-s-1,14 Feb 1835,1835-02-14,DBW,ppl:dbw,,Philadelphia,obj1430-pl-188,
+10,obj1431,Obj1440,1835,,Hosack,ppl:dhos,obj1431-s-1,14 Feb 1835,1835-02-14,DBW,ppl:dbw,,NY,obj1431-pl-190,
+11,obj1432,Obj1441,1835,,Dr J. A. Washington,ppl:jawashington,obj1432-s-1,18 Mar 1835,1835-03-18,DBW,ppl:dbw,,NY,obj1432-pl-191,
+12,obj1433,Obj1442,1835,,Alexandre Vivien,ppl:avivien,obj1433-s-1,19 Mar 1835,1835-03-19,DBW,ppl:dbw,,Paris,obj1433-pl-193,"
+                    
+                    
+                  
+                            Alexandre Vivien, Chambre des Deputes, Commission
+                                d’Enquete, Paris, 19 Mar 1835
+                        
+               
+                    
+                        IN French [photo] with printed enclosure [photos x 9] – not yet transcribed
+               
+                "
+13,obj1434,Obj1443,1835,,Dr J. A. Washington,ppl:jawashington,obj1434-s-1,23 Mar 1835,1835-03-23,DBW,ppl:dbw,,NY,obj1434-pl-194,
+14,obj1435,Obj1444,1835,,Alexandre Vivien,ppl:avivien,obj1435-s-1,23 Mar 1835,1835-03-23,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Alexandre Vivien, 23 Mar 1835
+                        
+               
+                    
+                        In French [photo] – not yet transcribed 
+               
+                "
+15,obj1436,Obj1445,1835,,"Henry Vethake,",ppl:hvethake,obj1436-s-1,28 Mar 1835,1835-03-28,DBW,ppl:dbw,,"Lexington, VA",obj1436-pl-197,
+16,obj1437,Obj1446,1835,,Alexandre Vivien,ppl:avivien,obj1437-s-1,March 1835,1835-03,DBW,ppl:dbw,,,,
+17,obj1438,Obj1447,1835,,R.M. Patterson,ppl:rmpatterson,obj1438-s-1,1 Apr 1835,1835-04-01,DBW,ppl:dbw,,Virginia,obj1438-pl-200,
+18,obj1439,Obj1447,1835,,James Mease,ppl:jmea,obj1439-s-1,10 April 1835,1835-04-10,DBW,ppl:dbw,,Phil,obj1439-pl-202,
+19,obj1440,Obj1448,1835,,G.C. Verplank,ppl:gcv,obj1440-s-1,10 April 1835,1835-04-10,DBW,ppl:dbw,,NY,obj1440-pl-208,
+20,obj1441,Obj1449,1835,,John K. Kane,ppl:jkkane,obj1441-s-1,13 Apr 1835,1835-04-13,DBW,ppl:dbw,,Philadelphia,obj1441-pl-211,
+21,obj1442,Obj1500,1835,,"Lt. Dugas,",ppl:ladugas,obj1442-s-1,15 Apr 1835,1835-04-15,DBW,ppl:dbw,,"Augusta, Georgia",obj1442-pl-212,
+22,obj1443,Obj1501,1835,,E. & G. W. Blunt,org:org_032,obj1443-s-1,24 April 1835,1835-04-24,DBW,ppl:dbw,,NY,obj1443-pl-214,
+23,obj1444,Obj1502,1835,,J. Bleecker Van Shaick,ppl:jbvshaick,obj1444-s-1,28 Apr 1835,1835-04-28,DBW,ppl:dbw,,Albany,obj1444-pl-215,
+24,obj1445,Obj1503,1835,,"Dunscourt Bradford,",ppl:dunsbradford,obj1445-s-1,29 April 1835,1835-04-29,DBW,ppl:dbw,,Paris,obj1445-pl-222,
+25,obj1446,Obj1503,1835,,Dr Robert Baird,ppl:robbaird,obj1446-s-1,1 May 1835,1835-05-01,DBW,ppl:dbw,,Paris,obj1446-pl-225,
+26,obj1447,Obj1505,1835,,Major Henry Lee IV,ppl:henrylee,obj1447-s-1,1 May 1835,1835-05-01,DBW,ppl:dbw,,,,
+27,obj1448,Obj1506,1835,,J. A. Washington,ppl:jawashington,obj1448-s-1,2 May 1835,1835-05-02,DBW,ppl:dbw,,,,
+28,obj1449,Obj1507,1835,,M. Cohen,ppl:mcohen,obj1449-s-1,5 May [1835],1835-05-05,DBW,ppl:dbw,,Rue Tivoli,obj1449-pl-231,
+29,obj1450,Obj1508,1835,,Dr Hosack,ppl:dhos,obj1450-s-1,7 May 1835,1835-05-07,DBW,ppl:dbw,,NY,obj1450-pl-232,
+30,obj1451,Obj1509,1835,,W.H. Keating,ppl:whkeating,obj1451-s-1,11 May 1835,1835-05-11,DBW,ppl:dbw,,Philadelphia,obj1451-pl-235,
+31,obj1452,Obj1510,1835,,Julius T. Ducatel,ppl:jtducatel,obj1452-s-1,13 May 1835,1835-05-13,DBW,ppl:dbw,,Baltimore,obj1452-pl-238,
+32,obj1453,Obj1511,1835,,Dr Harlan,ppl:rharlan,obj1453-s-1,14 May 1835,1835-05-14,DBW,ppl:dbw,,Philadelphia,obj1453-pl-241,
+33,obj1454,Obj1512,1835,,"George Frick,",ppl:gfrick,obj1454-s-1,15 May 1835,1835-05-15,DBW,ppl:dbw,,Baltimore,obj1454-pl-244,
+34,obj1455,Obj1513,1835,,Moncure Robinson,ppl:mrob,obj1455-s-1,16 May 1835,1835-05-16,DBW,ppl:dbw,,,,
+35,obj1456,Obj1514,1835,,Charles F. Beck,ppl:dcfb,obj1456-s-1,17 May 1835,1835-05-17,DBW,ppl:dbw,,Philadelphia,obj1456-pl-247,
+36,obj1457,Obj1515,1835,,D. S. Wilson,ppl:dswilson,obj1457-s-1,18 May 1835,1835-05-18,DBW,ppl:dbw,,Baltimore,obj1457-pl-249,
+37,obj1458,Obj1516,1835,,C. G. Childs,ppl:cgchilds,obj1458-s-1,19 May 1835,1835-05-19,DBW,ppl:dbw,,Philadelphia,obj1458-pl-250,
+38,obj1459,Obj1517,1835,,"Anthony Morris,",ppl:amo,obj1459-s-1,19 May 1835,1835-05-19,DBW,ppl:dbw,,"Bolton Farm, Bucks Co., PA",obj1459-pl-252,
+39,obj1460,Obj1518,1835,,Thomas G Clemson,ppl:tgc,obj1460-s-1,22 May 1835,1835-05-22,DBW,ppl:dbw,,Philadelphia,obj1460-pl-254,
+40,obj1461,Obj1519,1835,,"Dr C. Wistar Pennock,",ppl:cwpennock,obj1461-s-1,1 June 1835,1835-06-01,DBW,ppl:dbw,,Philadelphia,obj1461-pl-257,
+41,obj1462,Obj1520,1835,,"Robert Baird,",ppl:robbaird,obj1462-s-1,6 June 1835,1835-06-06,DBW,ppl:dbw,,Paris,obj1462-pl-259,
+42,obj1463,Obj1521,1835,,Dr J W Francis,ppl:jwfran,obj1463-s-1,10 June 1835,1835-06-10,DBW,ppl:dbw,,New York,obj1463-pl-261,
+43,obj1464,Obj1522,1835,,Alexandre Vivien,ppl:avivien,obj1464-s-1,29 June 1835,1835-06-29,DBW,ppl:dbw,,11 rue de Dominique,obj1464-pl-263,"
+                    
+                    
+                  
+                            Alexandre Vivien, 11 rue de Dominique, 29 June
+                                1835
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                "
+44,obj1465,Obj1523,1835,,Alexandre Vivien,ppl:avivien,obj1465-s-1,29 June 1835,1835-06-29,DBW,ppl:dbw,,11 rue de Dominique,obj1465-pl-264,
+45,obj1466,Obj1524,1835,,J.L Cabell,ppl:jlcabell,obj1466-s-1,8 Jul 1835,1835-07-08,DBW,ppl:dbw,,Falls of Maryland,obj1466-pl-265,
+46,obj1467,Obj1525,1835,,"John Wilks,",ppl:jwilks,obj1467-s-1,22 July 1835,1835-07-22,DBW,ppl:dbw,,Paris,obj1467-pl-267,
+47,obj1468,Obj1526,1835,,John Wilks,ppl:jwilks,obj1468-s-1,1 Aug 1835,1835-08-01,DBW,ppl:dbw,,Paris,obj1468-pl-271,
+48,obj1469,Obj1527,1835,,Dr J. W. Francis,ppl:jwfran,obj1469-s-1,5 Aug 1835,1835-08-05,DBW,ppl:dbw,,New York,obj1469-pl-272,
+49,obj1470,Obj1528,1835,,J. A Washington,ppl:jawashington,obj1470-s-1,3 Aug 1835,1835-08-03,DBW,ppl:dbw,,New York,obj1470-pl-274,
+50,obj1471,Obj1529,1835,,"W. Poyntell Johnston,",ppl:wpjohnson,obj1471-s-1,14 Aug 1835,1835-08-14,DBW,ppl:dbw,,,,
+51,obj1472,Obj1530,1835,,Moncure Robinson,ppl:mrob,obj1472-s-1,31 Aug 1835,1835-08-31,DBW,ppl:dbw,,NY,obj1472-pl-278,
+52,obj1473,Obj1531,1835,,Thomas G Clemson,ppl:tgc,obj1473-s-1,12 Sep 1835,1835-09-12,DBW,ppl:dbw,,,,
+53,obj1474,Obj1532,1835,,Caleb Cope,ppl:calcope,obj1474-s-1,22 Sep 1835,1835-09-22,DBW,ppl:dbw,,,,
+54,obj1475,Obj1533,1835,,Dr Hosack,ppl:dhos,obj1475-s-1,5 Oct 1835,1835-10-05,DBW,ppl:dbw,,NY,obj1475-pl-285,
+55,obj1476,Obj1534,1835,,Humboldt,ppl:humboldt,obj1476-s-1,n.d. [October 1835],1835-10,DBW,ppl:dbw,,,,
+56,obj1477,Obj1535,1835,,Humboldt,ppl:humboldt,obj1477-s-1,n.d. [October 1835],1835-10,DBW,ppl:dbw,,,,
+57,obj1478,Obj1536,1835,,George Ticknor,ppl:gti,obj1478-s-1,27 Oct 1835,1835-10-27,DBW,ppl:dbw,,Calais,obj1478-pl-295,
+58,obj1479,Obj1537,1835,,"Daniel Brent,",ppl:dcbrent,obj1479-s-1,9 Nov 1835,1835-11-09,DBW,ppl:dbw,,Paris,obj1479-pl-302,
+59,obj1480,Obj1538,1835,,"Jared Sparks,",ppl:jasp,obj1480-s-1,14 Nov 1835,1835-11-14,DBW,ppl:dbw,,"Cambridge, Mass",obj1480-pl-304,
+60,obj1481,Obj1539,1835,,P.S. Deponceau,ppl:pdup,obj1481-s-1,12 Dec 1835,1835-12-12,DBW,ppl:dbw,,Philadelphia,obj1481-pl-305,
+61,obj1482,Obj1540,1835,,J. Cohen,ppl:jcohen,obj1482-s-1,11 Nov 1835,1835-11-11,DBW,ppl:dbw,,Hotel Montmorency,obj1482-pl-307,
+62,obj1483,Obj1541,1835,,Tom Power [Dr Thomas Power],ppl:tpower,obj1483-s-1,[1835],1835,DBW,ppl:dbw,,,,
+63,obj1484,Obj1542,1835,,"W. C. Preston,",ppl:wcp,obj1484-s-1,[1835],1835,DBW,ppl:dbw,,Washington DC,obj1484-pl-308,
+64,obj1485,Obj1543,1835,,William C. Preston,ppl:wcp,obj1485-s-1,[c. 1835],1835,DBW,ppl:dbw,,,,
+65,obj1486,Obj1544,1835,,Edward Whar,ppl:edwhar,obj1486-s-1,[c.1835],1835,DBW,ppl:dbw,,40 Rue st Augar,obj1486-pl-309,
+1,obj1488,Obj1545,1836,,Arago,ppl:farago,obj1488-s-1,12 Jan 1836,1836-01-12,DBW,ppl:dbw,,,,
+2,obj1489,Obj1546,1836,,Alexandre Vivien,ppl:avivien,obj1489-s-1,14 Jan 1836,1836-01-14,DBW,ppl:dbw,,,,
+3,obj1490,Obj1547,1836,,Charles King,ppl:chking,obj1490-s-1,18 Jan 1836,1836-01-18,DBW,ppl:dbw,,,,
+4,obj1491,Obj1548,1836,,J W Francis,ppl:jwfran,obj1491-s-1,18 Jan 1836,1836-01-18,DBW,ppl:dbw,,,,
+5,obj1492,Obj1549,1836,,John Howard Payne,ppl:jhp,obj1492-s-1,26 Feb 1836,1836-02-26,DBW,ppl:dbw,,NY,obj1492-pl-311,
+6,obj1493,Obj1550,1836,,Charles T. Jackson,ppl:ctjackson,obj1493-s-1,9 Mar 1836,1836-03-09,DBW,ppl:dbw,,Boston,obj1493-pl-320,
+7,obj1494,Obj1551,1836,,Jomard,ppl:efjomard,obj1494-s-1,12 Mar 1836,1836-03-12,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Jomard, 12 Mar 1836
+                        
+               
+                    I have seen Mr Robinson
+                        [photo – in French] –
+                        incomplete transcription
+               
+                "
+8,obj1495,Obj1551,1836,,Nicholas Biddle,ppl:nbidd,obj1495-s-1,22 March 1836,1836-03-22,DBW,ppl:dbw,,,,
+9,obj1496,Obj1551,1836,,Major Lee,ppl:henrylee,obj1496-s-1,24 Mar 1836,1836-03-24,DBW,ppl:dbw,,,,
+10,obj1497,Obj1552,1836,,J. J. Lloyd Whittemore,ppl:jjlwhittemore,obj1497-s-1,21 March 1836,1836-03-21,DBW,ppl:dbw,,Paris,obj1497-pl-325,
+11,obj1498,Obj1553,1836,,Joel Poinsett,ppl:jrpoinsett,obj1498-s-1,25 Mar 1836,1836-03-25,DBW,ppl:dbw,,Charleston,obj1498-pl-328,
+12,obj1499,Obj1554,1836,,"Francois Arago,",ppl:farago,obj1499-s-1,30 Mar 1836,1836-03-30,DBW,ppl:dbw,,,,
+13,obj1500,Obj1555,1836,,"John Vaughan,",ppl:jvau,obj1500-s-1,1 Apr 1836,1836-04-01,DBW,ppl:dbw,,Philadelphia,obj1500-pl-330,
+14,obj1501,Obj1555,1836,,Colonel Sylvanus Thayer,ppl:cst,obj1501-s-1,5 Apr 1836,1836-04-05,DBW,ppl:dbw,,Boston,obj1501-pl-331,
+15,obj1502,Obj1555,1836,,George Parkman,ppl:gparkman,obj1502-s-1,7 April 1836,1836-04-07,DBW,ppl:dbw,,Boston,obj1502-pl-333,
+16,obj1503,Obj1556,1836,,Charles J Jackson,ppl:cjjackson,obj1503-s-1,8 Apr 1836,1836-04-08,DBW,ppl:dbw,,Boston,obj1503-pl-334,
+17,obj1504,Obj1557,1836,,William Jackson,ppl:willjackson,obj1504-s-1,10 Apr 1836,1836-04-10,DBW,ppl:dbw,,Rome,obj1504-pl-335,
+18,obj1505,Obj1558,1836,,Hosack,ppl:jhos,obj1505-s-1,12 Apr 1836,1836-04-12,DBW,ppl:dbw,,NY,obj1505-pl-337,
+19,obj1506,Obj1559,1836,,Dr C. W[istar] Pennock,ppl:cwpennock,obj1506-s-1,18 April 1836,1836-04-18,DBW,ppl:dbw,,Philadelphia,obj1506-pl-339,
+20,obj1507,Obj1560,1836,,Dr C. W[istar] Pennock,ppl:cwpennock,obj1507-s-1,21 April 1836,1836-04-21,DBW,ppl:dbw,,Philadelphia,obj1507-pl-340,
+21,obj1508,Obj1561,1836,,Alexandre Vivien,ppl:avivien,obj1508-s-1,29 Apr 1836,1836-04-29,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Alexandre Vivien, 29 Apr 1836
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                "
+22,obj1509,Obj1562,1836,,Dr C. W[istar] Pennock,ppl:cwpennock,obj1509-s-1,2 May 1836,1836-05-02,DBW,ppl:dbw,,Philadelphia,obj1509-pl-341,
+23,obj1510,Obj1563,1836,,"Dr Wurdemann,",ppl:jgfwurdemann,obj1510-s-1,2 May 1836,1836-05-02,DBW,ppl:dbw,,Charleston,obj1510-pl-343,
+24,obj1511,Obj1564,1836,,"Dr Wurdemann,",ppl:jgfwurdemann,obj1511-s-1,9 May 1836,1836-05-09,DBW,ppl:dbw,,Charleston,obj1511-pl-346,
+25,obj1512,Obj1565,1836,,"John Fenwick [Colonel John R. Fenwick],",ppl:jrfenwick,obj1512-s-1,10 May 1836,1836-05-10,DBW,ppl:dbw,,Baltimore,obj1512-pl-348,
+26,obj1513,Obj1566,1836,,"Dr Wurdemann,",ppl:jgfwurdemann,obj1513-s-1,11 May 1836,1836-05-11,DBW,ppl:dbw,,Charleston,obj1513-pl-351,
+27,obj1514,Obj1567,1836,,"Emma Willard,",ppl:ehwillard,obj1514-s-1,14 May 1836,1836-05-14,DBW,ppl:dbw,,New York,obj1514-pl-353,
+28,obj1515,Obj1568,1836,,Jesse Buel,ppl:jbu,obj1515-s-1,14 May 1836,1836-05-14,DBW,ppl:dbw,,Albany,obj1515-pl-356,
+29,obj1516,Obj1569,1836,,Dunscourt Bradford,ppl:dunsbradford,obj1516-s-1,16 May [1836],1836-05-16,DBW,ppl:dbw,,,,
+30,obj1517,Obj1570,1836,,"Octavia Delany,",ppl:octaviadelany,obj1517-s-1,16 May 1836,1836-05-16,DBW,ppl:dbw,,St Louis,obj1517-pl-358,
+31,obj1518,Obj1571,1836,legal,,,,,,,,,,,"
+                    
+                    
+                  
+                            Received 1 July 1836 Power of Attorney from the heirs of Captain Corran
+                        
+               
+                    
+                        [photos] – not transcribed
+               
+                "
+32,obj1519,Obj1572,1836,,Horace G. Brown,ppl:hgbrown,obj1519-s-1,11 Jul 1836,1836-07-11,DBW,ppl:dbw,,,,
+33,obj1520,Obj1573,1836,,John W. Francis,ppl:jwfran,obj1520-s-1,14 July 1836,1836-07-14,DBW,ppl:dbw,,NY,obj1520-pl-365,
+34,obj1521,Obj1574,1836,,Horace Binney,ppl:hbinney,obj1521-s-1,25 July 1836,1836-07-25,DBW,ppl:dbw,,Paris,obj1521-pl-369,
+35,obj1522,Obj1575,1836,,Horace G. Browne,ppl:hgbrown,obj1522-s-1,14 Aug 1836,1836-08-14,DBW,ppl:dbw,,No. 24 rue de rivoli,obj1522-pl-372,
+36,obj1523,Obj1576,1836,,Thomas G. Clemson,ppl:tgc,obj1523-s-1,1 Sep 1836,1836-09-01,DBW,ppl:dbw,,NY,obj1523-pl-373,
+37,obj1524,Obj1577,1836,,Major Henry Lee IV,ppl:henrylee,obj1524-s-1,5 Sep 1836,1836-09-05,DBW,ppl:dbw,,,,
+38,obj1525,Obj1578,1836,,Dr C. Wistan Pennock,ppl:cwpennock,obj1525-s-1,5 Sep 1836,1836-09-05,DBW,ppl:dbw,,Philadelphia,obj1525-pl-376,
+39,obj1526,Obj1579,1836,,Dr C. wistan Pennock,ppl:cwpennock,obj1526-s-1,14 Sep 1836,1836-09-14,DBW,ppl:dbw,,Philadelphia,obj1526-pl-378,
+40,obj1527,Obj1580,1836,,R.M. Patterson,ppl:rmpatterson,obj1527-s-1,15 Sep 1836,1836-09-15,DBW,ppl:dbw,,Philadelphia,obj1527-pl-381,
+41,obj1528,Obj1581,1836,,Isaiah Townsend,ppl:ditj,obj1528-s-1,23 Sep 1836,1836-09-23,DBW,ppl:dbw,,Madrid,obj1528-pl-383,
+42,obj1529,Obj1582,1836,,W. H. Keating,ppl:whkeating,obj1529-s-1,4 October 1836,1836-10-04,DBW,ppl:dbw,,Philadelphia,obj1529-pl-389,
+43,obj1530,Obj1583,1836,,F. Wurdemann,ppl:jgfwurdemann,obj1530-s-1,31 Oct 1836,1836-10-31,DBW,ppl:dbw,,Charleston,obj1530-pl-390,
+44,obj1531,Obj1584,1836,,[Moulin],ppl:_moulin,obj1531-s-1,11 Nov 1836,1836-11-11,DBW,ppl:dbw,,Paris,obj1531-pl-408,"
+                    
+                    
+                  
+                            [Moulin], Bibliotheque de l’Institut royal de France,
+                                Paris, 11 Nov 1836
+                        
+               
+                    
+                        in French [photo] – not yet transcribed
+               
+                "
+45,obj1532,Obj1585,1836,,Jesse Buel,ppl:jbu,obj1532-s-1,20 Nov 1836,1836-11-20,DBW,ppl:dbw,,Albany,obj1532-pl-409,
+46,obj1533,Obj1586,1836,,Joseph C. Cabell,ppl:jccabell,obj1533-s-1,22 Nov 1836,1836-11-22,DBW,ppl:dbw,,"Richmond, VA",obj1533-pl-410,
+47,obj1534,Obj1587,1836,,Joseph C. Cabell,ppl:jccabell,obj1534-s-1,22 Nov 1836,1836-11-22,DBW,ppl:dbw,,"Richmond, VA",obj1534-pl-413,
+48,obj1535,Obj1588,1836,,Dunscourt Bradford,ppl:dunsbradford,obj1535-s-1,,,DBW,ppl:dbw,,,,
+49,obj1536,Obj1589,1836,,F Wurdemann,ppl:jgfwurdemann,obj1536-s-1,n.d. [1836],1836,DBW,ppl:dbw,,Charleston,obj1536-pl-420,
+1,obj1538,Obj1590,1837,,"Dr J. Adams,",ppl:jgadams,obj1538-s-1,22 Jan 1837,1837-01-22,DBW,ppl:dbw,,New York,obj1538-pl-422,
+2,obj1539,Obj1591,1837,,Robert Walsh,ppl:rwj,obj1539-s-1,6 Feb 1837,1837-02-06,DBW,ppl:dbw,,,,
+3,obj1540,Obj1592,1837,,"Dr J.G. Adams,",ppl:jgadams,obj1540-s-1,13 Feb 1837,1837-02-13,DBW,ppl:dbw,,New York,obj1540-pl-426,
+4,obj1541,Obj1593,1837,,Dr Washington,ppl:jawashington,obj1541-s-1,14 Feb 1837,1837-02-14,DBW,ppl:dbw,,,,
+5,obj1542,Obj1594,1837,,Dr Pennock,ppl:cwpennock,obj1542-s-1,20 Mar 1837,1837-03-20,DBW,ppl:dbw,,Baltimore,obj1542-pl-430,
+6,obj1543,Obj1595,1837,,Jessie Buel,ppl:jbu,obj1543-s-1,29 Mar 1837,1837-03-29,DBW,ppl:dbw,,,,
+7,obj1544,Obj1595,1837,,Ann Biddle,ppl:annbiddle,obj1544-s-1,2 April 1837,1837-04-02,DBW,ppl:dbw,,St Louis,obj1544-pl-431,
+8,obj1545,Obj1596,1837,,Dr Smith,ppl:ags,obj1545-s-1,16 Apr 1837,1837-04-16,DBW,ppl:dbw,,,,
+9,obj1546,Obj1597,1837,,"Dr Dugas,",ppl:ladugas,obj1546-s-1,12 Apr 1837,1837-04-12,DBW,ppl:dbw,,Augusta,obj1546-pl-439,
+10,obj1547,Obj1598,1837,,"Dr F. Hall,",ppl:fhall,obj1547-s-1,20 Apr 1837,1837-04-20,DBW,ppl:dbw,,Washington,obj1547-pl-441,
+11,obj1548,Obj1599,1837,,George Bettner,ppl:gsbettner,obj1548-s-1,3 May 1837,1837-05-03,DBW,ppl:dbw,,,,
+12,obj1549,Obj1600,1837,,John Edward Holbrook,ppl:jeholbrook,obj1549-s-1,12 May 1837,1837-05-12,DBW,ppl:dbw,,Charleston,obj1549-pl-449,
+13,obj1550,Obj1601,1837,,Joel Poinsett,ppl:jrpoinsett,obj1550-s-1,11 Jul 1837,1837-07-11,DBW,ppl:dbw,,Washington,obj1550-pl-450,
+14,obj1551,Obj1602,1837,,A.D. Bache,ppl:adbache,obj1551-s-1,n.d.,1837,DBW,ppl:dbw,,,,
+15,obj1552,Obj1603,1837,,A.D. Bache,ppl:adbache,obj1552-s-1,11 Jul 1837,1837-07-11,DBW,ppl:dbw,,,,
+16,obj1553,Obj1604,1837,,A.D Bache,ppl:adbache,obj1553-s-1,12 Jul [1837],1837-07-12,DBW,ppl:dbw,,,,
+17,obj1554,Obj1605,1837,,Dr Richard Harlan,ppl:rharlan,obj1554-s-1,15 Aug 1837,1837-08-15,DBW,ppl:dbw,,Philadelphia,obj1554-pl-453,
+18,obj1555,Obj1606,1837,,Thomas Dobbin,ppl:tdobbin,obj1555-s-1,4 Sep 1837,1837-09-04,DBW,ppl:dbw,,Armagh,obj1555-pl-455,
+19,obj1556,Obj1607,1837,,Henry M'Cormac,ppl:hmcormac,obj1556-s-1,22 Sep 1837,1837-09-22,DBW,ppl:dbw,,Belfast,obj1556-pl-457,
+20,obj1557,Obj1608,1837,,Alban G. Smith,ppl:ags,obj1557-s-1,7 Oct 1837,1837-10-07,DBW,ppl:dbw,,,,
+21,obj1558,Obj1609,1837,,"D. R. Goodwin,",ppl:drgoodwin,obj1558-s-1,8 November 1837,1837-11-08,DBW,ppl:dbw,,,,
+22,obj1559,Obj1610,1837,,"M. Daniel Brent,",ppl:dcbrent,obj1559-s-1,5 Dec 1837,1837-12-05,DBW,ppl:dbw,,20 rue de la victoire,obj1559-pl-462,
+23,obj1560,Obj1611,1837,,Isaiah Townsend,ppl:ditj,obj1560-s-1,7 Dec 1837,1837-12-07,DBW,ppl:dbw,,"Granada, Spain",obj1560-pl-464,
+24,obj1561,Obj1612,1837,,D. Gardner,ppl:dgardner,obj1561-s-1,9 Dec 1837,1837-12-09,DBW,ppl:dbw,,,,
+25,obj1562,Obj1613,1837,,Mrs F.D.D. Taylor,ppl:fddtaylor,obj1562-s-1,12 Dec 1837,1837-12-12,DBW,ppl:dbw,,,,
+26,obj1563,Obj1614,1837,,Henry C. Carey [Henry Charles Carey],ppl:hccarey,obj1563-s-1,27 Dec 1837,1837-12-27,DBW,ppl:dbw,,Philadelphia,obj1563-pl-472,
+27,obj1564,Obj1615,1837,,Isaiah Townsend,ppl:ditj,obj1564-s-1,8 May [1837],1837-05-08,DBW,ppl:dbw,,Rome,obj1564-pl-474,
+28,obj1565,Obj1616,1837,,Isaiah Townsend,ppl:ditj,obj1565-s-1,n.d. [1837],1837,DBW,ppl:dbw,,,,
+1,obj1567,Obj1617,1838,,"Henry Wheaton,",ppl:hwheaton,obj1567-s-1,15 Feb 1838,1838-02-15,DBW,ppl:dbw,,Berlin,obj1567-pl-478,
+2,obj1568,Obj1618,1838,,Samuel Ward,ppl:samward,obj1568-s-1,17 Mar 1838,1838-03-17,DBW,ppl:dbw,,New York,obj1568-pl-483,
+3,obj1569,Obj1619,1838,,Dr Richard Harlan,ppl:rharlan,obj1569-s-1,6 April 1838,1838-04-06,DBW,ppl:dbw,,Philadelphia,obj1569-pl-485,
+4,obj1570,Obj1620,1838,,"Charles Sumner,",ppl:csu,obj1570-s-1,8 April 1838,1838-04-08,DBW,ppl:dbw,,"5 Places des Italiens, Paris",obj1570-pl-488,
+5,obj1571,Obj1621,1838,,Joel R. Poinsett,ppl:jrpoinsett,obj1571-s-1,14 Apr 1838,1838-04-14,DBW,ppl:dbw,,Washington City,obj1571-pl-489,
+6,obj1572,Obj1622,1838,,H. D. Spoor,ppl:hdspoor,obj1572-s-1,16 April 1838,1838-04-16,DBW,ppl:dbw,,"Troy, New York",obj1572-pl-491,
+7,obj1573,Obj1623,1838,,Henry Tanner,ppl:htanner,obj1573-s-1,20 Apr 1838,1838-04-20,DBW,ppl:dbw,,Philadelphia,obj1573-pl-495,
+8,obj1574,Obj1624,1838,,Francis A. Smith-Legare,ppl:faslegare,obj1574-s-1,25 Apr 1838,1838-04-25,DBW,ppl:dbw,,Washington,obj1574-pl-497,
+9,obj1575,Obj1625,1838,,"Dr Julius Ducatel,",ppl:jtducatel,obj1575-s-1,27 April 1838,1838-04-27,DBW,ppl:dbw,,Baltimore,obj1575-pl-499,
+10,obj1576,Obj1626,1838,,Joseph C. Cabell,ppl:jccabell,obj1576-s-1,18 May 1838,1838-05-18,DBW,ppl:dbw,,"Richmond, VA",obj1576-pl-501,
+11,obj1577,Obj1627,1838,,James Adger,ppl:jadger,obj1577-s-1,22 May 1838,1838-05-22,DBW,ppl:dbw,,,,
+12,obj1578,Obj1628,1838,,Henry Wheaton,ppl:hwheaton,obj1578-s-1,23 May 1838,1838-05-23,DBW,ppl:dbw,,"L’enceinte de la Muette, 7 Passy",obj1578-pl-504,
+13,obj1579,Obj1629,1838,,"Dr J. G. Adams,",ppl:jgadams,obj1579-s-1,24 May 1838,1838-05-24,DBW,ppl:dbw,,,,
+14,obj1580,Obj1630,1838,,Wh. Bradish,ppl:wbradish,obj1580-s-1,London 26 May 1838,1838-05-26,DBW,ppl:dbw,,,,
+15,obj1581,Obj1631,1838,,"Charles Sumner,",ppl:csu,obj1581-s-1,28 May 1838,1838-05-28,DBW,ppl:dbw,,Paris,obj1581-pl-507,
+16,obj1582,Obj1632,1838,,F. C. Gray,ppl:fcgray,obj1582-s-1,31 May 1838,1838-05-31,DBW,ppl:dbw,,London,obj1582-pl-509,
+17,obj1583,Obj1633,1838,,Floureus,ppl:_floureus,obj1583-s-1,4 June 1838,1838-06-04,DBW,ppl:dbw,,,,
+18,obj1584,Obj1634,1838,,[Mrs] Dewar,ppl:hmsdewar,obj1584-s-1,6 June 1838,1838-06-06,DBW,ppl:dbw,,"Leworth [?], Mass",obj1584-pl-510,
+19,obj1585,Obj1635,1838,,Robert M. Patterson,ppl:rmpatterson,obj1585-s-1,6 June 1838,1838-06-06,DBW,ppl:dbw,,,,
+20,obj1586,Obj1626,1838,,Daniel Brent,ppl:dcbrent,obj1586-s-1,14 June 1838,1838-06-14,DBW,ppl:dbw,,Paris,obj1586-pl-512,
+21,obj1587,Obj1627,1838,,O. Rich,ppl:orich,obj1587-s-1,15 June 1838,1838-06-15,DBW,ppl:dbw,,London,obj1587-pl-514,
+22,obj1588,Obj1628,1838,,Daniel Brent,ppl:dcbrent,obj1588-s-1,27 June 1838,1838-06-27,DBW,ppl:dbw,,,,
+23,obj1589,Obj1629,1838,,Societe Royale des Antiquaries du Nord,org:org_104,obj1589-on-80,,,DBW,ppl:dbw,,,,
+24,obj1590,Obj1630,1838,,"Dr J. G. Adams,",ppl:jgadams,obj1590-s-1,23 Jul 1838,1838-07-23,DBW,ppl:dbw,,New York,obj1590-pl-522,
+25,obj1591,Obj1631,1838,,Alexander Dallas Bache,ppl:adbache,obj1591-s-1,23 Jul 1838,1838-07-23,DBW,ppl:dbw,,New York,obj1591-pl-523,
+26,obj1592,Obj1632,1838,,Moncure Robinson,ppl:mrob,obj1592-s-1,9 Aug 1838,1838-08-09,DBW,ppl:dbw,,Philadelphia,obj1592-pl-524,
+27,obj1593,Obj1633,1838,,Moncrue Robinson,ppl:mrob,obj1593-s-1,10 August 1838,1838-08-10,DBW,ppl:dbw,,,,
+28,obj1594,Obj1634,1838,,Anna Bridgen,ppl:abridgen,obj1594-s-1,5 Sep 1838,1838-09-05,DBW,ppl:dbw,,,,
+29,obj1595,Obj1635,1838,,Isaiah Townsend,ppl:ditj,obj1595-s-1,13 Sep 1838,1838-09-13,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Isaiah Townsend, 13 Sep 1838
+                        
+               
+                    
+                        In French [photo x3] – not yet transcribed
+               
+                "
+30,obj1596,Obj1636,1838,,Juan Galindo,ppl:jgalindo,obj1596-s-1,13 Sep 1838,1838-09-13,DBW,ppl:dbw,,Guatemala,obj1596-pl-527,
+31,obj1597,Obj1637,1838,,James Torrey,ppl:jamtorrey,obj1597-s-1,13 Sep 1838,1838-09-13,DBW,ppl:dbw,,"Burlington, Virginia",obj1597-pl-531,
+32,obj1598,Obj1638,1838,,Moncure Robinson,ppl:mrob,obj1598-s-1,22 Sep 1838,1838-09-22,DBW,ppl:dbw,,Philadelphia,obj1598-pl-533,
+33,obj1599,Obj1639,1838,,Sam Allison,ppl:samallison,obj1599-s-1,28 Sep 1838,1838-09-28,DBW,ppl:dbw,,Hotel d’Hollande,obj1599-pl-536,
+34,obj1600,Obj1640,1838,,Isaiah Townsend,ppl:ditj,obj1600-s-1,3 Oct 1838,1838-10-03,DBW,ppl:dbw,,New York,obj1600-pl-537,
+35,obj1601,Obj1641,1838,,John W. Francis,ppl:jwfran,obj1601-s-1,13 Oct 1838,1838-10-13,DBW,ppl:dbw,,New York,obj1601-pl-539,
+36,obj1602,Obj1642,1838,,Henry Wheaton,ppl:hwheaton,obj1602-s-1,16 Oct 1838,1838-10-16,DBW,ppl:dbw,,Euceinta de la Muette,obj1602-pl-542,
+37,obj1603,Obj1643,1838,,General Solomon Van Rensselear,ppl:svrensselaer,obj1603-s-1,7 Nov 1838,1838-11-07,DBW,ppl:dbw,,,,
+38,obj1604,Obj1644,1838,,George Ord,ppl:gord,obj1604-s-1,5 Dec 1838,1838-12-05,DBW,ppl:dbw,,,,
+39,obj1605,Obj1645,1838,,Henri Wheaton,ppl:hwheaton,obj1605-s-1,13 Dec 1838,1838-12-13,DBW,ppl:dbw,,,,
+1,obj1607,Obj1646,1839,,Charles Sumner,ppl:csu,obj1607-s-1,15 Jan 1839,1839-01-15,DBW,ppl:dbw,,,,
+2,obj1608,Obj1647,1839,,Arago,ppl:farago,obj1608-s-1,21 Jan 1839,1839-01-21,DBW,ppl:dbw,,[Paris],obj1608-pl-551,
+3,obj1609,Obj1648,1839,,H Bleecher [Harnanus Bleecher],ppl:hbleecker,obj1609-s-1,23 Jan 1839,1839-01-23,DBW,ppl:dbw,,,,
+4,obj1610,Obj1649,1839,,John B Stevenson,ppl:jbstevenson,obj1610-s-1,24 Feb 1839,1839-02-24,DBW,ppl:dbw,,"15 Harrison Street, New York",obj1610-pl-552,
+5,obj1611,Obj1650,1839,,Wheaton,ppl:hwheaton,obj1611-s-1,26 Feb 1839,1839-02-26,DBW,ppl:dbw,,,,
+6,obj1612,Obj1651,1839,,Wheaton,ppl:hwheaton,obj1612-s-1,26 Mar 1839,1839-03-26,DBW,ppl:dbw,,,,
+7,obj1613,Obj1652,1839,,John Locke,ppl:johnlocke,obj1613-s-1,21 Apr 1839,1839-04-21,DBW,ppl:dbw,,Cincinnati,obj1613-pl-556,
+8,obj1614,Obj1653,1839,,Wheaton,ppl:hwheaton,obj1614-s-1,24 Apr 1839,1839-04-24,DBW,ppl:dbw,,Berlin,obj1614-pl-557,
+9,obj1615,Obj1654,1839,,Baron de [Gerando?],ppl:jmdgerando,obj1615-s-1,3 May 1839,1839-05-03,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Baron de [Gerando?]  [unidentifiable French correspondent], 3 May 1839
+                        
+                        Cher et honourable, Coutrere
+                    
+                    
+                        … - untranscribed
+               
+                "
+10,obj1616,Obj1654,1839,,J. P. Chazal,ppl:jpchazal,obj1616-s-1,16 may 1839,1839-05-16,DBW,ppl:dbw,,Charleston,obj1616-pl-559,
+11,obj1617,Obj1655,1839,,Dr Tucker,ppl:drtucker,obj1617-s-1,16 May 1839,1839-05-16,DBW,ppl:dbw,,New York,obj1617-pl-560,
+12,obj1618,Obj1656,1839,,John Howard Payne,ppl:jhp,obj1618-s-1,17 May 1839,1839-05-17,DBW,ppl:dbw,,,,
+13,obj1619,Obj1657,1839,,Vivien,ppl:avivien,obj1619-s-1,19 May 1839,1839-05-19,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Vivien, 19 May 1839
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                "
+14,obj1620,Obj1658,1839,,Dr John Croghan,ppl:jocroghan,obj1620-s-1,20 May 1839,1839-05-20,DBW,ppl:dbw,,Louisville,obj1620-pl-563,
+15,obj1621,Obj1659,1839,,Thomas Clemson,ppl:tgc,obj1621-s-1,28 May 1839,1839-05-28,DBW,ppl:dbw,,"Jefferson County, VA",obj1621-pl-565,
+16,obj1622,Obj1660,1839,,John Bachman,ppl:jbachman,obj1622-s-1,17 June 1839,1839-06-17,DBW,ppl:dbw,,West Point,obj1622-pl-567,
+17,obj1623,Obj1661,1839,,Vanderlyn,ppl:jvanderlyn,obj1623-s-1,25 June 1839,1839-06-25,DBW,ppl:dbw,,,,
+18,obj1624,Obj1662,1839,,Dr Samuel Martin Stephenson,ppl:sms,obj1624-s-1,7 June 1839,1839-06-07,DBW,ppl:dbw,,"11 Wellington Place, Belfast",obj1624-pl-569,
+19,obj1624a,Obj1662 ,1839,,Jared Sparks,ppl:jasp,obj1624a-s-1,23 July 1839,,DBW,ppl:dbw,,"Cambridge, Mass",obj1624a-pl-571,
+20,obj1625,Obj1663,1839,,R. Church,ppl:rchurch,obj1625-s-1,31 Jul 1839,1839-07-31,DBW,ppl:dbw,,,,
+21,obj1626,Obj1664,1839,,R.H. Cabell,ppl:rhcabell,obj1626-s-1,2 Aug 1839,1839-08-02,DBW,ppl:dbw,,"Richmond, VA",obj1626-pl-573,
+22,obj1627,Obj1665,1839,,John Jacquelin Ambler,ppl:jjambler,obj1627-s-1,4 Aug 1839,1839-08-04,DBW,ppl:dbw,,"Virginia, US",obj1627-pl-575,
+23,obj1628,Obj1666,1839,,Madame Patterson [Elizabeth Patterson Bonaparte],ppl:epb,obj1628-s-1,15 Aug 1839,1839-08-15,DBW,ppl:dbw,,,,
+24,obj1629,Obj1667,1839,,Isaiah Townsend,ppl:ditj,obj1629-s-1,27 Aug 1839,1839-08-27,DBW,ppl:dbw,,Albany,obj1629-pl-584,
+25,obj1630,Obj1668,1839,,John Caroll Brent,ppl:jcbrent,obj1630-s-1,3 Sep 1839,1839-09-03,DBW,ppl:dbw,,,,
+26,obj1631,Obj1669,1839,,Maximilien Godefroy,ppl:mgod,obj1631-s-1,2 Oct 1839,1839-10-02,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Maximilien Godefroy, 2 Oct 1839
+                        
+               
+                    
+                        In french [photo] – not yet transcribed 
+               
+                "
+27,obj1632,Obj1700,1839,,Robinson,ppl:mrob,obj1632-s-1,9 Oct 1839,1839-10-09,DBW,ppl:dbw,,Paris,obj1632-pl-588,
+28,obj1633,Obj1701,1839,,Alexander Dallas Bache,ppl:adbache,obj1633-s-1,4 Oct 1839,1839-10-04,DBW,ppl:dbw,,,,
+29,obj1634,Obj1702,1839,,Alban G Smith,ppl:ags,obj1634-s-1,4 Oct 1839,1839-10-04,DBW,ppl:dbw,,,,
+30,obj1635,Obj1703,1839,,Alexander Dallas Bache,ppl:adbache,obj1635-s-1,19 Oct 1839,1839-10-19,DBW,ppl:dbw,,Philadelphia,obj1635-pl-589,
+31,obj1636,Obj1704,1839,,Henry Wheaton,ppl:hwheaton,obj1636-s-1,6 Dec 1839,1839-12-06,DBW,ppl:dbw,,,,
+32,obj1637,Obj1705,1839,,R Church,ppl:rchurch,obj1637-s-1,c. 1839,1839,DBW,ppl:dbw,,,,
+33,obj1638,Obj1706,1839,,Church,ppl:rchurch,obj1638-s-1,c. 1839,1839,DBW,ppl:dbw,,,,
+34,obj1639,Obj1707,1839,legal,,,,,,,,,,,"
+                    
+                    
+                  
+                            Chambre des Deputies, Commission d’Enquuete
+                        
+               
+                    
+                        In French [photo x 2] – not yet transcribed
+               
+                "
+35,obj1640,Obj1708,1839,legal,,,,,,,,,,,"
+                    
+                    
+                  
+                            DBW handwritten document – ‘certificate of the
+                                citizens’
+                        
+               
+                    
+                        [photo] – not yet transcribed
+               
+                "
+1,obj1642,Obj1709,1840,,Henri Wheaton,ppl:hwheaton,obj1642-s-1,16 Jan 1840,1840-01-16,DBW,ppl:dbw,,,,
+2,obj1643,Obj1710,1840,,Henry B Carey,ppl:hbcarey,obj1643-s-1,[c.Feb 1840],1840-02,DBW,ppl:dbw,,,,
+3,obj1644,Obj1711,1840,,Charles Sumner,ppl:csu,obj1644-s-1,12 Mar 1840,1840-03-12,DBW,ppl:dbw,,Brussels,obj1644-pl-595,
+4,obj1645,Obj1712,1840,,G. Troost,ppl:gtroost,obj1645-s-1,"23 Martz [March], 1840",1840-03-23,DBW,ppl:dbw,,"Nashville, Tennessee",obj1645-pl-599,
+5,obj1646,Obj1713,1840,,Charles Sumner,ppl:csu,obj1646-s-1,31 Mar 1840,1840-03-31,DBW,ppl:dbw,,London,obj1646-pl-603,
+6,obj1647,Obj1714,1840,,J.P. Boudet,ppl:jpboudet,obj1647-s-1,14 Apr 1840,1840-04-14,DBW,ppl:dbw,,,,
+7,obj1648,Obj1715,1840,,John C. Montgomery,ppl:johncmont,obj1648-s-1,16 April 1840,1840-04-16,DBW,ppl:dbw,,Philadelphia,obj1648-pl-606,
+8,obj1649,Obj1716,1840,,Anna Bridgen,ppl:abridgen,obj1649-s-1,20 Apr 1840,1840-04-20,DBW,ppl:dbw,,,,
+9,obj1650,Obj1717,1840,,Richard Harlan,ppl:rharlan,obj1650-s-1,21 Apr 1840,1840-04-21,DBW,ppl:dbw,,NY,obj1650-pl-610,
+10,obj1651,Obj1718,1840,,Isaiah Townsend,ppl:ditj,obj1651-s-1,21 Apr 1840,1840-04-21,DBW,ppl:dbw,,Albany,obj1651-pl-613,
+11,obj1652,Obj1719,1840,,Dr C. Winslow,ppl:cfwinslow,obj1652-s-1,21 April 1840,1840-04-21,DBW,ppl:dbw,,Nantucket,obj1652-pl-619,
+12,obj1653,Obj1720,1840,,George Vaughan,ppl:geovaughan,obj1653-s-1,20 April 1840,1840-04-20,DBW,ppl:dbw,,Philadelphia,obj1653-pl-623,
+13,obj1654,Obj1721,1840,,Charles Brooks,ppl:ctbrooks,obj1654-s-1,22 May 1840,1840-05-22,DBW,ppl:dbw,,St Germain,obj1654-pl-624,
+14,obj1655,Obj1722,1840,,John Carroll Brent,ppl:jcbrent,obj1655-s-1,25 May [1840],1840-05-25,DBW,ppl:dbw,,"US Consulate, Paris",obj1655-pl-625,
+15,obj1656,Obj1723,1840,,Josiah Quincy,ppl:jqt,obj1656-s-1,29 May 1840,1840-05-29,DBW,ppl:dbw,,Harvard,obj1656-pl-627,
+16,obj1657,Obj1723,1840,,John C. Warren,ppl:jcwarren,obj1657-s-1,2 June 1840,1840-06-02,DBW,ppl:dbw,,Boston,obj1657-pl-628,
+17,obj1658,Obj1723,1840,,George Vaughan,ppl:geovaughan,obj1658-s-1,15 June 1840,1840-06-15,DBW,ppl:dbw,,,,
+18,obj1659,Obj1724,1840,,H. B. Carey,ppl:hbcarey,obj1659-s-1,17 June 1840,1840-06-17,DBW,ppl:dbw,,Philadelphia,obj1659-pl-629,
+19,obj1660,Obj1725,1840,,Bradford R. Wood of Albany,ppl:brwood,obj1660-s-1,June 1840,1840-06,DBW,ppl:dbw,,Paris,obj1660-pl-631,
+20,obj1661,Obj1726,1840,,Dr Winslow,ppl:cfwinslow,obj1661-s-1,1 Jul 1840,1840-07-01,DBW,ppl:dbw,,Nantucket,obj1661-pl-633,
+21,obj1662,Obj1726,1840,,Isaiah Townsend,ppl:ditj,obj1662-s-1,29 Jul 1840,1840-07-29,DBW,ppl:dbw,,Albany,obj1662-pl-640,
+22,obj1663,Obj1727,1840,,Joel R. Poinsett,ppl:jrpoinsett,obj1663-s-1,25 Aug 1840,1840-08-25,DBW,ppl:dbw,,Washington,obj1663-pl-648,
+23,obj1664,Obj1728,1840,,Fitch brothers & co.,org:org_034,obj1664-on-111,21 Aug 1840,1840-08-21,DBW,ppl:dbw,,Marseilles,obj1664-pl-652,
+24,obj1665,Obj1729,1840,,John Carroll Brent,ppl:jcbrent,obj1665-s-1,28 Aug 1840,1840-08-28,DBW,ppl:dbw,,US Consulate Paris,obj1665-pl-654,
+25,obj1666,Obj1730,1840,,Dr Joseph Sargeant,ppl:jsargeant,obj1666-s-1,31 Aug 1840,1840-08-31,DBW,ppl:dbw,,Worcester Mass,obj1666-pl-656,
+26,obj1667,Obj1731,1840,,Eugene A Vail,ppl:eavail,obj1667-s-1,3 Sep 1840,1840-09-03,DBW,ppl:dbw,,rue d’alger no 12,obj1667-pl-658,
+27,obj1668,Obj1732,1840,,J. G. Schwartz,ppl:jgschwartz,obj1668-s-1,4 Sep 1840,1840-09-04,DBW,ppl:dbw,,Vienna,obj1668-pl-659,
+28,obj1669,Obj1733,1840,,J.R. Fenwick,ppl:jrfenwick,obj1669-s-1,12 Sep 1840,1840-09-12,DBW,ppl:dbw,,Boston,obj1669-pl-661,
+29,obj1670,Obj1734,1840,,Richard Harlan,ppl:rharlan,obj1670-s-1,22 Sep 1840,1840-09-22,DBW,ppl:dbw,,Phil,obj1670-pl-664,
+30,obj1671,Obj1735,1840,,Joel R. Poinsett,ppl:jrpoinsett,obj1671-s-1,27 Sep 1840,1840-09-27,DBW,ppl:dbw,,Washington,obj1671-pl-668,
+31,obj1672,Obj1736,1840,,Harry Pinken,ppl:hpinken,obj1672-s-1,,,DBW,ppl:dbw,,,,
+32,obj1673,Obj1737,1840,,Chev. Castillio Barrello,ppl:ccbarreto,obj1673-s-1,30 Sep 1840,1840-09-30,DBW,ppl:dbw,,Hamburg,obj1673-pl-672,"
+                    
+                    
+                  
+                            Chev. Castillio Barrello, Hamburg, 30 Sep 1840
+                        
+               
+                    
+                        In French [photo] – not yet transcribed
+               
+                "
+33,obj1674,Obj1738,1840,,Isaiah Townsend,ppl:ditj,obj1674-s-1,13 Nov 1840,1840-11-13,DBW,ppl:dbw,,,,
+34,obj1675,Obj1739,1840,,Richard Harlan,ppl:rharlan,obj1675-s-1,29 Nov 1840,1840-11-29,DBW,ppl:dbw,,,,
+35,obj1676,Obj1740,1840,,Leonard Woods,ppl:lwoods,obj1676-s-1,18 Dec 1840,1840-12-18,DBW,ppl:dbw,,,,
+36,obj1677,Obj1741,1840,,Dr Byrne,ppl:bnbyrne,obj1677-s-1,29 Dec 1840,1840-12-29,DBW,ppl:dbw,,"Astor House, NY",obj1677-pl-675,
+37,obj1678,Obj1742,1840,,C. Elliot Scoville [Charles Elliot Scoville],ppl:cescoville,obj1678-s-1,c. 1840,1840,DBW,ppl:dbw,,,,
+38,obj1679,Obj1743,1840,,Henry Seybert,ppl:hseybert,obj1679-s-1,[c.1840],1840,DBW,ppl:dbw,,,,
+1,obj1681,Obj1744,1841,,Isaiah Townsend,ppl:ditj,obj1681-s-1,16 Jan 1841,1841-01-16,DBW,ppl:dbw,,London,obj1681-pl-677,
+2,obj1682,Obj1745,1841,,Josiah Quincy,ppl:jqt,obj1682-s-1,29 Jan 1841,1841-01-29,DBW,ppl:dbw,,,,
+3,obj1683,Obj1746,1841,,James A Washington,ppl:jawashington,obj1683-s-1,6 Feb 1841,1841-02-06,DBW,ppl:dbw,,NY,obj1683-pl-680,
+4,obj1684,Obj1747,1841,,Alexander Porter,ppl:apor,obj1684-s-1,9 Feb 1841,1841-02-09,DBW,ppl:dbw,,New Orleans,obj1684-pl-683,
+5,obj1685,Obj1748,1841,,C Bolton,ppl:cbolton,obj1685-s-1,3 Mar 1841,1841-03-03,DBW,ppl:dbw,,New York,obj1685-pl-684,
+6,obj1686,Obj1749,1841,,Benjamin F French,ppl:bffrench,obj1686-s-1,15 Mar 1841,1841-03-15,DBW,ppl:dbw,,New Orleans,obj1686-pl-686,
+7,obj1687,Obj1750,1841,,A D. Bache,ppl:adbache,obj1687-s-1,9 April 1841,1841-04-09,DBW,ppl:dbw,,Philadelphia,obj1687-pl-687,
+8,obj1688,Obj1751,1841,,Francis Markoe,ppl:fmarkoe,obj1688-s-1,7 May 1841,1841-05-07,DBW,ppl:dbw,,Washington,obj1688-pl-689,
+9,obj1689,Obj1752,1841,,Isaiah Townsend,ppl:ditj,obj1689-s-1,11 May 1841,1841-05-11,DBW,ppl:dbw,,Rome,obj1689-pl-690,
+10,obj1690,Obj1752,1841,,Benjamin Pierce,ppl:bpeirce,obj1690-s-1,13 May 1841,1841-05-13,DBW,ppl:dbw,,"Cambridge, MA",obj1690-pl-692,
+11,obj1691,Obj1753,1841,,J. Schorfield,ppl:jschorfield,obj1691-s-1,16 June 1841,1841-06-16,DBW,ppl:dbw,,New Orleans,obj1691-pl-693,
+12,obj1692,Obj1754,1841,,Charles Sumner,ppl:csu,obj1692-s-1,20 June 1841,1841-06-20,DBW,ppl:dbw,,,,
+13,obj1693,Obj1755,1841,,Joel R. Poinsett,ppl:jrpoinsett,obj1693-s-1,25 June 1841,1841-06-25,DBW,ppl:dbw,,Homestead,obj1693-pl-697,
+14,obj1694,Obj1756,1841,,Charles T. Jackson,ppl:ctjackson,obj1694-s-1,29 June 1841,1841-06-29,DBW,ppl:dbw,,Boston,obj1694-pl-699,
+15,obj1695,Obj1757,1841,,Judge Alexander Porter,ppl:apor,obj1695-s-1,12 Jul 1841,1841-07-12,DBW,ppl:dbw,,Washington,obj1695-pl-702,
+16,obj1696,Obj1758,1841,,Josiah Quincy,ppl:jqt,obj1696-s-1,21 Aug 1841,1841-08-21,DBW,ppl:dbw,,Harvard,obj1696-pl-704,
+17,obj1697,Obj1759,1841,,John H. Redfield,ppl:jhredfield,obj1697-s-1,17 Sep 1841,1841-09-17,DBW,ppl:dbw,,NY,obj1697-pl-705,
+18,obj1698,Obj1760,1841,,John Vaughan,ppl:jvau,obj1698-s-1,27 Sep 1841,1841-09-27,DBW,ppl:dbw,,Philadelphia,obj1698-pl-706,
+19,obj1699,Obj1761,1841,,John Pickering,ppl:jpickering,obj1699-s-1,22 Oct 1841,1841-10-22,DBW,ppl:dbw,,Boston,obj1699-pl-707,
+20,obj1700,Obj1762,1841,,J. E. Worcester,ppl:jeworcester,obj1700-s-1,20 Dec 1841,1841-12-20,DBW,ppl:dbw,,Cambridge,obj1700-pl-708,
+1,obj1702,Obj1763,1842,,Rob Walsh,ppl:rwj,obj1702-s-1,22 Jan 1842,1842-01-22,DBW,ppl:dbw,,Paris,obj1702-pl-710,
+2,obj1703,Obj1764,1842,,George Ord,ppl:gord,obj1703-s-1,28 Jan 1842,1842-01-28,DBW,ppl:dbw,,Phil,obj1703-pl-712,
+3,obj1704,Obj1765,1842,,Isaiah Townsend,ppl:ditj,obj1704-s-1,3 Feb 1842,1842-02-03,DBW,ppl:dbw,,,,
+4,obj1705,Obj1766,1842,,Petty Vaughan,ppl:pvaughan,obj1705-s-1,28 Feb 1842,1842-02-28,DBW,ppl:dbw,,London,obj1705-pl-715,
+5,obj1706,Obj1767,1842,,Thomas Warner,ppl:twarner,obj1706-s-1,7 Mar 1842,1842-03-07,DBW,ppl:dbw,,,,
+6,obj1707,Obj1768,1842,,Isaiah Townsend,ppl:ditj,obj1707-s-1,19 Mar 1842,1842-03-19,DBW,ppl:dbw,,Glasgow,obj1707-pl-717,
+7,obj1708,Obj1769,1842,,Isaiah Townsend,ppl:ditj,obj1708-s-1,22 Mar 1842,1842-03-22,DBW,ppl:dbw,,Glasgow,obj1708-pl-719,
+8,obj1709,Obj1770,1842,,George Ord,ppl:gord,obj1709-s-1,27 [?Mar?] 1842,1842-03-27,DBW,ppl:dbw,,Philadelphia,obj1709-pl-723,
+9,obj1710,Obj1771,1842,,George Ord,ppl:gord,obj1710-s-1,29 Apr 1842,1842-04-29,DBW,ppl:dbw,,Phi.,obj1710-pl-724,
+10,obj1711,Obj1772,1842,,J Wyman,ppl:jwyman,obj1711-s-1,30 Apr 1842,1842-04-30,DBW,ppl:dbw,,,,
+11,obj1712,Obj1773,1842,,Dr John G. Adams,ppl:jgadams,obj1712-s-1,30 June 1842,1842-06-30,DBW,ppl:dbw,,New York,obj1712-pl-726,
+12,obj1713,Obj1774,1842,,H. Wallace,ppl:hwallace,obj1713-s-1,8 Jul 1843,1843-07-08,DBW,ppl:dbw,,Downpatrick,obj1713-pl-727,
+13,obj1714,Obj1775,1842,,Dr Charles H. Beck,ppl:chbeck,obj1714-s-1,26 Jul 1842,1842-07-26,DBW,ppl:dbw,,,,
+14,obj1715,Obj1776,1842,,Mr DuPonceau,ppl:pdup,obj1715-s-1,6 Aug 1842,1842-08-06,DBW,ppl:dbw,,Philadelphia,obj1715-pl-728,
+15,obj1716,Obj1777,1842,,G Ord,ppl:gord,obj1716-s-1,13 Aug 1842,1842-08-13,DBW,ppl:dbw,,Philadelphia,obj1716-pl-729,
+16,obj1717,Obj1778,1842,,G. Ord,ppl:gord,obj1717-s-1,24 Aug 1842,1842-08-24,DBW,ppl:dbw,,Philadelphia,obj1717-pl-730,
+17,obj1718,Obj1779,1842,,Dr Winslow,ppl:cfwinslow,obj1718-s-1,17 Sep 1842 & Nov 19 1842,1842-11-19,DBW,ppl:dbw,,Nantucket,obj1718-pl-733,
+18,obj1719,Obj1780,1842,,Isaiah Townsend,ppl:ditj,obj1719-s-1,14 Oct 1842,1842-10-14,DBW,ppl:dbw,,,,
+19,obj1720,Obj1781,1842,,G. Ord,ppl:gord,obj1720-s-1,5 Nov 1842,1842-11-05,DBW,ppl:dbw,,,,
+20,obj1721,Obj1782,1842,,Dr Seymour,ppl:drseymour,obj1721-s-1,8 Nov 1842,1842-11-08,DBW,ppl:dbw,,Paris,obj1721-pl-740,
+21,obj1722,Obj1783,1842,,G. Ord,ppl:gord,obj1722-s-1,13 Nov 1842,1842-11-13,DBW,ppl:dbw,,Philadelphia,obj1722-pl-741,
+22,obj1723,Obj1784,1842,,Isaiah Townsend,ppl:ditj,obj1723-s-1,30 Dec 1842,1842-12-30,DBW,ppl:dbw,,,,
+1,obj1725,Obj1785,1843,,G. Ord,ppl:gord,obj1725-s-1,27 Jan 1843,1843-01-27,DBW,ppl:dbw,,,,
+2,obj1726,Obj1786,1843,,Mr Rich,ppl:orich,obj1726-s-1,7 Feb 1843,1843-02-07,DBW,ppl:dbw,,,,
+3,obj1727,Obj1787,1843,,Madame Charlotte A. H. Brooks,ppl:cahbrooks,obj1727-s-1,22 Feb 1843,1843-02-22,DBW,ppl:dbw,,20 Rue Monsieur La Prince,obj1727-pl-749,
+4,obj1728,Obj1788,1843,,Isaiah Townsend,ppl:ditj,obj1728-s-1,27 Feb 1843,1843-02-27,DBW,ppl:dbw,,Albany,obj1728-pl-750,
+5,obj1729,Obj1789,1843,,O Rich,ppl:orich,obj1729-s-1,4 March 1843,1843-03-04,DBW,ppl:dbw,,,,
+6,obj1730,Obj1790,1843,,Dr Samuel Martin Stephenson,ppl:sms,obj1730-s-1,22 March 1843,1843-03-22,DBW,ppl:dbw,,Belfast,obj1730-pl-752,
+7,obj1731,Obj1791,1843,,Isaiah Townsend,ppl:ditj,obj1731-s-1,28 April 1843,1843-04-28,DBW,ppl:dbw,,Albany,obj1731-pl-754,
+8,obj1732,Obj1792,1843,,Ord,ppl:gord,obj1732-s-1,19 May 1843,1843-05-19,DBW,ppl:dbw,,Philadelphia,obj1732-pl-755,
+9,obj1733,Obj1793,1843,,Mrs Patterson [Bonaparte],ppl:epb,obj1733-s-1,29 May 1843,1843-05-29,DBW,ppl:dbw,,Baltimore,obj1733-pl-756,
+10,obj1734,Obj1794,1843,legal,,,,,,,,,,,
+11,obj1735,Obj1795,1843,,Mme Brooks,ppl:cahbrooks,obj1735-s-1,3 June 1843,1843-06-03,DBW,ppl:dbw,,Rue Castiglione,obj1735-pl-758,
+12,obj1736,Obj1796,1843,,Dr S. M. Stephenson,ppl:sms,obj1736-s-1,14 June 1843,1843-06-14,DBW,ppl:dbw,,Belfast,obj1736-pl-762,
+13,obj1737,Obj1797,1843,,Charles Parker,ppl:cparker,obj1737-s-1,15 June 1843,1843-06-15,DBW,ppl:dbw,,London,obj1737-pl-763,
+14,obj1738,Obj1798,1843,,Wheaton Berlin,ppl:wberlin,obj1738-s-1,21 June 1843,1843-06-21,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Wheaton Berlin, 21 June 1843
+                        
+               
+                    Stated by Mr Guizot
+                         in the chamber of Deputies that you had made a communication to the
+                        Academy of Science about the projected [transcription incomplete]
+               
+                "
+15,obj1739,Obj1799,1843,,DuPonceau,ppl:pdup,obj1739-s-1,10 Aug 1843,1843-08-10,DBW,ppl:dbw,,"Phi,",obj1739-pl-765,
+16,obj1740,Obj1800,1843,,John Pickering,ppl:jpickering,obj1740-s-1,5 Sep 1843,1843-09-05,DBW,ppl:dbw,,Boston,obj1740-pl-766,
+17,obj1741,Obj1801,1843,,Dr Adams,ppl:jgadams,obj1741-s-1,25 Sep 1843,1843-09-25,DBW,ppl:dbw,,NY,obj1741-pl-767,
+18,obj1742,Obj1802,1843,,Robert M. Patterson,ppl:rmpatterson,obj1742-s-1,6 Oct 1843,1843-10-06,DBW,ppl:dbw,,Philadelphia,obj1742-pl-769,
+19,obj1743,Obj1803,1843,,Dr Adams,ppl:jgadams,obj1743-s-1,1 Nov 1843,1843-11-01,DBW,ppl:dbw,,New York,obj1743-pl-771,
+20,obj1744,Obj1804,1843,,Dr Adams,ppl:jgadams,obj1744-s-1,1 Nov 1843,1843-11-01,DBW,ppl:dbw,,,,
+21,obj1745,Obj1805,1843,,Dr J. C. Warren,ppl:jcwarren,obj1745-s-1,23 Dec [1843?],1843-12-23,DBW,ppl:dbw,,Paris,obj1745-pl-772,
+22,obj1746,Obj1806,1843,,Isaiah Townsend,ppl:ditj,obj1746-s-1,29 Dec 1843,1843-12-29,DBW,ppl:dbw,,Albany,obj1746-pl-773,
+23,obj1747,Obj1807,1843,,W. Adams,ppl:wadams,obj1747-s-1,30 Dec 1843,1843-12-30,DBW,ppl:dbw,,New York,obj1747-pl-777,
+24,obj1748,Obj1808,1843,,M. Wylie,ppl:sbw,obj1748-s-1,[1843],1843,DBW,ppl:dbw,,,,
+1,obj1750,Obj1809,1844,,Stephenson,ppl:sms,obj1750-s-1,12 Jan 1844,1844-01-12,DBW,ppl:dbw,,Belfast,obj1750-pl-781,
+2,obj1751,Obj1810,1844,,L.H. Sigourney,ppl:lhsigourney,obj1751-s-1,16 Jan 1844,1844-01-16,DBW,ppl:dbw,,"Harford, Connecticut",obj1751-pl-783,
+3,obj1752,Obj1811,1844,,Moncrue Robinson,ppl:mrob,obj1752-s-1,26 Jan 1844,1844-01-26,DBW,ppl:dbw,,Richmond,obj1752-pl-785,
+4,obj1753,Obj1812,1844,,Jonathan Thompson,ppl:jthompson,obj1753-s-1,17 Feb 1844,1844-02-17,DBW,ppl:dbw,,NY,obj1753-pl-786,
+5,obj1754,Obj1813,1844,,Isaiah Townsend,ppl:ditj,obj1754-s-1,26 Feb 1844,1844-02-26,DBW,ppl:dbw,,Albany,obj1754-pl-787,
+6,obj1755,Obj1814,1844,,William. C. Preston,ppl:wcp,obj1755-s-1,March 1844,1844-03,DBW,ppl:dbw,,Columbia,obj1755-pl-790,
+7,obj1756,Obj1815,1844,,Mr Wylie,ppl:sbw,obj1756-s-1,29 Mar 1844,1844-03-29,DBW,ppl:dbw,,New York,obj1756-pl-791,
+8,obj1757,Obj1816,1844,,Mr Charles [Brooks],ppl:ctbrooks,obj1757-s-1,22 April 1844,1844-04-22,DBW,ppl:dbw,,Boston,obj1757-pl-794,
+9,obj1758,Obj1817,1844,,N. Charles Jackson,ppl:ncjackson,obj1758-s-1,4 May 1844,1844-05-04,DBW,ppl:dbw,,Boston,obj1758-pl-799,
+10,obj1759,Obj1818,1844,,George Bancroft,ppl:geobancroft,obj1759-s-1,11 May 1844,1844-05-11,New York State Library,org:org_076,obj1759-on-145,Boston,obj1759-pl-803,
+11,obj1760,Obj1819,1844,,Jared Sparks,ppl:jasp,obj1760-s-1,10 May 1844,1844-05-10,DBW,ppl:dbw,,"Cambridge, Mass",obj1760-pl-805,
+12,obj1761,Obj1820,1844,,George Ord,ppl:gord,obj1761-s-1,13 May 1844,1844-05-13,DBW,ppl:dbw,,,,
+13,obj1762,Obj1821,1844,,Ord,ppl:gord,obj1762-s-1,17 May 1844,1844-05-17,DBW,ppl:dbw,,,,
+14,obj1763,Obj1822,1844,,Ord,ppl:gord,obj1763-s-1,18 May 1844,1844-05-18,DBW,ppl:dbw,,,,
+15,obj1764,Obj1823,1844,,Isaiah Townsend,ppl:ditj,obj1764-s-1,30 May 1844,1844-05-30,DBW,ppl:dbw,,,,
+16,obj1765,Obj1824,1844,,Dr Adams,ppl:jgadams,obj1765-s-1,17 June 1844,1844-06-17,DBW,ppl:dbw,,NY,obj1765-pl-815,
+17,obj1766,Obj1825,1844,,Isaiah Townsend,ppl:ditj,obj1766-s-1,28 June 1844,1844-06-28,DBW,ppl:dbw,,Albany,obj1766-pl-816,
+18,obj1767,Obj1826,1844,,Jonathan Thompson,ppl:jthompson,obj1767-s-1,19 Jul 1844,1844-07-19,DBW,ppl:dbw,,NY,obj1767-pl-818,
+19,obj1768,Obj1827,1844,,Robert Walsh,ppl:rwj,obj1768-s-1,29 Jul 1844,1844-07-29,DBW,ppl:dbw,,Versailles,obj1768-pl-819,
+20,obj1769,Obj1828,1844,,Robert Walsh,ppl:rwj,obj1769-s-1,9 Aug 1844,1844-08-09,DBW,ppl:dbw,,Versailles,obj1769-pl-821,
+21,obj1770,Obj1829,1844,,Madam Isobelle Cullemore/Callimore,ppl:icullemore,obj1770-s-1,11 Aug 1844,1844-08-11,DBW,ppl:dbw,,Hotel de France,obj1770-pl-822,
+22,obj1771,Obj1830,1844,,Walsh,ppl:rwj,obj1771-s-1,21 Aug 1844,1844-08-21,DBW,ppl:dbw,,Versailles,obj1771-pl-825,
+23,obj1772,Obj1831,1844,,Walsh,ppl:rwj,obj1772-s-1,27 Aug 1844,1844-08-27,DBW,ppl:dbw,,Versailles,obj1772-pl-830,
+24,obj1773,Obj1832,1844,,Dr Washington,ppl:jawashington,obj1773-s-1,6 Oct 1844,1844-10-06,DBW,ppl:dbw,,New York,obj1773-pl-833,
+25,obj1774,Obj1833,1844,,Isaiah Townsend,ppl:ditj,obj1774-s-1,10 Oct 1844,1844-10-10,DBW,ppl:dbw,,,,
+26,obj1775,Obj1834,1844,,Col. William Drayton,ppl:wdrayton,obj1775-s-1,22 Oct 1844,1844-10-22,DBW,ppl:dbw,,Philadelphia,obj1775-pl-838,
+27,obj1776,Obj1835,1844,,Dr Adams,ppl:jgadams,obj1776-s-1,1 Nov 1844,1844-11-01,DBW,ppl:dbw,,NY,obj1776-pl-840,
+28,obj1777,Obj1836,1844,legal,,,,,,,,,,,
+29,obj1778,Obj1837,1844,,Ben P. Poore,ppl:bppoore,obj1778-s-1,[Dec 1844],1844-12,DBW,ppl:dbw,,,,
+30,obj1779,Obj1838,1844,,Seymour,ppl:drseymour,obj1779-s-1,25 [?Dec? 1844],1844-12-25,DBW,ppl:dbw,,,,
+1,obj1781,Obj1839,1845,,Townsend,ppl:ditj,obj1781-s-1,25 Jan 1845,1845-01-25,DBW,ppl:dbw,,,,
+2,obj1782,Obj1840,1845,,Robert Walsh,ppl:rwj,obj1782-s-1,19 Feb 1845,1845-02-19,DBW,ppl:dbw,,,,
+3,obj1783,Obj1841,1845,,Isaiah Townsend,ppl:ditj,obj1783-s-1,27 Feb 1845,1845-02-27,DBW,ppl:dbw,,,,
+4,obj1784,Obj1842,1845,,Peter Wendell,ppl:pwendell,obj1784-s-1,28 [?April?] 1845,1845-04-28,DBW,ppl:dbw,,Albany,obj1784-pl-853,
+5,obj1785,Obj1843,1845,,Isaiah Townsend,ppl:ditj,obj1785-s-1,13 & 27 April 1845,1845-04-27,DBW,ppl:dbw,,,,
+6,obj1786,Obj1844,1845,,Townsend,ppl:ditj,obj1786-s-1,29 April 1845,1845-04-29,DBW,ppl:dbw,,,,
+7,obj1787,Obj1845,1845,,American Philosophical Society,org:org_011,obj1787-on-155,19 July 1844,1844-07-19,DBW,ppl:dbw,,,,
+8,obj1788,Obj1846,1845,,G Ord,ppl:gord,obj1788-s-1,23 July 1844,1844-07-23,DBW,ppl:dbw,,,,
+9,obj1789,Obj1847,1845,,Rev. Dr H. Potter,ppl:dhpotter,obj1789-s-1,7 Sep 1845,1845-09-07,DBW,ppl:dbw,,,,
+1,obj1791,Obj1848,1846,,Department of State,org:org_031,obj1791-on-157,26 Feb 1846,1846-02-26,DBW,ppl:dbw,,Washington,obj1791-pl-861,
+2,obj1792,Obj1849,1846,not_letter,,,,12 May 1846,1846-05-12,,,,,,
+1,obj1797,Obj1943,Undated letters,,Bagge,ppl:_bagge,obj1797-s-1,,,DBW,ppl:dbw,,Tripoli,obj1797-pl-864,"
+                    
+                    
+                  
+                            Bagge, Consul Sudois a Tripoli
+                        
+               
+                    
+                        M. Bagge – to be transcribed 
+               
+                "
+2,obj1798,Obj1944,Undated letters,,Major Blacher,ppl:majorblacher,obj1798-s-1,,,DBW,ppl:dbw,,,,
+3,obj1799,Obj1850,Undated letters,,Elizabeth Patterson [Bonaparte],ppl:epb,obj1799-s-1,,,DBW,ppl:dbw,,,,
+4,obj1800,Obj1851,Undated letters,,Elizabeth Patterson [Bonaparte],ppl:epb,obj1800-s-1,,,DBW,ppl:dbw,,,,
+5,obj1801,Obj1852,Undated letters,,Buchanan,ppl:mbuchanan,obj1801-s-1,[c. 1817],1817,DBW,ppl:dbw,,,,
+6,obj1802,Obj1853,Undated letters,,Le Ray de Chaumont,ppl:jlrdechaumont,obj1802-s-1,,,DBW,ppl:dbw,,,,
+7,obj1803,Obj1854,Undated letters,,Benjamin Constant,ppl:bcon,obj1803-s-1,,,DBW,ppl:dbw,,,,
+8,obj1804,Obj1855,Undated letters,,James Fenimore Cooper,ppl:jfcooper,obj1804-s-1,,,DBW,ppl:dbw,,,,
+9,obj1805,Obj1856,Undated letters,,Amelia Curran,ppl:acu,obj1805-s-1,,,DBW,ppl:dbw,,,,
+10,obj1806,Obj1857,Undated letters,,Anne Cuvier,ppl:acuvier,obj1806-s-1,,,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Anne Cuvier, n.d.
+                        
+               
+                    re. Mme Junker 
+               
+                    
+                        [photo] – not yet transcribed
+               
+                "
+11,obj1807,Obj1858,Undated letters,,Gay-Lussac,ppl:jgaylussac,obj1807-s-1,,,DBW,ppl:dbw,,,,
+12,obj1808,Obj1859,Undated letters,,Louisa Hersent,ppl:lmjhersent,obj1808-s-1,,,DBW,ppl:dbw,,,,
+13,obj1809,Obj1860,Undated letters,,Henri Gregoire,ppl:hgreg,obj1809-s-1,"9 Sep, n.d",,DBW,ppl:dbw,,,,
+14,obj1810,Obj1861,Undated letters,,Gregoire,ppl:hgreg,obj1810-s-1,,,DBW,ppl:dbw,,,,
+15,obj1811,Obj1862,Undated letters,,Gregoire,ppl:hgreg,obj1811-s-1,,,DBW,ppl:dbw,,,,
+16,obj1812,Obj1863,Undated letters,,Gregoire,ppl:hgreg,obj1812-s-1,,,DBW,ppl:dbw,,,,
+17,obj1813,Obj1864,Undated letters,,Gregoire,ppl:hgreg,obj1813-s-1,,,DBW,ppl:dbw,,,,
+18,obj1814,Obj1865,Undated letters,,Gregoire,ppl:hgreg,obj1814-s-1,,,DBW,ppl:dbw,,,,
+19,obj1815,Obj1866,Undated letters,,Gregoire,ppl:hgreg,obj1815-s-1,19 Nov. n.d.,,DBW,ppl:dbw,,,,
+20,obj1816,Obj1867,Undated letters,,Gregoire,ppl:hgreg,obj1816-s-1,,,DBW,ppl:dbw,,,,
+21,obj1817,Obj1868,Undated letters,,Gregoire,ppl:hgreg,obj1817-s-1,"12 October, n.d.",,DBW,ppl:dbw,,,,
+22,obj1818,Obj1869,Undated letters,,Gregoire,ppl:hgreg,obj1818-s-1,,,DBW,ppl:dbw,,,,
+23,obj1819,Obj1870,Undated letters,,Gregoire,ppl:hgreg,obj1819-s-1,"18 Oct, n.d.",,DBW,ppl:dbw,,,,
+24,obj1820,Obj1871,Undated letters,,Gregoire,ppl:hgreg,obj1820-s-1,"6 Jul, n.d.",,DBW,ppl:dbw,,,,
+25,obj1821,Obj1872,Undated letters,,Gregoire,ppl:hgreg,obj1821-s-1,"12 Jul, n.d.",,DBW,ppl:dbw,,,,
+26,obj1822,Obj1873,Undated letters,,Gregoire,ppl:hgreg,obj1822-s-1,,,DBW,ppl:dbw,,,,
+27,obj1823,Obj1874,Undated letters,,Gregoire,ppl:hgreg,obj1823-s-1,5 Sep n.d.,,DBW,ppl:dbw,,,,
+28,obj1824,Obj1875,Undated letters,,Gregoire,ppl:hgreg,obj1824-s-1,30 Oct n.d.,,DBW,ppl:dbw,,,,
+29,obj1825,Obj1876,Undated letters,,Gregoire,ppl:hgreg,obj1825-s-1,9 Sep n.d.,,DBW,ppl:dbw,,,,
+30,obj1826,Obj1877,Undated letters,,Gregoire,ppl:hgreg,obj1826-s-1,,,DBW,ppl:dbw,,,,
+31,obj1827,Obj1878,Undated letters,,Gregoire,ppl:hgreg,obj1827-s-1,,,DBW,ppl:dbw,,,,
+32,obj1828,Obj1879,Undated letters,,Humboldt,ppl:humboldt,obj1828-s-1,,,DBW,ppl:dbw,,,,
+33,obj1829,Obj1880,Undated letters,,Humboldt,ppl:humboldt,obj1829-s-1,,,DBW,ppl:dbw,,,,
+34,obj1830,Obj1881,Undated letters,,Humboldt,ppl:humboldt,obj1830-s-1,,,DBW,ppl:dbw,,,,
+35,obj1831,Obj1882,Undated letters,,Humboldt,ppl:humboldt,obj1831-s-1,,,DBW,ppl:dbw,,,,
+36,obj1832,Obj1883,Undated letters,,Humboldt,ppl:humboldt,obj1832-s-1,,,DBW,ppl:dbw,,,,
+37,obj1833,Obj1884,Undated letters,,Humboldt,ppl:humboldt,obj1833-s-1,,,DBW,ppl:dbw,,,,
+38,obj1834,Obj1885,Undated letters,,Humboldt,ppl:humboldt,obj1834-s-1,,,DBW,ppl:dbw,,,,
+39,obj1835,Obj1886,Undated letters,,Humboldt,ppl:humboldt,obj1835-s-1,,,DBW,ppl:dbw,,,,
+40,obj1836,Obj1887,Undated letters,,Humboldt,ppl:humboldt,obj1836-s-1,,,DBW,ppl:dbw,,,,
+41,obj1837,Obj1888,Undated letters,,Humboldt,ppl:humboldt,obj1837-s-1,,,DBW,ppl:dbw,,,,
+42,obj1838,Obj1889,Undated letters,,Humboldt,ppl:humboldt,obj1838-s-1,,,DBW,ppl:dbw,,,,
+43,obj1839,Obj1890,Undated letters,,Humboldt,ppl:humboldt,obj1839-s-1,,,DBW,ppl:dbw,,,,
+44,obj1840,Obj1891,Undated letters,,Humboldt,ppl:humboldt,obj1840-s-1,,,DBW,ppl:dbw,,,,
+45,obj1841,Obj1892,Undated letters,,Humboldt,ppl:humboldt,obj1841-s-1,,,DBW,ppl:dbw,,,,
+46,obj1842,Obj1893,Undated letters,,Humboldt,ppl:humboldt,obj1842-s-1,,,DBW,ppl:dbw,,,,
+47,obj1843,Obj1894,Undated letters,,Humboldt,ppl:humboldt,obj1843-s-1,,,DBW,ppl:dbw,,,,
+48,obj1844,Obj1895,Undated letters,,Humboldt,ppl:humboldt,obj1844-s-1,,,DBW,ppl:dbw,,,,
+49,obj1845,Obj1896,Undated letters,,Humboldt,ppl:humboldt,obj1845-s-1,,,DBW,ppl:dbw,,,,
+50,obj1846,Obj1897,Undated letters,,Humboldt,ppl:humboldt,obj1846-s-1,,,DBW,ppl:dbw,,,,
+51,obj1847,Obj1897,Undated letters,,Humboldt,ppl:humboldt,obj1847-s-1,,,DBW,ppl:dbw,,,,
+52,obj1848,Obj1898,Undated letters,,Humboldt,ppl:humboldt,obj1848-s-1,[1823],1823,DBW,ppl:dbw,,,,
+53,obj1849,Obj1898,Undated letters,,Humboldt,ppl:humboldt,obj1849-s-1,,,DBW,ppl:dbw,,,,
+54,obj1850,Obj1899,Undated letters,,Humboldt,ppl:humboldt,obj1850-s-1,,,DBW,ppl:dbw,,,,
+55,obj1851,Obj1900,Undated letters,,Humboldt,ppl:humboldt,obj1851-s-1,,,DBW,ppl:dbw,,,,
+56,obj1852,Obj1901,Undated letters,,Humboldt,ppl:humboldt,obj1852-s-1,,,DBW,ppl:dbw,,,,
+57,obj1853,Obj1902,Undated letters,,Humboldt,ppl:humboldt,obj1853-s-1,,,DBW,ppl:dbw,,,,
+58,obj1854,Obj1903,Undated letters,,Humboldt,ppl:humboldt,obj1854-s-1,,,DBW,ppl:dbw,,,,
+59,obj1855,Obj1904,Undated letters,,Humboldt,ppl:humboldt,obj1855-s-1,,,DBW,ppl:dbw,,,,
+60,obj1856,Obj1905,Undated letters,,Humboldt,ppl:humboldt,obj1856-s-1,,,DBW,ppl:dbw,,,,
+61,obj1857,Obj1906,Undated letters,,Charles Jackson,ppl:ctjackson,obj1857-s-1,,,DBW,ppl:dbw,,,,
+62,obj1858,Obj1907,Undated letters,,LaFayette,ppl:lafayette,obj1858-s-1,,,DBW,ppl:dbw,,Paris,obj1858-pl-937,
+63,obj1859,Obj1908,Undated letters,,Lamon,ppl:_lamon,obj1859-s-1,,,DBW,ppl:dbw,,,,
+64,obj1860,Obj1909,Undated letters,,S. Langles,ppl:slangles,obj1860-s-1,,,DBW,ppl:dbw,,,,
+65,obj1861,Obj1910,Undated letters,,Ladoucette,ppl:jcfladoucette,obj1861-s-1,,,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Ladoucette, n.d
+                        
+               
+                     
+                        [photo] – not yet transcribed 
+               
+                "
+66,obj1862,Obj1911,Undated letters,,Major Lee [Major Henry Lee IV],ppl:henrylee,obj1862-s-1,[c.1824-c.1827],,DBW,ppl:dbw,,,,
+67,obj1863,Obj1912,Undated letters,,Nugent Le More,ppl:nlemore,obj1863-s-1,[post-1816],,DBW,ppl:dbw,,,,
+68,obj1864,Obj1913,Undated letters,,Nugent Le More,ppl:nlemore,obj1864-s-1,[post-1816],,DBW,ppl:dbw,,,,
+69,obj1865,Obj1914,Undated letters,,Dr William Macneven,ppl:wmacneven,obj1865-s-1,,,DBW,ppl:dbw,,,,
+70,obj1866,Obj1915,Undated letters,,Miss Masterson,ppl:missmasterson,obj1866-s-1,,,DBW,ppl:dbw,,,,
+71,obj1867,Obj1916,Undated letters,,Sam Mitchell,ppl:slmi,obj1867-s-1,,,DBW,ppl:dbw,,,,
+72,obj1868,Obj1917,Undated letters,,Madame de Montbret,ppl:mmedmontbret,obj1868-s-1,,,DBW,ppl:dbw,,,,
+73,obj1869,Obj1918,Undated letters,,Charles [Morgan],ppl:cmorgan,obj1869-s-1,,,DBW,ppl:dbw,,,,
+74,obj1870,Obj1919,Undated letters,,Lady Morgan,ppl:slmo,obj1870-s-1,16 Nov [1818?],1818-11-16,DBW,ppl:dbw,,rue d’Artur,obj1870-pl-944,
+75,obj1871,Obj1920,Undated letters,,Lady Morgan,ppl:slmo,obj1871-s-1,[1818],1818,DBW,ppl:dbw,,,,
+76,obj1872,Obj1921,Undated letters,,Lady Morgan,ppl:slmo,obj1872-s-1,[1818],1818,DBW,ppl:dbw,,,,
+77,obj1873,Obj1922,Undated letters,,Lady Morgan,ppl:slmo,obj1873-s-1,[1818],1818,DBW,ppl:dbw,,,,
+78,obj1874,Obj1923,Undated letters,,[Lady Morgan],ppl:slmo,obj1874-s-1,[1818],1818,DBW,ppl:dbw,,,,
+79,obj1875,Obj1924,Undated letters,,Lady Morgan,ppl:slmo,obj1875-s-1,[1818],1818,DBW,ppl:dbw,,,,
+80,obj1876,Obj1925,Undated letters,,Lady Morgan,ppl:slmo,obj1876-s-1,[1818],1818,DBW,ppl:dbw,,,,
+81,obj1877,Obj1926,Undated letters,,Lady Morgan,ppl:slmo,obj1877-s-1,[1818],1818,DBW,ppl:dbw,,,,
+82,obj1878,Obj1927,Undated letters,,Sir Charles Morgan,ppl:cmorgan,obj1878-s-1,[1818],1818,DBW,ppl:dbw,,,,
+83,obj1879,Obj1928,Undated letters,,Charles Morgan,ppl:cmorgan,obj1879-s-1,[1818],1818,DBW,ppl:dbw,,,,
+84,obj1880,Obj1929,Undated letters,,Dr Olin,ppl:solin,obj1880-s-1,,,DBW,ppl:dbw,,,,
+85,obj1881,Obj1930,Undated letters,,T O’Meara,ppl:tomeara,obj1881-s-1,,,DBW,ppl:dbw,,,,
+86,obj1882,Obj1931,Undated letters,,M. C. Patterson,ppl:mcp,obj1882-s-1,,,DBW,ppl:dbw,,,,
+87,obj1883,Obj1932,Undated letters,,John Howard Payne,ppl:jhp,obj1883-s-1,,,DBW,ppl:dbw,,London,obj1883-pl-948,
+88,obj1884,Obj1933,Undated letters,,Emma de Perrey,ppl:edperrey,obj1884-s-1,,,DBW,ppl:dbw,,,,
+89,obj1885,Obj1934,Undated letters,,Puttand,ppl:_puttand,obj1885-s-1,,,DBW,ppl:dbw,,,,
+90,obj1886,Obj1935,Undated letters,,J Robertson,ppl:jrobertson,obj1886-s-1,,,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            J Robertson, n.d
+                        
+               
+                    
+                        [photo]- not yet transcribed
+               
+                "
+91,obj1887,Obj1936,Undated letters,,Rodman,ppl:jrodman,obj1887-s-1,,,DBW,ppl:dbw,,,,
+92,obj1888,Obj1937,Undated letters,,Rousseau,ppl:_rousseau,obj1888-s-1,,,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            Rousseau 
+                     [photo] , n.d
+                        
+               
+                    
+                        not yet transcribed
+               
+                "
+93,obj1889,Obj1938,Undated letters,,A R. Thompson,ppl:arthompson,obj1889-s-1,,,DBW,ppl:dbw,,,,"
+                    
+                    
+                  
+                            A R. Thompson, n.d
+                        
+               
+                    
+                        not yet transcribed
+               
+                "
+94,obj1890,Obj1939,Undated letters,,William Wolfe Tone,ppl:wtwtone,obj1890-s-1,[c.1821],1821,DBW,ppl:dbw,,,,
+95,obj1891,Obj1940,Undated letters,,William Wolfe Tone,ppl:wtwtone,obj1891-s-1,[c.1826-1828],,DBW,ppl:dbw,,,,
+96,obj1892,Obj1941,Undated letters,,Isaiah Townsend,ppl:ditj,obj1892-s-1,,,DBW,ppl:dbw,,,,
+97,obj1893,Obj1942,Undated letters,,H P Van Bibber,ppl:hpvbibber,obj1893-s-1,,,DBW,ppl:dbw,,,,
